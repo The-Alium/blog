@@ -8,8 +8,4 @@ authors:
   - "ukdev"
 ---
 
----
-
-Also I wanted to add something personal to this post, so there is one of my photos I made during [Valgus kõnnib day](https://www.tallinn.ee/et/valguskonnib).
-
 ![teee](background.jpg)
