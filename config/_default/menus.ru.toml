@@ -16,13 +16,13 @@
 #  weight = 10
 
 [[main]]
-  name = "Main"
+  name = "Главная"
   weight = 10
   pageRef = "/"
 
 [[main]]
- name = "Posts"
- parent = "Main"
+ name = "Посты"
+ parent = "Главная"
  pageRef = "posts"
  weight = 20
 
