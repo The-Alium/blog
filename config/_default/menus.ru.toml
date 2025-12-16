@@ -21,10 +21,15 @@
   pageRef = "/"
 
 [[main]]
- name = "Посты"
- parent = "Главная"
- pageRef = "posts"
- weight = 20
+  name = "Посты"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Теги"
+  parent = "Посты"
+  pageRef = "tags"
+  weight = 10
 
 #[[main]]
 #  name = "example sub-menu 2"
@@ -36,11 +41,6 @@
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
-
-# [[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -68,7 +68,6 @@
   name = "Steam"
   url = "https://steamcommunity.com/groups/thealium"
   weight = 20
-
 
 [[footer]]
   pre = "discord"
