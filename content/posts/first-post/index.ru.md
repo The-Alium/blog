@@ -10,4 +10,6 @@ authors:
 
 ---
 
+The Alium is a Garry's Mod and other Source games community based on the Steam Group with some specific concepts and rules.
+
 ![teee](cover.jpg)
