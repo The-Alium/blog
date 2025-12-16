@@ -1,0 +1,101 @@
+{{/* Determine the correct context and scope */}}
+{{/* This allows for different logic depending on where the partial is called */}}
+{{ $context := . }}
+{{ $scope := default nil }}
+
+{{ if (reflect.IsMap . ) }}
+  {{ $context = .context }}
+  {{ $scope = cond (not .scope) nil .scope }}
+{{ end }}
+
+{{ with $context }}
+  {{ $meta := newScratch }}
+
+  {{ if and (eq $scope "single") (.Params.showDate | default (.Site.Params.article.showDate | default true) ) }}
+    {{ $meta.Add "partials_top" (slice (partial "meta/date.html" .Date)) }}
+  {{ end }}
+
+  {{ if and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial
+    "functions/date.html" .Date) (partial "functions/date.html" .Lastmod)) (gt (.Lastmod | time.Format "2006") 1)
+  }}
+    {{ $meta.Add "partials_top" (slice (partial "meta/date-updated.html" .Lastmod)) }}
+  {{ end }}
+
+  {{ if (eq $scope "single") }}
+    {{/*  {{ if (.Params.showEdit | default (.Site.Params.article.showEdit | default false)) }}
+      {{ $meta.Add "partials_top" (slice (partial "meta/edit.html" .)) }}
+    {{ end }}
+
+    {{ if (.Params.showZenMode | default (.Site.Params.article.showZenMode | default false)) }}
+      {{ $meta.Add "partials_top" (slice (partial "meta/zen-mode.html" .)) }}
+    {{ end }}
+  */}}
+    {{ if and (.Params.showWordCount | default (.Site.Params.article.showWordCount | default false)) (ne .WordCount 0) }}
+      {{ $meta.Add "partials_center" (slice (partial "meta/word-count.html" .)) }}
+    {{ end }}
+
+    {{ if and (.Params.showReadingTime | default (.Site.Params.article.showReadingTime | default true)) (ne .ReadingTime 0) }}
+      {{ $meta.Add "partials_center" (slice (partial "meta/reading-time.html" .)) }}
+    {{ end }}
+  {{ end }}
+
+  {{ if (not .Params.externalURL) }}
+    {{ if and (eq $scope "single") (.Params.showViews | default (.Site.Params.article.showViews | default false)) }}
+      {{ $meta.Add "partials_top" (slice (partial "meta/views.html" .)) }}
+    {{ end }}
+
+    {{ if (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
+      {{ if and (eq $scope "single") }}
+        {{ $meta.Add "partials_bottom" (slice (partial "meta/likes_button.html" .)) }}
+      {{ else }}
+        {{ $meta.Add "partials_bottom" (slice (partial "meta/likes.html" .)) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <div class="flex flex-row flex-wrap items-center">
+    {{ with ($meta.Get "partials_top") }}
+      {{ delimit . "<span class=\"px-2 text-primary-500\">&middot;</span>" | safeHTML }}
+    {{ end }}
+  </div>
+
+  <div class="flex flex-row flex-wrap items-center">
+    {{ with ($meta.Get "partials_center") }}
+      {{ delimit . "<span class=\"px-2 text-primary-500\">&middot;</span>" | safeHTML }}
+    {{ end }}
+  </div>
+
+  <div class="flex flex-row flex-wrap items-center">
+    {{ with ($meta.Get "partials_bottom") }}
+      {{ delimit . "<span class=\"px-2 text-primary-500\">&middot;</span>" | safeHTML }}
+    {{ end }}
+  </div>
+
+  {{ if (eq $scope "single") }}
+    <div class="flex flex-row flex-wrap items-center">
+      {{ range $taxonomy, $terms := .Site.Taxonomies }}
+        {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series")) }}
+          {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
+            {{ range $context.GetTerms $taxonomy }}
+              <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">
+                {{ partial "badge.html" .LinkTitle }}
+              </a>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{/* Output only category */}}
+  {{ if .Params.showCategoryOnly | default (.Site.Params.article.showCategoryOnly | default false) }}
+    <div class="flex flex-row flex-wrap items-center">
+      {{ range (.GetTerms "categories") }}
+        <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">
+          {{ partial "badge.html" .LinkTitle }}
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ end }}
