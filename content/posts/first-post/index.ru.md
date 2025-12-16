@@ -5,7 +5,7 @@ description: "Это тестовый пост что вероятно буде�
 summary: "Бла бла бла."
 tags: ["welcome", "new", "about", "first"]
 authors:
-  - "ukdev"
+  - "unknown-developer"
 ---
 
 ---
