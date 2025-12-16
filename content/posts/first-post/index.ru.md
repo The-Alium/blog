@@ -10,4 +10,4 @@ authors:
 
 ---
 
-![teee](background.jpg)
+![teee](cover.jpg)
