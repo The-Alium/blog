@@ -26,9 +26,9 @@
   weight = 20
 
 [[main]]
-  name = "Категории"
+  name = "Статьи"
   parent = "Посты"
-  pageRef = "categories"
+  pageRef = "series"
   weight = 10
 
 [[main]]

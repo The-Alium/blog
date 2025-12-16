@@ -26,9 +26,9 @@
   weight = 20
 
 [[main]]
-  name = "Categories"
+  name = "Series"
   parent = "Posts"
-  pageRef = "categories"
+  pageRef = "series"
   weight = 10
 
 [[main]]

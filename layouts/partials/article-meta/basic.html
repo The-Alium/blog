@@ -88,7 +88,7 @@
   {{ end }}
 
   {{/* Output only category */}}
-  {{ if .Params.showCategoryOnly | default (.Site.Params.article.showCategoryOnly | default false) }}
+  {{/*  {{ if .Params.showCategoryOnly | default (.Site.Params.article.showCategoryOnly | default false) }}
     <div class="flex flex-row flex-wrap items-center">
       {{ range (.GetTerms "categories") }}
         <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">
@@ -96,6 +96,6 @@
         </a>
       {{ end }}
     </div>
-  {{ end }}
+  {{ end }}  */}}
 
   {{ end }}
