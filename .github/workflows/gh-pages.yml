@@ -5,6 +5,11 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-24.04
@@ -24,6 +29,9 @@ jobs:
 
       - name: Build
         run: hugo --minify
+
+      - name: CNAME
+        run: echo "alium.p1ka.eu" > public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
