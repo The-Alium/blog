@@ -26,16 +26,16 @@
   weight = 20
 
 [[main]]
+  name = "Categories"
+  parent = "Posts"
+  pageRef = "categories"
+  weight = 10
+
+[[main]]
   name = "Tags"
   parent = "Posts"
   pageRef = "tags"
-  weight = 10
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+  weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"
@@ -45,17 +45,6 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
-
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
 
 [[footer]]
   pre = "github"
