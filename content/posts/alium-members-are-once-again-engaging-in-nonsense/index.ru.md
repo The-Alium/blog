@@ -4,7 +4,7 @@ date: 2023-12-07
 draft: false
 description: "Алиумцы вновь страдают фигнёй и делают непонятное"
 summary: "Релиз TTT Null RPG"
-tags: ["news", "about","Local Matter"]
+tags: ["news", "Local Matter"]
 authors:
   - "gunter"
 ---
