@@ -1,9 +1,9 @@
 {
-    "name": "Erick Maksimets",
-    "image": "img/authors/erick-maksimets.jpg",
-    "bio": "Check out my new video!",
-    "social": [
-        { "youtube": "https://www.youtube.com/@ErickMaksimets" },
-        { "steam": "https://steamcommunity.com/id/ErickMaksimets" }
-    ]
+  "name": "Erick Maksimets",
+  "image": "img/authors/erick-maksimets.jpg",
+  "bio": "Starry Steam Officer",
+  "social": [
+    { "youtube": "https://www.youtube.com/@ErickMaksimets" },
+    { "steam": "https://steamcommunity.com/id/ErickMaksimets" }
+  ]
 }

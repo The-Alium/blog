@@ -1,8 +1,8 @@
 {
-    "name": "DenDi85",
-    "image": "img/authors/dendi85.jpg",
-    "bio": "Denis",
-    "social": [
-        { "steam": "https://steamcommunity.com/profiles/76561198393560436/" }
-    ]
+  "name": "DenDi85",
+  "image": "img/authors/dendi85.jpg",
+  "bio": "Starry Steam Publicist",
+  "social": [
+    { "steam": "https://steamcommunity.com/profiles/76561198393560436/" }
+  ]
 }

@@ -1,10 +1,10 @@
 {
-    "name": "Unknown Developer",
-    "image": "img/authors/unknown-developer.png",
-    "bio": "Software Developer",
-    "social": [
-        { "github": "https://github.com/unknown-gd" },
-        { "youtube": "https://youtube.com/@unknown-developer" },
-        { "steam": "https://steamcommunity.com/id/unknown-gd" }
-    ]
+  "name": "Unknown Developer",
+  "image": "img/authors/unknown-developer.png",
+  "bio": "Pika Software External Officer",
+  "social": [
+    { "github": "https://github.com/unknown-gd" },
+    { "youtube": "https://youtube.com/@unknown-developer" },
+    { "steam": "https://steamcommunity.com/id/unknown-gd" }
+  ]
 }
