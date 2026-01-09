@@ -3,6 +3,12 @@ title: "Добро пожаловать в Alium!"
 description: "The Alium - это сообщество, которое основывается на Garry's mod и других Source играх."
 ---
 
+{{< alert >}}
+**Warning!** This website is still under construction!
+{{< /alert >}}
+
+<BR>
+
 # Добро пожаловать!
 
 The Alium - это сообщество, которое основывается на Garry's mod и других Source играх.

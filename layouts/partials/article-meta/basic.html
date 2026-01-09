@@ -15,12 +15,6 @@
     {{ $meta.Add "partials_top" (slice (partial "meta/date.html" .Date)) }}
   {{ end }}
 
-  {{ if and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial
-    "functions/date.html" .Date) (partial "functions/date.html" .Lastmod)) (gt (.Lastmod | time.Format "2006") 1)
-  }}
-    {{ $meta.Add "partials_top" (slice (partial "meta/date-updated.html" .Lastmod)) }}
-  {{ end }}
-
   {{ if (eq $scope "single") }}
     {{/*  {{ if (.Params.showEdit | default (.Site.Params.article.showEdit | default false)) }}
       {{ $meta.Add "partials_top" (slice (partial "meta/edit.html" .)) }}
@@ -39,6 +33,12 @@
     {{ end }}
   {{ end }}
 
+  {{ if and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial
+    "functions/date.html" .Date) (partial "functions/date.html" .Lastmod)) (gt (.Lastmod | time.Format "2006") 1)
+  }}
+    {{ $meta.Add "partials_top" (slice (partial "meta/date-updated.html" .Lastmod)) }}
+  {{ end }}
+
   {{ if (not .Params.externalURL) }}
     {{ if and (eq $scope "single") (.Params.showViews | default (.Site.Params.article.showViews | default false)) }}
       {{ $meta.Add "partials_top" (slice (partial "meta/views.html" .)) }}
@@ -54,6 +54,7 @@
   {{ end }}
 
   <div class="flex flex-row flex-wrap items-center">
+    {{/* Output partials */}}
     {{ with ($meta.Get "partials_top") }}
       {{ delimit . "<span class=\"px-2 text-primary-500\">&middot;</span>" | safeHTML }}
     {{ end }}
@@ -71,7 +72,32 @@
     {{ end }}
   </div>
 
-  {{ if (eq $scope "single") }}
+  {{/* Output draft label */}}
+  <div class="flex flex-row flex-wrap items-center">
+    {{ if and (eq $scope "single") (and .Draft .Site.Params.article.showDraftLabel) }}
+      <span class="ps-2">{{ partial "badge.html" (i18n "article.draft" | emojify) }}</span>
+    {{ end }}
+  </div>
+
+  {{/*
+  {{ if and (not (eq $scope "single")) (.Params.showAuthorsBadges | default (.Site.Params.article.showAuthorsBadges | default false) ) }}
+    <div class="flex flex-row flex-wrap items-center">
+      {{ range $taxonomy, $terms := .Site.Taxonomies }}
+        {{ if (eq $taxonomy "authors") }}
+          {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
+            {{ range $i, $a := $context.GetTerms $taxonomy }}
+              {{ if not (eq $i 0) }}
+                ,&nbsp;
+              {{ end }}
+              <a href="{{ $a.RelPermalink }}" class="relative">{{ $a.LinkTitle }}</a>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}  */}}
+
+  {{ if (.Params.showTaxonomies | default (.Site.Params.article.showTaxonomies | default false) ) }}
     <div class="flex flex-row flex-wrap items-center">
       {{ range $taxonomy, $terms := .Site.Taxonomies }}
         {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series")) }}
@@ -88,7 +114,7 @@
   {{ end }}
 
   {{/* Output only category */}}
-  {{/*  {{ if .Params.showCategoryOnly | default (.Site.Params.article.showCategoryOnly | default false) }}
+  {{ if .Params.showCategoryOnly | default (.Site.Params.article.showCategoryOnly | default false) }}
     <div class="flex flex-row flex-wrap items-center">
       {{ range (.GetTerms "categories") }}
         <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">
@@ -96,6 +122,5 @@
         </a>
       {{ end }}
     </div>
-  {{ end }}  */}}
-
   {{ end }}
+{{ end }}
