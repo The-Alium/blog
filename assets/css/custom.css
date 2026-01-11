@@ -1,16 +1,13 @@
 .info-block {
-  /* background-color: rgba(var(--color-neutral-900), 0.9); */
-  border-color: rgba(var(--color-neutral-400), 1);
-  background-color: rgba(27, 40, 56, 0.9);
   padding: 0.25rem 2rem 0.25rem 2rem;
   margin-bottom: 2.5rem;
-  overflow: visible;
 }
 
-.info-block-image {
-  position: absolute;
-  right: -15%;         /* push outside */
-  bottom: 0;        /* push outside */
-  width: 30%;
-  margin-bottom: 0;
+.text-justify {
+  text-align: justify;
 }
+
+/*
+.prose {
+  font-size: 1.2rem;
+} */

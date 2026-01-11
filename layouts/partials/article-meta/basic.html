@@ -18,18 +18,18 @@
   {{ if (eq $scope "single") }}
     {{/*  {{ if (.Params.showEdit | default (.Site.Params.article.showEdit | default false)) }}
       {{ $meta.Add "partials_top" (slice (partial "meta/edit.html" .)) }}
-    {{ end }}
+    {{ end }}  */}}
 
-    {{ if (.Params.showZenMode | default (.Site.Params.article.showZenMode | default false)) }}
-      {{ $meta.Add "partials_top" (slice (partial "meta/zen-mode.html" .)) }}
-    {{ end }}
-  */}}
     {{ if and (.Params.showWordCount | default (.Site.Params.article.showWordCount | default false)) (ne .WordCount 0) }}
       {{ $meta.Add "partials_center" (slice (partial "meta/word-count.html" .)) }}
     {{ end }}
 
     {{ if and (.Params.showReadingTime | default (.Site.Params.article.showReadingTime | default true)) (ne .ReadingTime 0) }}
       {{ $meta.Add "partials_center" (slice (partial "meta/reading-time.html" .)) }}
+    {{ end }}
+
+    {{ if (.Params.showZenMode | default (.Site.Params.article.showZenMode | default false)) }}
+      {{ $meta.Add "partials_center" (slice (partial "meta/zen-mode.html" .)) }}
     {{ end }}
   {{ end }}
 

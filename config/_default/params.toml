@@ -11,25 +11,29 @@ autoSwitchAppearance = true
 
 enableA11y = false
 enableSearch = true
-enableCodeCopy = false
-enableStructuredBreadcrumbs = false
+enableCodeCopy = true
+enableStyledScrollbar = true
+enableStructuredBreadcrumbs = true
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = true
+disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # used as default for background images
 defaultBackgroundImage = "img/poster_history.jpg"
+# defaultBackgroundImage = "/img/background.svg"
 # used as default for featured images in all articles
+# defaultFeaturedImage = "/img/featured.svg"
 # defaultFeaturedImage = "IMAGE.jpg"
 # used as default for social media sharing (Open Graph and Twitter)
 # defaultSocialImage = "/android-chrome-512x512.png"
+# defaultSocialImage = "/img/blowfish_banner.png"
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 
@@ -37,18 +41,18 @@ highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
+fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
+
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
-fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
-
 [header]
-  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = false
+  showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -108,14 +112,14 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showAuthorsBadges = true
   showWordCount = true
 
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = false
+  sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email", "line"]
+  showZenMode = true
 
 [list]
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = true
   showViews = false
@@ -138,8 +142,8 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
-  cardView = false
+  showTableOfContents = false
+  cardView = true
 
 [term]
   showHero = true
@@ -170,11 +174,11 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # domain = "llama.yoursite.com"
   # dataDomains = "yoursite.com,yoursite2.com"
   # scriptName = ""
-  # enableTrackEvent = true
+  # enableTrackEvent = false
 
 [selineAnalytics]
   # token = "XXXXXX"
-  # enableTrackEvent = true
+  # enableTrackEvent = false
 
 [buymeacoffee]
   # identifier = ""
