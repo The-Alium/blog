@@ -12,7 +12,7 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | Ctool                | Developer            | Alium Train          | Starry Steam         | Until 01/02/2026     |
 | RoboKnife            | Reviewer             | Not working          | Starry Steam         | —                    |
 
-### Renaissance Unit[teee](unit_renaissance.png)
+### Renaissance Unit![teee](unit_renaissance.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | denomito             | Officer              | Frontfire Gamemode   | Renaissance          | —                    |
@@ -20,7 +20,7 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | Winterskin           | Organizer            | Not working          | Renaissance          | —                    |
 | DOES IT HURT?        | Organizer            | Not working          | Renaissance          | —                    |
 
-### Pika Software External Unit[teee](unit_pika_software.png)
+### Pika Software External Unit![teee](unit_pika_software.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Unknown Developer    | External Officer     | Ash Gamemodes        | Pika Software        | —                    |
