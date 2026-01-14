@@ -21,7 +21,8 @@ The structure of the group is defined by detailed, actual concepts and divides t
 
 ## «HOW TO GET UNBANED?»
 “HOW TO GET UNBANED?” : The group has a rule that if a player has been permanently banned on our friends' servers, this ban is automatically transferred to The Alium community and recognized as valid. You can get the ban lifted by negotiating with the server that banned you or by paying a fine directly to The Alium community. For more information, please contact the technical account.[*](https://steamcommunity.com/id/ericksmaid/)
-![teee](screenshots.png)
+
+![gm_screenshots](images/screenshots.png)
 
 ## GROUP COMPOSITION
 The group composition is presented in a table in English to avoid translation inaccuracies and ensure quick updates. You can view the group composition here.
