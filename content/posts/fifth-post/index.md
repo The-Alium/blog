@@ -20,5 +20,3 @@ Some graphical improvements have been introduced for the Water shader, thanks to
 The display of non-Latin characters in fonts used in Sandbox has been improved. The console command sv_pause_sp has been added, which allows not pausing the server in single-player mode. The face poser now has a button that allows setting random values for each category of facial elements.
 
 Despite the voluminous list of various changes, additions, and improvements, this update is inferior to the previous one in significance—which is quite expected. The introduction of Counter-Strike: Source content was such an important event that only a full port of the game to x64 could surpass it. Nevertheless, the game continues to get better, and the changes in the November update contribute to that.
-
-![teee](cover.jpg)
