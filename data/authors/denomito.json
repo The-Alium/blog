@@ -1,0 +1,10 @@
+{
+    "name": "Denomito",
+    "image": "img/authors/denomito.jpg",
+    "bio": "Will someday finish FRONTFIRE",
+    "social": [
+        { "github": "https://github.com/unknown-gd" },
+        { "youtube": "https://youtube.com/@unknown-developer" },
+        { "steam": "https://steamcommunity.com/id/unknown-gd" }
+    ]
+}
