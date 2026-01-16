@@ -1,0 +1,51 @@
+[[main]]
+  name = "Головна"
+  weight = 10
+  pageRef = "/"
+
+[[main]]
+  name = "Пости"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Статті"
+  parent = "Пости"
+  pageRef = "series"
+  weight = 10
+
+[[main]]
+  name = "Теги"
+  parent = "Пости"
+  pageRef = "tags"
+  weight = 20
+
+[[main]]
+  name = "Автори"
+  parent = "Пости"
+  pageRef = "authors"
+  weight = 30
+
+[[footer]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/The-Alium"
+  weight = 10
+
+[[footer]]
+  pre = "steam"
+  name = "Steam"
+  url = "https://steamcommunity.com/groups/thealium"
+  weight = 20
+
+[[footer]]
+  pre = "discord"
+  name = "Discord"
+  url = "https://discord.gg/BmQSQEm8GW"
+  weight = 30
+
+[[footer]]
+  pre = "youtube"
+  name = "YouTube"
+  url = "https://www.youtube.com/@aliumculture"
+  weight = 40
