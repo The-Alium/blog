@@ -3,7 +3,7 @@ title: "Counter-Strike 2 в профиль Garry's Mod 2"
 date: 2023-03-30
 draft: false
 description: "Counter-Strike 2 в профиль Garry's Mod 2"
-summary: "Counter-Strike 2 engine transition explained."
+summary: "Переход Counter-Strike 2 на новый движок."
 tags: ["Новости", "Глобальщина"]
 authors:
   - "erick-maksimets"
