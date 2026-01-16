@@ -1,0 +1,10 @@
+{
+    "name": "Ctool",
+    "image": "img/authors/ctool.jpg",
+    "bio": "h",
+    "social": [
+        { "github": "https://github.com/unknown-gd" },
+        { "youtube": "https://youtube.com/@unknown-developer" },
+        { "steam": "https://steamcommunity.com/id/unknown-gd" }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Winterskin",
+    "image": "img/authors/winterskin.jpg",
+    "bio": "Христос (Christ,Christopher,Иисус,Cheesus)",
+    "social": [
+        { "github": "https://github.com/unknown-gd" },
+        { "youtube": "https://youtube.com/@unknown-developer" },
+        { "steam": "https://steamcommunity.com/id/unknown-gd" }
+    ]
+}

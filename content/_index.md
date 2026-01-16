@@ -12,6 +12,7 @@ Members of The Alium Сommunity are connected by a long history and hundreds of 
 The Alium Сommunity has a large documented legacy in the form of publications in the workshop, analytical or funny videos on YouTube, as well as numerous posts in discussions and announcements in the Steam group.
 
 The structure of the group is defined by detailed, actual concepts and divides the community into units.
+![teee](posters.png)
 
 ## «HOW TO PLAY WITH YOU?»
 “HOW TO PLAY WITH YOU?” : To play with us, you can join our events simply through the server browser. To receive notifications about when the game starts, just go to the community's Discord server and pay attention to the notifications in the #events channel.[*](https://discord.gg/UKeB7Bk2JN)
