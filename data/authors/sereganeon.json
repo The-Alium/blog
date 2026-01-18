@@ -1,10 +1,10 @@
 {
-    "name": "Sereganeon",
-    "image": "img/authors/sereganeob.jpg",
-    "bio": "Сергей",
-    "social": [
-        { "github": "https://github.com/unknown-gd" },
-        { "youtube": "https://youtube.com/@unknown-developer" },
-        { "steam": "https://steamcommunity.com/id/unknown-gd" }
-    ]
+  "name": "Sereganeon",
+  "image": "img/authors/sereganeon.jpg",
+  "bio": "Сергей",
+  "social": [
+    { "github": "https://github.com/unknown-gd" },
+    { "youtube": "https://youtube.com/@unknown-developer" },
+    { "steam": "https://steamcommunity.com/id/unknown-gd" }
+  ]
 }
