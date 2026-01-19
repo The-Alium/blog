@@ -13,7 +13,7 @@ The Alium Сommunity has a large documented legacy in the form of publications i
 ![community_posters](posters.png)
 
 ## «HOW TO PLAY WITH YOU?»
-“HOW TO PLAY WITH YOU?” : To play with us, you can join our events simply through the server browser. To receive notifications about when the game starts, just go to the community's [Discord server]((https://discord.gg/UKeB7Bk2JN)) and pay attention to the notifications in the #events channel.
+“HOW TO PLAY WITH YOU?” : To play with us, you can join our events simply through the server browser. To receive notifications about when the game starts, just go to the community's [Discord server](https://discord.gg/UKeB7Bk2JN) and pay attention to the notifications in the #events channel.
 
 ## «HOW DO I JOIN YOU?»
 “HOW DO I JOIN YOU?” : Official membership in the group begins after your application to the [Steam group](https://steamcommunity.com/groups/thealium) has been approved. To join the group, you need 100 hours in Garry's Mod, an open and presentable profile, no connections to persona non grata, and no blocks on the general ban list. Once accepted, you will be able to attend meetings, participate in tournaments, comment on posts, vote on community sanctions, etc. For more information, please contact the [technical account](https://steamcommunity.com/id/ericksmaid/).
