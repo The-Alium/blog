@@ -1,6 +1,6 @@
 ---
 title: "Half-Life 2's 20th Anniversary"
-date: 2025-11-16
+date: 2024-11-16
 draft: false
 description: "Half-Life 2 Anniversary"
 summary: "celebration of Half-Life 2's 20th Anniversary"

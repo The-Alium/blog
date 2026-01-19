@@ -25,3 +25,7 @@ The Alium Сommunity has a large documented legacy in the form of publications i
 ## GROUP COMPOSITION
 The group composition is presented in a table in English to avoid translation inaccuracies and ensure quick updates. You can view the group composition here.
 {{< article link="/officials/" showSummary=false compactSummary=false >}}
+
+## ARTICLES AND POSTS
+The current concept stipulates that the community records important events in the game and writes reports based on information about them. Along with the articles, the community publishes posts related to the group. You can view the announcements here.
+{{< article link="/posts/" showSummary=false compactSummary=false >}}
