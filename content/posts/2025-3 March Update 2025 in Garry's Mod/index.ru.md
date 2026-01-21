@@ -3,6 +3,7 @@ title: "Мартовское обновление 2025 в Garry's Mod"
 date: 2025-03-26
 draft: false
 description: "Мартовское обновление 2025 в Garry's Mod"
+summary: "Garry's Mod продолжает держать планку в 1-2 обновления в год. Двадцать шестого марта выходит первое обновление в 2025 году."
 tags: ["news", "Global Matter"]
 authors:
   - "dendi85"

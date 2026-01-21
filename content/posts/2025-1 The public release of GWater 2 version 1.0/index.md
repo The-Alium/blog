@@ -3,6 +3,7 @@ title: "The public release of GWater 2 version 1.0"
 date: 2025-01-13
 draft: false
 description: "The public release of GWater 2 version 1.0"
+summary: "More than a year and a half ago, in June 2023, Meetric began from scratch the development and rethinking of his previous addon that added dynamic water."
 tags: ["news", "Global Matter"]
 authors:
   - "dendi85"
