@@ -27,13 +27,10 @@ disableTextInHeader = false
 
 # used as default for background images
 defaultBackgroundImage = "img/poster_history.jpg"
-# defaultBackgroundImage = "/img/background.svg"
 # used as default for featured images in all articles
-# defaultFeaturedImage = "/img/featured.svg"
-# defaultFeaturedImage = "IMAGE.jpg"
+defaultFeaturedImage = "/img/featured.svg"
 # used as default for social media sharing (Open Graph and Twitter)
-# defaultSocialImage = "/android-chrome-512x512.png"
-# defaultSocialImage = "/img/blowfish_banner.png"
+defaultSocialImage = "/android-chrome-512x512.png"
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 
