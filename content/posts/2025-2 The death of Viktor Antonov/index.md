@@ -3,7 +3,6 @@ title: "The death of Viktor Antonov"
 date: 2025-02-17
 draft: false
 description: "The death of Viktor Antonov"
-summary: "The artistic design of a game is crucial for creating its atmosphere and influences the player's perception."
 tags: ["news", "Global Matter"]
 authors:
   - "dendi85"

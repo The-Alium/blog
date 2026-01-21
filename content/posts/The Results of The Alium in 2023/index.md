@@ -1,5 +1,5 @@
 ---
-title: "The Results of The Alium in 2023 "
+title: "The Results of The Alium in 2023"
 date: 2023-12-23
 draft: false
 description: "The Results of The Alium in 2023"

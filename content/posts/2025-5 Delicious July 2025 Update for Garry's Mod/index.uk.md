@@ -3,7 +3,6 @@ title: "Смачне липневе оновлення 2025 у Garry's Mod"
 date: 2025-07-23
 draft: false
 description: "Смачне липневе оновлення 2025 у Garry's Mod"
-summary: "Сьогодні в Garry's Mod виходить оновлення середньої наповненості, яке, однак, здійснює одну дуже дивовижну зміну."
 tags: ["news", "Global Matter"]
 authors:
   - "dendi85"

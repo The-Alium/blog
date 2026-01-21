@@ -3,7 +3,6 @@ title: "Березневе оновлення 2025 у Garry's Mod"
 date: 2025-03-26
 draft: false
 description: "Березневе оновлення 2025 у Garry's Mod"
-summary: "Garry's Mod продовжує тримати планку в 1–2 оновлення на рік. Двадцять шостого березня виходить перше оновлення у 2025 році."
 tags: ["news", "Global Matter"]
 authors:
   - "dendi85"
