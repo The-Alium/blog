@@ -3,9 +3,10 @@ title: "Старостимовский октябрь"
 date: 2025-10-13
 draft: false
 description: "Старостимовский октябрь"
+summary: "Привет, вы читаете текст написанный Erick_Maksimets, я вернулся уже второй раз."
 tags: ["news", "Local Matter"]
 authors:
-  - "erick-maksimets"
+  - "erick_maksimets"
 ---
 
 ---

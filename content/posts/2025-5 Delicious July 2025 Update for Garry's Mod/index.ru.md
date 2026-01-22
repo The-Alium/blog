@@ -3,6 +3,7 @@ title: "Вкусное июльское обновление 2025 в Garry's Mod
 date: 2025-07-23
 draft: false
 description: "Вкусное июльское обновление 2025 в Garry's Mod"
+summary: "Сегодня в Garry's Mod выходит обновление средней наполненности, которое, однако, совершает одно, очень удивительное изменение."
 tags: ["news", "Global Matter"]
 authors:
   - "dendi85"

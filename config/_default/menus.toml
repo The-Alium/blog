@@ -25,23 +25,23 @@
   pageRef = "posts"
   weight = 20
 
-[[main]]
-  name = "Series"
-  parent = "Posts"
-  pageRef = "series"
-  weight = 10
+# [[main]]
+#   name = "Series"
+#   parent = "Posts"
+#   pageRef = "series"
+#   weight = 10
 
-[[main]]
-  name = "Tags"
-  parent = "Posts"
-  pageRef = "tags"
-  weight = 20
+# [[main]]
+#   name = "Tags"
+#   parent = "Posts"
+#   pageRef = "tags"
+#   weight = 20
 
-[[main]]
-  name = "Authors"
-  parent = "Posts"
-  pageRef = "authors"
-  weight = 30
+# [[main]]
+#   name = "Authors"
+#   parent = "Posts"
+#   pageRef = "authors"
+#   weight = 30
 
 #[[subnavigation]]
 #  name = "An interesting topic"

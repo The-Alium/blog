@@ -8,23 +8,23 @@
   pageRef = "posts"
   weight = 20
 
-[[main]]
-  name = "Статті"
-  parent = "Пости"
-  pageRef = "series"
-  weight = 10
+# [[main]]
+#   name = "Статті"
+#   parent = "Пости"
+#   pageRef = "series"
+#   weight = 10
 
-[[main]]
-  name = "Теги"
-  parent = "Пости"
-  pageRef = "tags"
-  weight = 20
+# [[main]]
+#   name = "Теги"
+#   parent = "Пости"
+#   pageRef = "tags"
+#   weight = 20
 
-[[main]]
-  name = "Автори"
-  parent = "Пости"
-  pageRef = "authors"
-  weight = 30
+# [[main]]
+#   name = "Автори"
+#   parent = "Пости"
+#   pageRef = "authors"
+#   weight = 30
 
 [[footer]]
   pre = "github"

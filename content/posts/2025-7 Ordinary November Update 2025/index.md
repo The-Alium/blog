@@ -3,6 +3,7 @@ title: "Ordinary November Update 2025"
 date: 2025-11-12
 draft: false
 description: "brief summary on November update"
+summary: "One can confidently say that the update from November 12, 2025, for Garry's Mod will be the last one this year."
 tags: ["news", "Global Matter"]
 authors:
   - "dendi85"
