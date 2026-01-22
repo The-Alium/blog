@@ -28,7 +28,7 @@ disableTextInHeader = false
 # used as default for background images
 defaultBackgroundImage = "img/poster_history.jpg"
 # used as default for featured images in all articles
-defaultFeaturedImage = "/img/featured.svg"
+defaultFeaturedImage = "/img/featured.jpg"
 # used as default for social media sharing (Open Graph and Twitter)
 defaultSocialImage = "/android-chrome-512x512.png"
 hotlinkFeatureImage = false
