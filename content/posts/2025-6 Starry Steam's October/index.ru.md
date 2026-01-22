@@ -6,7 +6,7 @@ description: "Старостимовский октябрь"
 summary: "Привет, вы читаете текст написанный Erick_Maksimets, я вернулся уже второй раз."
 tags: ["news", "Local Matter"]
 authors:
-  - "erick_maksimets"
+  - "erick-maksimets"
 ---
 
 ---

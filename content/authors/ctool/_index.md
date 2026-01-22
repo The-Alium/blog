@@ -1,5 +1,0 @@
----
-title: "Ctool"
----
-
-NO VIOLENCE
