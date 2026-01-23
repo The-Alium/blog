@@ -18,7 +18,7 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | denomito             | Officer              | Frontfire Gamemode   | Renaissance          | —                    |
 | argax us             | Developer            | Community Blog       | Renaissance          | —                    |
 | DOES IT HURT?        | Organizer            | TTT improvements     | Renaissance          | —                    |
-| Winterskin           | Organizer            | Not working          | Renaissance          | —                    |
+| Winterskin           | Organizer            | Not working          | Renaissance          | Until 28/02/2026     |
 
 ### Pika Software External Unit![teee](unit_pika_software.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
