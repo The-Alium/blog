@@ -4,7 +4,7 @@ date: 2025-12-31
 description: "Результаты The Alium в 2025 году"
 tags: ["news", "Local Matter"]
 authors:
-  - "erick-maksimets"
+  - "Erick_Maksimets"
 ---
 
 ---

@@ -20,5 +20,3 @@ A new, expanded print edition of **Half-Life 2: Raising The Bar** has been annou
 For **Garry's Mod**, this means that when playing on the original maps, these improvements will also be present. Content from all three games, as well as **Lost Coast**, is now added after downloading **Half-Life 2** on **Steam**. Some changes from this update may be included in a future update.
 
 A year ago, like **Half-Life**, **Counter-Strike** received an update that fixed and added many features. It was expected that **Counter-Strike: Source** would also receive some attention, as it also turned 20 years old on November 1, 2004; however, it has not received any updates.
-
-![teee](cover.jpg)

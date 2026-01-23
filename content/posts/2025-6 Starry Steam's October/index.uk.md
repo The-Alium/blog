@@ -6,7 +6,7 @@ description: "Старостимівський жовтень"
 summary: "Привіт, ви читаєте текст, написаний Erick_Maksimets, я повернувся вже вдруге."
 tags: ["news", "Local Matter"]
 authors:
-  - "erick-maksimets"
+  - "Erick_Maksimets"
 ---
 
 ---
