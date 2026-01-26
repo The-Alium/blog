@@ -1,7 +1,7 @@
 ---
 title: "The Alium Results in 2025"
 date: 2025-12-31
-description: "The Alium Results in 2025"
+description: "2025 has come to an end"
 tags: ["news", "Local Matter"]
 authors:
   - "Erick_Maksimets"
