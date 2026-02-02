@@ -9,7 +9,7 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | Erick_Maksimets      | Officer              | Community Blog       | Starry Steam         | —                    |
 | Sereganeon           | Organizer            | Shorts for YT, TT    | Starry Steam         | —                    |
 | DenDi85              | Publicist            | HLDM Gamemode        | Starry Steam         | —                    |
-| Ctool                | Developer            | Alium Train          | Starry Steam         | Until 01/02/2026     |
+| Ctool                | Developer            | Alium Train          | Starry Steam         | Until 01/03/2026     |
 | RoboKnife            | Reviewer             | Not working          | Starry Steam         | —                    |
 
 ### Renaissance Unit![teee](unit_renaissance.png)

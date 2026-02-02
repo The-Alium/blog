@@ -18,8 +18,8 @@ The Alium Сommunity has a large documented legacy in the form of publications i
 ## «HOW DO I JOIN YOU?»
 “HOW DO I JOIN YOU?” : Official membership in the group begins after your application to the [Steam group](https://steamcommunity.com/groups/thealium) has been approved. To join the group, you need 100 hours in Garry's Mod, an open and presentable profile, no connections to persona non grata, and no blocks on the general ban list. Once accepted, you will be able to attend meetings, participate in tournaments, comment on posts, vote on community sanctions, etc. For more information, please contact the [technical account](https://steamcommunity.com/id/ericksmaid/).
 
-## «HOW TO GET UNBANED?»
-“HOW TO GET UNBANED?” : The group has a rule that if a player has been permanently banned on our friends' servers, this ban is automatically transferred to The Alium community and recognized as valid. You can get the ban lifted by negotiating with the server that banned you or by paying a fine directly to The Alium community. For more information, please contact the [technical account](https://steamcommunity.com/id/ericksmaid/)
+## «HOW TO GET UNBANNED?»
+“HOW TO GET UNBANNED?” : The group has a rule that if a player has been permanently banned on our friends' servers, this ban is automatically transferred to The Alium community and recognized as valid. You can get the ban lifted by negotiating with the server that banned you or by paying a fine directly to The Alium community. For more information, please contact the [technical account](https://steamcommunity.com/id/ericksmaid/)
 ![gm_screenshots](images/screenshots.png)
 
 ## GROUP COMPOSITION
