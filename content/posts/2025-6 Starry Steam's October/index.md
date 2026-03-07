@@ -24,3 +24,5 @@ Before this, we had a lot of interesting events happen over the past couple of m
 The work of the Staryy Steam unit will be focused on presenting the results in the form of videos on my channel. If you are interested in digging into topics that are not very gaming-related yet but are connected to me, you can watch my latest video. My videos here will usually be attached to Starry Steam's project works. The videos will be released in Ukrainian, Russian, and English.
 
 > [Video about the return on the Erick_Maksimets channel](https://www.youtube.com/watch?v=1gJOxuQiFaA)<br/>
+
+> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

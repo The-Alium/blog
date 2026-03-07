@@ -21,5 +21,7 @@ Another major addition is the ability to copy add-on presets from the add-ons ta
 The update also delivered numerous fixes and optimizations targeting long-standing technical issues that previously caused instability in add-ons. However, some regressions appeared: certain player models once again generate errors, and some particle effects that previously worked correctly now behave inconsistently. On the positive side, improvements were made to the main menu performance and memory-related issues.
 
 > [March 2024 update on the Facepunch blog](https://gmod.facepunch.com/news/march-2024-update)<br/>
+
 > [March 2024 update as a Steam publication](https://steamcommunity.com/games/garrysmod/announcements/detail/4148450398126303381)<br/>
+
 > [s8cli retains authorship of the article](https://steamcommunity.com/id/BrunH/)<br/>

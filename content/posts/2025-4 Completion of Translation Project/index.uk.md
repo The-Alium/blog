@@ -22,4 +22,5 @@ authors:
 Окрема подяка нашій Персоні Грата Hudson633 за допомогу в перевірці перекладів доповідей на правильність написання.
 
 > [Архів перекладів оголошень — Посібник в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3484910875)<br/>
+
 > [Актуальні концепції — Форум у групі](https://steamcommunity.com/groups/thealium/discussions/9/)<br/>

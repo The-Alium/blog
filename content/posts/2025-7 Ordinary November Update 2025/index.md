@@ -22,5 +22,7 @@ The display of non-Latin characters in fonts used in Sandbox has been improved. 
 Despite the voluminous list of various changes, additions, and improvements, this update is inferior to the previous one in significance—which is quite expected. The introduction of Counter-Strike: Source content was such an important event that only a full port of the game to x64 could surpass it. Nevertheless, the game continues to get better, and the changes in the November update contribute to that.
 
 > [Official post in the Community Hub](https://store.steampowered.com/news/app/4000/view/596290731586358288?)<br/>
+
 > [Full changelog on the Facepunch website](https://gmod.facepunch.com/news/november-2025-update)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

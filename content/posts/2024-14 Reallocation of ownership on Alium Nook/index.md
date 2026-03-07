@@ -17,5 +17,7 @@ DefaultOS has fundamentally changed the familiar Alium Nook while retaining the 
 The new version of Alium Nook by DefaultOS offers a fresh perspective on the beloved map, accompanied by high-quality design and outstanding execution. His version will exist separately in the workshop under his authorship. Our version of Alium Nook will receive an update utilizing his developments.
 
 > [Alium Nook Remake](https://steamcommunity.com/sharedfiles/filedetails/?id=3352968976)<br/>
+
 > [Original Alium Nook](https://steamcommunity.com/sharedfiles/filedetails/?id=2424500105)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436)<br/>

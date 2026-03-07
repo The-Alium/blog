@@ -19,4 +19,5 @@ A distinctive feature of Temporal Assassin is its focus on single-player gamepla
 Due to the fact that the Steam Workshop does not allow .dll files, many features have been lost: there is no custom cursor, session information will no longer be displayed in the friends list overlay, and custom music will need to be modified for it to work correctly. Overall, the release of Temporal Assassin in the workshop does not bring any changes to the gameplay; however, its publication will help raise awareness and possibly attract extra hands to assist in a full release.
 
 > [Temporal Assassin - gamemode in the Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3258426988)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436)<br/>

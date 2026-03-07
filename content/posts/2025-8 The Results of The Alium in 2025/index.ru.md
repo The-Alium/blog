@@ -2,7 +2,7 @@
 title: "Результаты The Alium в 2025 году"
 date: 2025-12-31
 description: "Подошёл к концу 2025 год."
-tags: ["news", "Local Matter"]
+tags: ["Новости", "Локальщина"]
 authors:
   - "Erick_Maksimets"
 ---
@@ -16,3 +16,5 @@ authors:
 С наступающим вас!
 
 {{<youtubeLite id="EmehpbOKqkw" label="Video about year 2025 of The Alium">}}
+
+> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

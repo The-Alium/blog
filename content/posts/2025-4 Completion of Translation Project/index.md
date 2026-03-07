@@ -20,4 +20,5 @@ The authorship of the project is retained by Winterskin, Sereganeon, and Erick_M
 A special thanks to our Persona Grata, Hudson633, for helping to verify the accuracy of the report translations.
 
 > [Archive of announcement translations — Guide in Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3484910875)<br/>
+
 > [Current concepts — Forum in the group](https://steamcommunity.com/groups/thealium/discussions/9/)<br/>

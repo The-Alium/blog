@@ -21,4 +21,5 @@ Previously, a classic version of JailBreak was attempted by Minerva officer Bilw
 Referring to the evaluation of game modes by RoboKnife, the newly released version of JailBreak does not stand out for its single-player features or competitiveness. This can be explained by the fact that the game mode is entirely designed for friendly interaction among players; there is little for solo players to engage with. However, this does not mean that the mode does not serve as an example for others. On the contrary, the game mode is exemplary in many other aspects.
 
 > [Jailbreak: Unknown's Cut - Gamemode in the workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3211331044)<br/>
+
 > [Grata Lists - Actual Concepts](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477174194/)<br/>

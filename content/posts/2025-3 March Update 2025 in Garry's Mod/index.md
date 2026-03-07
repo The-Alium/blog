@@ -20,5 +20,7 @@ For developers, the toolkit has been expanded with 14 new entities, and 4 entiti
 This is not the complete list of changes in the March update. A comprehensive list of both technical innovations and improvements visible directly in the game can be found on the Facepunch page. However, it is unlikely that these fixes go beyond the usual Quality of Life improvements.
 
 > [Full list of changes on the official developer devblog](https://gmod.facepunch.com/news/march-2025-update)<br/>
+
 > [Official post in the Community Hub](https://store.steampowered.com/news/app/4000/view/521961040610590764)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

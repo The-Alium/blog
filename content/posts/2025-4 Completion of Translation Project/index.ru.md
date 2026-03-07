@@ -4,7 +4,7 @@ date: 2025-05-28
 draft: false
 description: "Конец проекта переводов"
 summary: "С учётом началом процесса англификации Алиумского сообщества, появилась необходимость перевода объявлений и актуальных концепций в Steam группе."
-tags: ["news", "Local Matter"]
+tags: ["Новости", "Локальщина"]
 authors:
   - "sereganeon"
 ---
@@ -22,4 +22,5 @@ authors:
 Отдельное спасибо нашей Персоне Грата Hudson633, за то что помог проверить переводы докладов на правильность написания. 
 
 > [Архив переводов объявлений — Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3484910875)<br/>
+
 > [Актуальные концепции — Форум в группе](https://steamcommunity.com/groups/thealium/discussions/9/)<br/>

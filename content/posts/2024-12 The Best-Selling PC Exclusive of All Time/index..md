@@ -21,7 +21,11 @@ Returning to the original sources, it is worth noting the reaction of Garry Newm
 In conclusion, this time there will be no pessimism, only words of gratitude to both the creators of the game and the players who continue to support the online community of the game even after all these years. For 20 years, Garry’s Mod has continued to delight both old and new players, almost without interruption, albeit with some occasionally absurd updates.
 
 > [Garry's Mod's official Twitter post](https://x.com/gmodofficial/status/1834185126206488932)<br/>
+
 > [Garry Newman's official Twitter post](https://x.com/garrynewman/status/1834185872083681332)<br/>
+
 > [Thegamer gaming source](https://www.thegamer.com/garrys-mod-best-selling-pc-exclusive-all-time/)<br/>
+
 > [Gaming source Neowin](https://www.neowin.net/news/guinness-announces-garrys-mod-is-the-best-selling-pc-exclusive-of-all-time/)<br/>
+
 > [s8cli retains authorship of the article](https://steamcommunity.com/id/BrunH/)<br/>

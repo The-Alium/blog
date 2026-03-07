@@ -22,5 +22,7 @@ From a technical standpoint, the update also fixes long-standing bugs and introd
 The July update is striking for its inclusion of Counter-Strike: Source and Episode content. While not strictly necessary for Garry’s Mod and its sandbox to function, it addresses a major limitation for many add-ons and servers that typically rely on those assets due to the base game’s limited content. Now, ordinary players no longer need to install multiple games just to play one. As a result, missing textures and those notorious “ERROR” signs will appear far less often.
 
 > [Full changelog available on the official developer devblog](https://gmod.facepunch.com/news/july-2025-update)<br/>
+
 > [Official post in the Community Hub](https://store.steampowered.com/news/app/4000/view/521971443730220876)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

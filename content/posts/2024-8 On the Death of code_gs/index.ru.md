@@ -3,7 +3,7 @@ title: "О смерти code_gs"
 date: 2024-06-10
 draft: false
 description: "В апреле 2024 года в автокатастрофе погиб code_gs — бывший сотрудник Facepunch и заметная фигура в сообществе Garry's Mod."
-tags: ["news", "Global Matter"]
+tags: ["Новости", "Глобальщина"]
 authors:
   - "Erick_Maksimets"
 ---
@@ -19,6 +19,9 @@ authors:
 Меньше года назад скончался Dav0r, чья смерть создала большой медийный всплеск, но, к сожалению, о смерти code_gs либо узнали не так много людей, либо посчитали её не очень важной для себя.
 
 > [RIP code_gs 1998-2024 — Комьюнити-мемориал на Rateyourmusic](https://rateyourmusic.com/list/_aleph/rip-code_gs-1998-2024-a-community-memorial/)<br/>
+
 > [Официальный пост на Discord сервере Garry's Mod](https://discord.com/channels/565105920414318602/588065671296974965/1247596184340791329)<br/>
+
 > [О смерти Dav0r — Доклад Алиумского сообщества](https://steamcommunity.com/groups/thealium/announcements/detail/6740255587980154888)<br/>
+
 > [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/id/ErickMaksimets)<br/>
