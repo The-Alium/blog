@@ -6,19 +6,19 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 ### Starry Steam Unit![teee](unit_starry_steam.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Erick_Maksimets      | Officer              | Community Blog       | Starry Steam         | —                    |
-| Sereganeon           | Organizer            | Shorts for YT, TT    | Starry Steam         | —                    |
+| Erick_Maksimets      | Officer              | Alium Train(video +1)| Starry Steam         | Until 01/05/2026     |
+| Ctool                | Developer            | Alium Train          | Starry Steam         | Until 01/05/2026     |
+| Sereganeon           | Organizer            | HLDM Gamemode        | Starry Steam         | —                    |
 | DenDi85              | Publicist            | HLDM Gamemode        | Starry Steam         | —                    |
-| Ctool                | Developer            | Alium Train          | Starry Steam         | Until 28/02/2026     |
-| RoboKnife            | Reviewer             | Not working          | Starry Steam         | —                    |
+| RoboKnife            | Reviewer             | Reviews: classic gms | Starry Steam         | —                    |
 
 ### Renaissance Unit![teee](unit_renaissance.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | denomito             | Officer              | Frontfire Gamemode   | Renaissance          | —                    |
-| argax us             | Developer            | Community Blog       | Renaissance          | —                    |
+| argax us             | Developer            | HLDM Gamemode        | Renaissance          | —                    |
 | DOES IT HURT?        | Organizer            | TTT improvements     | Renaissance          | —                    |
-| Winterskin           | Organizer            | Not working          | Renaissance          | Until 28/02/2026     |
+| Winterskin           | Organizer            | Not working          | Renaissance          | —                    |
 
 ### Pika Software External Unit![teee](unit_pika_software.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
