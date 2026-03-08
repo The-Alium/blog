@@ -20,6 +20,9 @@ authors:
 Хоча багато людей і не знали Антонова особисто, він зробив вагомий внесок і залишив величезну спадщину, яку ми бачимо перед очима щодня.
 
 > [Стаття PC Gamer](https://www.pcgamer.com/gaming-industry/viktor-antonov-the-visionary-artist-who-defined-half-life-2-and-dishonored-has-died/)<br/>
+
 > [Публікація Eschatology Entertainment у LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&amp;amp;utm_medium=member_android&amp;amp;rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
+
 > [Публікація LambdaGeneration зі скріншотом історії Марка Лейдлоу](https://x.com/LambdaGen/status/1890944782370791719)<br/>
+
 > [DenDi85 зберігає авторство доповіді](https://steamcommunity.com/profiles/76561198393560436/)<br/>

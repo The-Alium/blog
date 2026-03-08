@@ -21,4 +21,5 @@ Most of the errors were observed in the Dev branch, Pre-release, and Chromium ve
 Once again, the entire community thanks the sole developer of Garry’s Mod for the update and hopes he can avoid the mistakes he made previously. It is worth noting that Rubat has taken care of the players by updating the HTML error message for the menu loading issue: "Display a nicer message when the HTML main menu fails to load."
 
 > [Another minor update](https://wiki.facepunch.com/gmod/Update_Preview_Changelog)<br/>
+
 > [s8cli retains authorship of the article](https://steamcommunity.com/profiles/76561198999494870)<br/>

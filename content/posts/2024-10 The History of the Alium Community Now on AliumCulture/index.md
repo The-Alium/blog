@@ -16,4 +16,6 @@ The work on the video took about half a year in total, but the active focus on i
 
 Please note that comments on YouTube are disabled. If you would like to discuss any aspect of the video, please leave your messages in the comments of this announcement or write in the discussion thread on our Discord server.
 
-{{< youtubeLite id="77VsSVk6554" label="История сообщества The Alium" >}}
+{{<youtubeLite id="77VsSVk6554" label="История сообщества The Alium">}}
+
+> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436)<br/>

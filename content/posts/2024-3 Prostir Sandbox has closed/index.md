@@ -21,4 +21,5 @@ According to Swanchick, the server was closed due to a number of problems. The m
 Despite the closure of the server, there is a certain probability that the development team will return later to develop something else. The non-existent server will remain a great example of a tumultuous start and an equally tumultuous existence, which, unfortunately, did not yield long-term results and was limited to two years.
 
 > [Ukrainian Garry's Mod - Group on Steam](https://steamcommunity.com/groups/uagmod)<br/>
+
 > [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>

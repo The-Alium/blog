@@ -18,3 +18,5 @@ Discord, despite being the platform through which most of our communication happ
 The site is not yet fully complete: we are still migrating old articles and posts — and it is important to understand that a great many of them have accumulated over the years. Along with the migration of old announcements, Ukrainian translations will be added. Later, we will likely add other interesting things to click through on the site. For now, it is intended primarily as an archive. From this point on, all guides with posts and articles in different languages on Steam are no longer supported.
 
 > [Alium.p1ka.eu — Our website](https://alium.p1ka.eu/)
+
+> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

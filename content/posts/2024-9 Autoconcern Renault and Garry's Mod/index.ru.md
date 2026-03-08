@@ -3,7 +3,7 @@ title: "Автоконцерн Renault и Garry's Mod"
 date: 2024-06-18
 draft: false
 description: "Renault запустила рекламную кампанию своего электромобиля R5 через игровой режим в Garry's Mod, созданный разработчиком Zet0r."
-tags: ["news", "Global Matter"]
+tags: ["Новости", "Глобальщина"]
 authors:
   - "DenDi85"
 ---
@@ -19,5 +19,7 @@ authors:
 Удивительно, что несмотря на внушительный возраст, Renault всё равно обращает внимание на Garry's Mod и сотрудничают даже не с самими Facepunch, а с талантливыми выходцем из мастерской Steam, результатом сотрудничества которой становится простой, веселый режим с покатушками на новых электромашинах.
 
 > [MODDER5 — Статья о моддинге сайте Renault](https://www.renault.co.uk/electric-vehicles/r5-e-tech-electric/renault5-modding11.html)<br/>
+
 > [// DR5VE & SEEK // — Игровой режим в мастерской](https://steamcommunity.com/sharedfiles/filedetails/?id=3253497094)<br/>
+
 > [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436)<br/>

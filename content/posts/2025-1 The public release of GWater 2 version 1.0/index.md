@@ -18,6 +18,9 @@ GWater 2 completely surpasses the previous addon in all parameters. Now liquids 
 With each new demonstration of developments and publication of addons in the workshop, Meetric continues to prove himself as an extremely promising and authoritative developer. The publication of his latest magnum opus in such a short time also shows him to be an honest person who does not intend to endlessly extract money from his platforms. It's also worth noting that in the development of GWater 2, Meetric was assisted not only financially but also with specific contributions and code. All the credits for those who helped in any way are listed in the addon menu.
 
 > [Addon in the workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3403736992)<br/>
+
 > [Github project](https://github.com/meetric1/gwater2)<br/>
+
 > [Meetric on Steam](https://steamcommunity.com/id/Meetric)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

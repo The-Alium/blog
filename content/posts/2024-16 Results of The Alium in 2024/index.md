@@ -18,4 +18,6 @@ Today, as per our old and good tradition, we are releasing a video with an annua
 
 Happy New Year, dear friends! May the coming year be better for everyone than all the previous ones!
 
-> [The Alium results in 2024 - Published on the AliumCulture YouTube channel](https://www.youtube.com/watch?v=s1gsrBPNXfg)<br/>
+{{<youtubeLite id="s1gsrBPNXfg" label="The Alium. Results in 2024">}}
+
+> [Sereganeon retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436)<br/>

@@ -3,7 +3,7 @@ title: "Двадцатилетие Half-Life 2"
 date: 2024-11-16
 draft: false
 description: "Valve отмечает двадцатилетие Half-Life 2 глобальным обновлением, документальным фильмом, новым изданием Raising The Bar и рядом улучшений для игроков и моддеров."
-tags: ["news", "Global Matter"]
+tags: ["Новости", "Глобальщина"]
 authors:
   - "DenDi85"
 ---
@@ -23,6 +23,9 @@ authors:
 С днём рождения, Half-Life 2!
 
 > [Онлайн-страница Half-Life 2 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)<br/>
+
 > [Half-Life 2 в Steam](https://store.steampowered.com/app/220/HalfLife_2/)<br/>
+
 > [Документальный фильм](https://youtu.be/YCjNT9qGjh4)<br/>
+
 > [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

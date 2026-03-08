@@ -3,7 +3,7 @@ title: "Результаты The Alium в 2024 году"
 date: 2024-12-31
 draft: false
 description: "Итоги 2024 года для сообщества The Alium: события, достижения и традиционный видеоролик с годовым отчётом."
-tags: ["news", "Local Matter"]
+tags: ["Новости", "Локальщина"]
 authors:
   - "Sereganeon"
 ---
@@ -18,4 +18,6 @@ authors:
 
 С наступающим новым годом, дорогие друзья.
 
-> [Результаты The Alium в 2024 году — Публикация на YouTube канале AliumCulture](https://www.youtube.com/watch?v=s1gsrBPNXfg)<br/>
+{{<youtubeLite id="s1gsrBPNXfg" label="Результаты The Alium в 2024 году">}}
+
+> [Sereganeon сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

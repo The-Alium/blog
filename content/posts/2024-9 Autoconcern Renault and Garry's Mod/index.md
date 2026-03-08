@@ -19,5 +19,7 @@ This mode is part of the advertising campaign for Renault MODDER5 and their new 
 It's remarkable that despite its considerable age, Renault still pays attention to Garry's Mod and collaborates not even with Facepunch directly, but with talented creators from the Steam Workshop, resulting in a simple, fun mode featuring rides in new electric cars.
 
 > [MODDER5 - Article about modding the Renault website](https://www.renault.co.uk/electric-vehicles/r5-e-tech-electric/renault5-modding11.html)<br/>
+
 > [// DR5VE & SEEK // - Gamemode in the workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3253497094)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436)<br/>

@@ -21,6 +21,9 @@ For Garry's Mod, this means that improvements to the original maps will also be 
 A year ago, similar to Half-Life, Counter-Strike received an anniversary update that introduced numerous fixes and additions. It was expected that Counter-Strike: Source would receive attention as well, since it turned 20 years old on November 1, 2004; however, it did not receive any updates.
 
 > [Online page Half-Life 2 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th)<br/>
+
 > [Half-Life 2 on Steam](https://store.steampowered.com/app/220/HalfLife_2/)<br/>
+
 > [Documentary film](https://youtu.be/YCjNT9qGjh4)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436)<br/>

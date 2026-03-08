@@ -20,6 +20,9 @@ Viktor Antonov's work was confined to one industry in which he always excelledâ€
 While many people may not have known Antonov personally, he made a significant contribution and left a vast legacy that is present before our eyes every day.
 
 > [PC Gamer article](https://www.pcgamer.com/gaming-industry/viktor-antonov-the-visionary-artist-who-defined-half-life-2-and-dishonored-has-died/)<br/>
+
 > [Eschatology Entertainment publication on LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&amp;amp;utm_medium=member_android&amp;amp;rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
+
 > [LambdaGeneration publication with a screenshot of Mark Laidlaw's story](https://x.com/LambdaGen/status/1890944782370791719)<br/>
+
 > [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>
