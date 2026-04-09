@@ -6,7 +6,7 @@ description: "Zombie Plague Edits Have Entered the Official Version"
 summary: "Zombie Plague Edits Have Entered the Official Version"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

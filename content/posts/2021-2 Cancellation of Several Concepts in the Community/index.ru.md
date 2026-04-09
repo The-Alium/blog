@@ -5,7 +5,7 @@ description: "Отмена ряда концепций в сообществе"
 summary: "Отмена ряда концепций в сообществе"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

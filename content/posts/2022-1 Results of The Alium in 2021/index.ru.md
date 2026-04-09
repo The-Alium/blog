@@ -6,7 +6,7 @@ description: "Результаты The Alium в 2021 году"
 summary: "Результаты The Alium в 2021 году"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

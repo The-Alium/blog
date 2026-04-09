@@ -6,7 +6,7 @@ description: "Restoration of Steam Group Elements"
 summary: "Restoration of Steam Group Elements"
 tags: ["news", "Global Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 At the end of January and the beginning of February, some transformations were made in the Steam group that restored the functionality of previously broken features, thanks to the developers at Valve.

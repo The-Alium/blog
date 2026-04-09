@@ -6,7 +6,7 @@ description: "Alium+++ Update"
 summary: "Alium+++ Update"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

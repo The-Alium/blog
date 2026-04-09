@@ -6,7 +6,7 @@ description: "Окончание ПОРиПАК CSS"
 summary: "Окончание ПОРиПАК CSS"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

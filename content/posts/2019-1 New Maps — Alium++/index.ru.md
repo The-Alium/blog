@@ -5,7 +5,7 @@ description: "Новые карты — Alium++"
 summary: "Новые карты — Alium++"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

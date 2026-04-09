@@ -6,7 +6,7 @@ description: "Summer Changes"
 summary: "Summer Changes"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

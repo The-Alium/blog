@@ -6,7 +6,7 @@ description: "Counter-Strike 2 in the Context of Garry's Mod 2"
 summary: "Counter-Strike 2 engine transition explained."
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 Recently, Valve Software unveiled a significant update for Counter-Strike: Global Offensive, branding it as Counter-Strike 2. This is a unique event in the Source games, as it marks the first time (excluding Dota 2) that a game has been fully transitioned from Source to Source 2.

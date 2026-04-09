@@ -5,7 +5,7 @@ draft: false
 description: "On March 11, 2024, the Ukrainian Garry's Mod server Prostir Sandbox ceased operations after two years of activity, citing declining player numbers, team issues, and financial concerns."
 tags: ["news", "Global Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

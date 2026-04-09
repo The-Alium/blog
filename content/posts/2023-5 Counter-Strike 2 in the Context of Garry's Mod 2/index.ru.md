@@ -6,7 +6,7 @@ description: "Counter-Strike 2 в профиль Garry's Mod 2"
 summary: "Переход Counter-Strike 2 на новый движок."
 tags: ["Новости", "Глобальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 Совсем недавно Valve Software презентовала большое обновление в Counter-Strike: Global Offensive назвав его Counter-Strike 2. Это довольно уникальное событие в Source играх, потому что впервые, и это не Dota 2, игру на Source полноценно перенесли на Source 2.

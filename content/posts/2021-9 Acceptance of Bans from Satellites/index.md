@@ -6,7 +6,7 @@ description: "Acceptance of Bans from Satellites"
 summary: "Acceptance of Bans from Satellites"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

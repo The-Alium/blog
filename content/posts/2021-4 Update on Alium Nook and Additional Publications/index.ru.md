@@ -5,7 +5,7 @@ description: "Обновление Alium Nook и дополнительные п
 summary: "Обновление Alium Nook и дополнительные публикации"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

@@ -5,7 +5,7 @@ draft: false
 description: "Алиумское сообщество совместно с Unknown Developer завершило разработку и тестирование игрового режима JailBreak: Unknown's Cut, который официально вышел в мастерской Steam."
 tags: ["Новости", "Глобальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

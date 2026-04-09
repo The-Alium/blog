@@ -6,7 +6,7 @@ description: "Турнирная система вступила в силу"
 summary: "Турнирная система вступила в силу"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

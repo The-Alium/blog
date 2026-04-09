@@ -6,7 +6,7 @@ description: "Cancellation of Several Concepts in the Community"
 summary: "Cancellation of Several Concepts in the Community"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

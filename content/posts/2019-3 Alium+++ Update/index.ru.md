@@ -5,7 +5,7 @@ description: "Обновление Alium+++"
 summary: "Обновление Alium+++"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

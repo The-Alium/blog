@@ -6,7 +6,7 @@ description: "Map Update, New Moderators, and Restoration of the Tournament Syst
 summary: "Map Update, New Moderators, and Restoration of the Tournament System"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

@@ -6,7 +6,7 @@ description: "Beginning of the Second PORiPAK"
 summary: "Beginning of the Second PORiPAK"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

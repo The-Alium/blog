@@ -6,7 +6,7 @@ description: "Fifth Easter Egg on Erick's Town"
 summary: "Fifth Easter Egg on Erick's Town"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

@@ -5,7 +5,7 @@ draft: false
 description: "History of The Alium Community"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

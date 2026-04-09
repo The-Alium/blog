@@ -6,7 +6,7 @@ description: "Система Грата вступила в силу"
 summary: "Система Грата вступила в силу"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

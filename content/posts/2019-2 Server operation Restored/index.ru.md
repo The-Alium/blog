@@ -5,7 +5,7 @@ description: "Работа сервера восстановлена"
 summary: "Работа сервера восстановлена"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

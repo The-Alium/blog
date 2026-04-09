@@ -6,7 +6,7 @@ description: "Внедрение деятелей сообщества"
 summary: "Внедрение деятелей сообщества"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

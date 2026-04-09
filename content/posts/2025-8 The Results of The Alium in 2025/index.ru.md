@@ -4,7 +4,7 @@ date: 2025-12-31
 description: "Подошёл к концу 2025 год."
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

@@ -5,7 +5,7 @@ description: "Реализация плана СОРИП"
 summary: "Реализация плана СОРИП"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

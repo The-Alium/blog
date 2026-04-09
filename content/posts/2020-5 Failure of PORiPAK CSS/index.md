@@ -6,7 +6,7 @@ description: "Failure of PORiPAK CSS"
 summary: "Failure of PORiPAK CSS"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

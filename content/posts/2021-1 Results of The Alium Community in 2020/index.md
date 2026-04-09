@@ -6,7 +6,7 @@ description: "Results of The Alium Community in 2020"
 summary: "Results of The Alium Community in 2020"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

@@ -6,7 +6,7 @@ description: "August Will Be Remembered for Cheating and Mikhail Belyaev"
 summary: "Incredible detective story about cheating and betrayal"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

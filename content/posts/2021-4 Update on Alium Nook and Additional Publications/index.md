@@ -6,7 +6,7 @@ description: "Update on Alium Nook and Additional Publications"
 summary: "Update on Alium Nook and Additional Publications"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

@@ -6,7 +6,7 @@ description: "Server operation Restored"
 summary: "Server operation Restored"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

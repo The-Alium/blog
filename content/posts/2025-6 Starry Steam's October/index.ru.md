@@ -6,7 +6,7 @@ description: "Старостимовский октябрь"
 summary: "Привет, вы читаете текст написанный Erick_Maksimets, я вернулся уже второй раз."
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

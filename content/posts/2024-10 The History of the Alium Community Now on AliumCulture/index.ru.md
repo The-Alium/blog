@@ -5,7 +5,7 @@ draft: false
 description: "На канале AliumCulture вышел 50-минутный видеоролик об истории Алиумского сообщества с 2018 года до сегодняшнего дня."
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

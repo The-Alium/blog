@@ -5,7 +5,7 @@ draft: false
 description: "After several months of community support and testing, Jailbreak: Unknown's Cut has officially been released in the Steam Workshop as a standalone and fully completed gamemode."
 tags: ["news", "Global Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

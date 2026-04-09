@@ -5,7 +5,7 @@ description: "Результаты СОРИП"
 summary: "Результаты СОРИП"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

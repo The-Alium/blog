@@ -5,7 +5,7 @@ description: "Релиз карты сообщества Alium Nook"
 summary: "Релиз приватной проектной работы сообщества The Alium."
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

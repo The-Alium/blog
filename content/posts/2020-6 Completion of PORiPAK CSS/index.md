@@ -6,7 +6,7 @@ description: "Completion of PORiPAK CSS"
 summary: "Completion of PORiPAK CSS"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

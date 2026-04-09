@@ -6,7 +6,7 @@ description: "Начало второго ПОРиПАК"
 summary: "Начало второго ПОРиПАК"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---
