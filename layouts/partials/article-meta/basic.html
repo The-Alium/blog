@@ -79,8 +79,7 @@
     {{ end }}
   </div>
 
-  {{/*
-  {{ if and (not (eq $scope "single")) (.Params.showAuthorsBadges | default (.Site.Params.article.showAuthorsBadges | default false) ) }}
+  {{ if .Params.showAuthorsBadges | default (.Site.Params.article.showAuthorsBadges | default false) }}
     <div class="flex flex-row flex-wrap items-center">
       {{ range $taxonomy, $terms := .Site.Taxonomies }}
         {{ if (eq $taxonomy "authors") }}
@@ -95,9 +94,10 @@
         {{ end }}
       {{ end }}
     </div>
-  {{ end }}  */}}
+  {{ end }}
 
-  {{ if (.Params.showTaxonomies | default (.Site.Params.article.showTaxonomies | default false) ) }}
+  {{/* Output taxonomies */}}
+  {{ if and (eq $scope "single") (.Params.showTaxonomies | default (.Site.Params.article.showTaxonomies | default false)) }}
     <div class="flex flex-row flex-wrap items-center">
       {{ range $taxonomy, $terms := .Site.Taxonomies }}
         {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series")) }}
@@ -123,4 +123,5 @@
       {{ end }}
     </div>
   {{ end }}
+
 {{ end }}
