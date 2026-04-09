@@ -3,7 +3,7 @@ title: "The Alium Status"
 description: "The Alium is a Garry's Mod and other Source games community based on the Steam Group with some specific concepts and rules."
 ---
 
-### Starry Steam Unit![teee](unit_starry_steam.png)
+### Starry Steam Unit![image](unit_starry_steam.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Erick_Maksimets      | Officer              | Alium Train(video +1)| Starry Steam         | Until 01/05/2026     |
@@ -12,7 +12,7 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | DenDi85              | Publicist            | HLDM Gamemode        | Starry Steam         | —                    |
 | RoboKnife            | Reviewer             | Reviews: classic gms | Starry Steam         | —                    |
 
-### Renaissance Unit![teee](unit_renaissance.png)
+### Renaissance Unit![image](unit_renaissance.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | denomito             | Officer              | Frontfire Gamemode   | Renaissance          | —                    |
@@ -20,7 +20,7 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | DOES IT HURT?        | Organizer            | TTT improvements     | Renaissance          | —                    |
 | Winterskin           | Organizer            | Not working          | Renaissance          | —                    |
 
-### Pika Software External Unit![teee](unit_pika_software.png)
+### Pika Software External Unit![image](unit_pika_software.png)
 | Name                 | Position             | Working on           | Unit                 | Work Period          |
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Unknown Developer    | External Officer     | Ash Gamemodes        | Pika Software        | —                    |
