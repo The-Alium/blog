@@ -14,13 +14,7 @@ title: "Posts"
 
 
 
-<!-- Real websites that are built with Blowfish. Check the full list in [JSON format](/users/users.json).
+Here's a all posts starting from 2019, when we started using Steam's announcements.
 
+---
 
-{{< alert >}}
-
-**Blowfish user?** To add your site to this list, [submit a pull request](https://github.com/nunocoracao/blowfish/blob/dev/exampleSite/content/users/users.json).
-
-{{</ alert >}}
-
-</BR> -->
