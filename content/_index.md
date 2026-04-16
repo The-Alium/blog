@@ -1,6 +1,6 @@
 ---
-title: "The Alium Community"
-description: "The Alium Community is an international group of players and developers in Garry's Mod."
+title: "The Alium - International Community in Garry's Mod"
+description: "The Alium Community is an international group of players and developers in Garry's Mod.\nWe play non-roleplay gamemodes and have a great time together."
 ---
 
 # Welcome!
@@ -16,7 +16,7 @@ The Alium Сommunity has a large documented legacy in the form of publications i
 {{<
 carousel
 interval=2000
-images="{images/gallery/01.png,images/gallery/08.png,images/gallery/09.jpg,images/gallery/04.png,images/gallery/11.png,images/gallery/10.png,images/gallery/07.gif}"
+images="{images/posters/2025_01.png,images/arts/argax_us_gaming.png,images/posters/2025_12.png,images/posters/dendi85.png,images/screenshots/toilet.png,images/posters/miku.png,images/arts/argax_us_flight.png}"
 >}}
 
 ---
@@ -33,9 +33,10 @@ images="{images/gallery/01.png,images/gallery/08.png,images/gallery/09.jpg,image
 ---
 
 {{< gallery >}}
-  <img src="images/line01.jpg" class="grid-w33" />
-  <img src="images/line02.jpg" class="grid-w33" />
-  <img src="images/line03.jpg" class="grid-w33" />
+<img src="images/screenshots/slender.jpg" class="grid-w100 md:grid-w50 xl:grid-w50" alt="slender" />
+<img src="images/screenshots/terrortown.jpg" class="grid-w100 md:grid-w50 xl:grid-w50" alt="terrortown" />
+<img src="images/screenshots/hl2dm.jpg" class="grid-w100 md:grid-w50 xl:grid-w50" alt="hl2dm" />
+<img src="images/screenshots/zombie_survival.jpg" class="grid-w100 md:grid-w50 xl:grid-w50" alt="zombie survival" />
 {{< /gallery >}}
 
 ## GROUP COMPOSITION
