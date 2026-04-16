@@ -3,7 +3,7 @@ title: "International Community in Garry's Mod"
 description: "The Alium Community is an international group of players who organize various projects and simply have a great time together."
 ---
 
-# Welcome!
+# Welcome to our blog!
 
 ## *Playing non-roleplay gamemodes and drinking tea since 2018.*
 
