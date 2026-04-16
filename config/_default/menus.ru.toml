@@ -31,17 +31,17 @@
 #   pageRef = "series"
 #   weight = 10
 
-# [[main]]
-#   name = "Теги"
-#   parent = "Посты"
-#   pageRef = "tags"
-#   weight = 20
+[[main]]
+  name = "Теги"
+  parent = "Посты"
+  pageRef = "tags"
+  weight = 20
 
-# [[main]]
-#   name = "Авторы"
-#   parent = "Посты"
-#   pageRef = "authors"
-#   weight = 30
+[[main]]
+  name = "Авторы"
+  parent = "Посты"
+  pageRef = "authors"
+  weight = 30
 
 #[[subnavigation]]
 #  name = "An interesting topic"
