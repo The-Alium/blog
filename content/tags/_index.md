@@ -1,5 +1,9 @@
 ---
-title: Tags
+title: "Tags"
+description: "Each post has a tag that reflects whether it is *global matter* or *local matter*."
+layoutBackgroundHeaderSpace: true
+tags: ["tags", "tag"]
+slug: "tags"
 ---
 
 Each post has a tag that reflects whether it is *global matter* or *local matter*.
