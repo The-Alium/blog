@@ -26,8 +26,8 @@ enableEmoji = true
 
 [taxonomies]
   tag = "tags"
-  author = "authors"
   series = "series"
+  author = "authors"
 
 [sitemap]
   changefreq = 'daily'
