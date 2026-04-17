@@ -41,8 +41,10 @@ images="{images/posters/2025_01.png,images/arts/argax_us_gaming.png,images/poste
 
 ## GROUP COMPOSITION
 The group composition is presented in a table in English to avoid translation inaccuracies and ensure quick updates. You can view the group composition here:
-{{< article link="/officials/" showSummary=true compactSummary=false >}}
+
+{{< article link="/officials/" >}}
 
 ## ARTICLES AND POSTS
 The current concept stipulates that the community records important events in the game and writes reports based on information about them. Along with the articles, the community publishes posts related to the group. You can view the announcements here:
-{{< article link="/posts/" showSummary=true compactSummary=false >}}
+
+{{< article link="/posts/" >}}

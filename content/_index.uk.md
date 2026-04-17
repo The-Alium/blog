@@ -35,8 +35,8 @@ images="{images/posters/2025_01.png,images/arts/argax_us_gaming.png,images/poste
 
 ## СКЛАД ГРУПИ
 Склад групи оформлений у вигляді таблиці англійською мовою, щоб уникнути неточностей перекладів і забезпечити швидке оновлення інформації. Переглянути склад групи можна тут.
-{{< article link="/officials/" showSummary=true compactSummary=false >}}
+{{< article link="/officials/" >}}
 
 ## ДОПОВІДІ ТА ЗАПИСИ
 В актуальних концепціях передбачено, що спільнота фіксує важливі події в грі та пише на основі інформації про них доповіді, разом з доповідями спільнота публікує записи, що стосуються групи. Переглянути оголошення можна тут.
-{{< article link="/posts/" showSummary=true compactSummary=false >}}
+{{< article link="/posts/" >}}
