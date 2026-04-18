@@ -16,5 +16,3 @@ In 2025, The Alium Community collectively logged hundreds of hours in Garry’s 
 Happy New Year!
 
 {{<youtubeLite id="EmehpbOKqkw" label="Video about year 2025 of The Alium">}}
-
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

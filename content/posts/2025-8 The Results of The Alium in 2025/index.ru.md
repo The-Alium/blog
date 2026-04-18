@@ -16,5 +16,3 @@ authors:
 С наступающим вас!
 
 {{<youtubeLite id="EmehpbOKqkw" label="Video about year 2025 of The Alium">}}
-
-> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

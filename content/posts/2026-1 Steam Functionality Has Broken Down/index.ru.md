@@ -19,4 +19,4 @@ Discord, несмотря на то что мы через него провод
 
 > [Alium.p1ka.eu — Наш сайт](https://alium.p1ka.eu/)
 
-> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>
+> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198152226525)<br/>

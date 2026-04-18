@@ -19,4 +19,4 @@ The site is not yet fully complete: we are still migrating old articles and post
 
 > [Alium.p1ka.eu — Our website](https://alium.p1ka.eu/)
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>
+> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/profiles/76561198152226525)<br/>
