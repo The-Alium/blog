@@ -5,7 +5,7 @@ description: "Принятие блокировок от сателлитов"
 summary: "Принятие блокировок от сателлитов"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

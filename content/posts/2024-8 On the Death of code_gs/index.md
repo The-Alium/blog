@@ -5,7 +5,7 @@ draft: false
 description: "Developer code_gs tragically passed away in a car accident in April 2024. The Garry's Mod community learned about his death only months later."
 tags: ["news", "Global Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

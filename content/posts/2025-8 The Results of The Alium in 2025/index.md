@@ -4,7 +4,7 @@ date: 2025-12-31
 description: "2025 has come to an end"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

@@ -5,7 +5,7 @@ draft: false
 description: "11 марта 2024 года прекратил работу Prostir Sandbox — один из самых заметных украинских серверов Garry's Mod, просуществовавший около двух лет."
 tags: ["Новости", "Глобальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

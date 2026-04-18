@@ -5,7 +5,7 @@ description: "Пятая пасхалка на Erick's Town"
 summary: "Пятая пасхалка на Erick's Town"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

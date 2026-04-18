@@ -1,26 +1,11 @@
 ---
 title: "Посты"
-# draft: false
-# description: "Some real-life Blowfish examples."
-# slug: "posts"
-# tags: ["posts", "post"]
-# showDate: false
-# showAuthor: false
-# showReadingTime: false
-# showEdit: false
-# layoutBackgroundHeaderSpace: false
-# cardViewScreenWidth: false
+description: "Все посты начиная с 2019 года, когда мы начали использовать систему объявлений в стим группе."
+layoutBackgroundHeaderSpace: true
+tags: ["posts", "post"]
+slug: "posts"
 ---
 
+Все посты начиная с 2019 года, когда мы начали использовать систему объявлений в стим группе.
 
-
-<!-- Real websites that are built with Blowfish. Check the full list in [JSON format](/users/users.json).
-
-
-{{< alert >}}
-
-**Blowfish user?** To add your site to this list, [submit a pull request](https://github.com/nunocoracao/blowfish/blob/dev/exampleSite/content/users/users.json).
-
-{{</ alert >}}
-
-</BR> -->
+---

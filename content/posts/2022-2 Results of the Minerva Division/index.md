@@ -6,7 +6,7 @@ description: "Results of The Alium in 2021"
 summary: "Results of The Alium in 2021"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

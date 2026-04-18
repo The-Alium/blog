@@ -5,7 +5,7 @@ description: "Закрытие GearAlium"
 summary: "Закрытие GearAlium"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

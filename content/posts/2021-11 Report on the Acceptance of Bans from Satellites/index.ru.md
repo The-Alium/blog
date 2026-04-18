@@ -5,7 +5,7 @@ description: "Отчет принятия блокировок от сателл
 summary: "Отчет принятия блокировок от сателлитов"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

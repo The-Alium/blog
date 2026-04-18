@@ -5,7 +5,7 @@ description: "Про структуру сообщества Алиум"
 summary: "Про структуру сообщества Алиум"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

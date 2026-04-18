@@ -6,7 +6,7 @@ description: "Results of SORIP"
 summary: "Results of SORIP"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

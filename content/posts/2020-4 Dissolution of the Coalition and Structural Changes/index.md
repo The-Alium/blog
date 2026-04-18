@@ -6,7 +6,7 @@ description: "Dissolution of the Coalition and Structural Changes"
 summary: "Dissolution of the Coalition and Structural Changes"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

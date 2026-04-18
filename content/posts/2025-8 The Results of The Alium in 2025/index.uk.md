@@ -4,7 +4,7 @@ date: 2025-12-31
 description: "Добіг кінця 2025 рік."
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

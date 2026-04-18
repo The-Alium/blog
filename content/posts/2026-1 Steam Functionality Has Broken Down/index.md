@@ -4,7 +4,7 @@ date: 2026-01-26
 description: "The article describes the factors that prompted our move to a personal website."
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

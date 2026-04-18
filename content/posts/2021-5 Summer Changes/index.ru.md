@@ -5,7 +5,7 @@ description: "Летние изменения"
 summary: "Летние изменения"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

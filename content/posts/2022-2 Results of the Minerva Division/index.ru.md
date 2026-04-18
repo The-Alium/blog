@@ -6,7 +6,7 @@ description: "Результаты подразделения Минервы"
 summary: "Результаты подразделения Минервы"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

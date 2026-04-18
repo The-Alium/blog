@@ -6,7 +6,7 @@ description: "Результаты сообщества The Alium в 2019 год
 summary: "Результаты сообщества The Alium в 2019 году"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

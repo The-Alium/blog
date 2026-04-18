@@ -79,38 +79,40 @@
     {{ end }}
   </div>
 
-  {{/*
-  {{ if and (not (eq $scope "single")) (.Params.showAuthorsBadges | default (.Site.Params.article.showAuthorsBadges | default false) ) }}
-    <div class="flex flex-row flex-wrap items-center">
-      {{ range $taxonomy, $terms := .Site.Taxonomies }}
-        {{ if (eq $taxonomy "authors") }}
-          {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
-            {{ range $i, $a := $context.GetTerms $taxonomy }}
-              {{ if not (eq $i 0) }}
-                ,&nbsp;
+  {{/* Output taxonomies */}}
+  {{ if (eq $scope "single") }}
+    {{ if and (eq $scope "single") (.Params.showTaxonomies | default (.Site.Params.article.showTaxonomies | default false)) }}
+      <div class="flex flex-row flex-wrap items-center">
+        {{ range $taxonomy, $terms := .Site.Taxonomies }}
+          {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series")) }}
+            {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
+              {{ range $context.GetTerms $taxonomy }}
+                <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">
+                  {{ partial "badge.html" .LinkTitle }}
+                </a>
               {{ end }}
-              <a href="{{ $a.RelPermalink }}" class="relative">{{ $a.LinkTitle }}</a>
             {{ end }}
           {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-  {{ end }}  */}}
-
-  {{ if (.Params.showTaxonomies | default (.Site.Params.article.showTaxonomies | default false) ) }}
-    <div class="flex flex-row flex-wrap items-center">
-      {{ range $taxonomy, $terms := .Site.Taxonomies }}
-        {{ if and (not (eq $taxonomy "authors")) (not (eq $taxonomy "series")) }}
-          {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
-            {{ range $context.GetTerms $taxonomy }}
-              <a class="relative mt-[0.5rem] me-2" href="{{ .RelPermalink }}">
-                {{ partial "badge.html" .LinkTitle }}
-              </a>
+      </div>
+    {{ end }}
+  {{ else }}
+    {{ if .Params.showAuthorsBadges | default (.Site.Params.article.showAuthorsBadges | default false) }}
+      <div class="flex flex-row flex-wrap items-center">
+        {{ range $taxonomy, $terms := .Site.Taxonomies }}
+          {{ if (eq $taxonomy "authors") }}
+            {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
+              {{ range $i, $a := $context.GetTerms $taxonomy }}
+                {{ if not (eq $i 0) }}
+                  ,&nbsp;
+                {{ end }}
+                <a href="{{ $a.RelPermalink }}" class="relative">{{ $a.LinkTitle }}</a>
+              {{ end }}
             {{ end }}
           {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
+      </div>
+    {{ end }}
   {{ end }}
 
   {{/* Output only category */}}
@@ -123,4 +125,5 @@
       {{ end }}
     </div>
   {{ end }}
+
 {{ end }}

@@ -6,7 +6,7 @@ description: "About the Structure of the Alium Community"
 summary: "About the Structure of the Alium Community"
 tags: ["news","Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

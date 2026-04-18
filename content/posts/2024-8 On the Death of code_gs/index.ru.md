@@ -5,7 +5,7 @@ draft: false
 description: "В апреле 2024 года в автокатастрофе погиб code_gs — бывший сотрудник Facepunch и заметная фигура в сообществе Garry's Mod."
 tags: ["Новости", "Глобальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

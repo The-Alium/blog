@@ -17,4 +17,4 @@ With the completion of this plan, the **Alium community** now has access to a ne
 Will there be a repeat of **PORiPAK**? — Possibly, in a few months. One of the PORiPAK publications made it to the TOP of the **Garry's Mod** workshop, which provided a nice boost to its statistics.
 
 
-![teee](cover.jpg)
+![image](cover.jpg)

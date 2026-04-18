@@ -6,7 +6,7 @@ description: "Staryy Steam changes"
 summary: "Summary of Staryy Steam changes"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 I have returned and made several changes in the group following the completion of the gathering. You can find more detailed results in the FosFor discussion. The Staryy Steam division has been reformed, and the Flashar division is now called the Center.

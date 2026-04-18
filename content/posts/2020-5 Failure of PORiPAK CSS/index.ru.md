@@ -6,7 +6,7 @@ description: "Провал ПОРиПАК CSS"
 summary: "Провал ПОРиПАК CSS"
 tags: ["Новости", "Локальщина"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---

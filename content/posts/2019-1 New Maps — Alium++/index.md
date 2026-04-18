@@ -6,7 +6,7 @@ description: "New Maps — Alium++"
 summary: "New Maps — Alium++"
 tags: ["news", "Local Matter"]
 authors:
-  - "Erick_Maksimets"
+  - "erick-maksimets"
 ---
 
 ---
