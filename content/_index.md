@@ -1,5 +1,5 @@
 ---
-title: "International Community in Garry's Mod"
+title: "The Alium Community"
 description: "The Alium Community is an international group of players who organize various projects and simply have a great time together."
 ---
 

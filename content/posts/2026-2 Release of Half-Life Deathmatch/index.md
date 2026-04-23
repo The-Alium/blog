@@ -4,7 +4,7 @@ date: 2026-04-18
 description: "We are ready to announce that the Half-Life: Deathmatch gamemode is being released."
 tags: ["news", "Local Matter"]
 authors:
-  - "DenDi85"
+  - "dendi85"
 ---
 
 ---
