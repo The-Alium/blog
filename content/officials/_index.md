@@ -6,9 +6,9 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 ### Starry Steam Unit![teee](unit_starry_steam.png)
 | Name                           | Position             | Working on                     | Unit                 | Work Period          |
 | ------------------------------ | -------------------- | ------------------------------ | -------------------- | -------------------- |
-| Erick_Maksimets                | Officer              | Alium Train(video +1)          | Starry Steam         | Until 06/05/2026     |
-| Ctool                          | Developer            | Alium Train                    | Starry Steam         | Until 06/05/2026     |
-| Sereganeon                     | Organizer            | Not working                    | Starry Steam         | Until 25/04/2026     |
+| Erick_Maksimets                | Officer              | Alium Train(video +1)          | Starry Steam         | Until 10/05/2026     |
+| Ctool                          | Developer            | Alium Train                    | Starry Steam         | Until 10/05/2026     |
+| Sereganeon                     | Organizer            | Not working                    | Starry Steam         | Until 10/05/2026     |
 | DenDi85                        | Publicist            | Not working                    | Starry Steam         | —                    |
 | RoboKnife                      | Reviewer             | Not working                    | Starry Steam         | —                    |
 
