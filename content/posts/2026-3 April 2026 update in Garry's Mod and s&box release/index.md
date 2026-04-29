@@ -1,5 +1,5 @@
 ---
-title: "s&box Release and April 2026 Update in Garry's Mod"
+title: "April 2026 Update in Garry's Mod and s&box Release"
 date: 2026-04-29
 description: "s&box has been released, and alongside it Garry's Mod received its April update"
 tags: ["news", "Global Matter"]
@@ -33,8 +33,8 @@ The Combine APC has been added as a separate vehicle that players can use.
 
 > [The Alium Community prediction regarding s&box;](https://www.youtube.com/post/UgkxGTRrS-Vm_eRsv_58-iMb4ntJPDhBhdNm)<br/>
 
-> [Official community post;](https://store.steampowered.com/news/app/4000/view/498352656701457832)<br/>
+> [Official post in the Community Hub;](https://store.steampowered.com/news/app/4000/view/498352656701457832)<br/>
 
 > [Full changelog in the official developer devblog;](https://gmod.facepunch.com/news/april-2026-update)<br/>
 
-> [Erick_Maksimets retains authorship of the report.](https://steamcommunity.com/profiles/76561198152226525)<br/>
+> [Erick_Maksimets retains authorship of the article.](https://steamcommunity.com/profiles/76561198152226525)<br/>
