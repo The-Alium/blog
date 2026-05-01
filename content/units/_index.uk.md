@@ -1,6 +1,6 @@
 ---
-title: "Подразделения"
-description: "Всі люди, які пишуть пости в нашому сообществі."
+title: "Підрозділи"
+description: "Всі люди, що пишуть пости в нашій спільноті."
 layoutBackgroundHeaderSpace: true
 tags: ["units", "unit"]
 slug: "units"

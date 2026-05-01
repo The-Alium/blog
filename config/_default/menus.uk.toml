@@ -4,7 +4,7 @@
   weight = 10
 
 [[main]]
-  name = "Подразделення"
+  name = "Підрозділи"
   pageRef = "units"
   weight = 20
 
