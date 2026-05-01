@@ -2,7 +2,6 @@
 title: "Теги"
 description: "Каждый пост имеет тег, который отражает его принадлежность к *глобальщине* или *локальщине*."
 layoutBackgroundHeaderSpace: true
-tags: ["tags", "tag"]
 slug: "tags"
 ---
 

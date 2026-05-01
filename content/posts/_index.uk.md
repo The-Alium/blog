@@ -2,7 +2,6 @@
 title: "Пости"
 description: "Усі дописи, починаючи з 2019 року, коли ми почали використовувати систему оголошень у групі Steam."
 layoutBackgroundHeaderSpace: true
-tags: ["posts", "post"]
 slug: "posts"
 ---
 

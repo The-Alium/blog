@@ -4,7 +4,7 @@ date: 2025-10-13
 draft: false
 description: "Старостимівський жовтень"
 summary: "Привіт, ви читаєте текст, написаний Erick_Maksimets, я повернувся вже вдруге."
-tags: ["news", "Local Matter"]
+tags: ["Новини", "Локальщина"]
 authors:
   - "erick-maksimets"
 ---

@@ -2,7 +2,6 @@
 title: "Теги"
 description: "Кожен допис має тег, який вказує на його приналежність до *глобальщини* або *локальщини*."
 layoutBackgroundHeaderSpace: true
-tags: ["tags", "tag"]
 slug: "tags"
 ---
 

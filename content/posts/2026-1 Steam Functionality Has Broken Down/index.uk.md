@@ -2,7 +2,7 @@
 title: "Функціонал Steam доламався"
 date: 2026-01-26
 description: "У статті описані фактори, які спонукали нас перейти на власний сайт."
-tags: ["news", "Local Matter"]
+tags: ["Новини", "Локальщина"]
 authors:
   - "erick-maksimets"
 ---

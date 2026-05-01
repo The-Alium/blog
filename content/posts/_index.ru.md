@@ -2,7 +2,6 @@
 title: "Посты"
 description: "Все посты начиная с 2019 года, когда мы начали использовать систему объявлений в стим группе."
 layoutBackgroundHeaderSpace: true
-tags: ["posts", "post"]
 slug: "posts"
 ---
 

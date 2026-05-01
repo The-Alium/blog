@@ -2,7 +2,7 @@
 title: "Реліз Half-Life: Deathmatch"
 date: 2026-04-18
 description: "Ми готові повідомити про те, що ігровий режим Half-Life: Deathmatch виходить у реліз."
-tags: ["news", "Local Matter"]
+tags: ["Новини", "Локальщина"]
 authors:
   - "dendi85"
 ---

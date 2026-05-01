@@ -2,7 +2,7 @@
 title: "Результати The Alium у 2025 році"
 date: 2025-12-31
 description: "Добіг кінця 2025 рік."
-tags: ["news", "Local Matter"]
+tags: ["Новини", "Локальщина"]
 authors:
   - "erick-maksimets"
 ---

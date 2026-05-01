@@ -2,11 +2,10 @@
 title: "Tags"
 description: "Each post has a tag that reflects whether it is *global matter* or *local matter*."
 layoutBackgroundHeaderSpace: true
-tags: ["tags", "tag"]
 slug: "tags"
 ---
 
-Each post has a tag that reflects whether it is *global matter* or *local matter*.
+Each post has a tag that reflects whether it is _global matter_ or _local matter_.
 
 **Local Matters** - is a term for group announcements concerning changes within our local community, relevant primarily to group members. For example, [Staryy Steams October](/posts/2025-6-starry-steams-october/).
 
