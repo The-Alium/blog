@@ -22,6 +22,11 @@ jobs:
         with:
           hugo-version: "latest"
 
+      - name: Duplicate officials page for all languages
+        run: |
+          cp content/officials/_index.md content/officials/_index.ru.md
+          cp content/officials/_index.md content/officials/_index.uk.md
+
       - name: Build
         run: hugo --minify
 
