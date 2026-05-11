@@ -4,7 +4,7 @@ date: 2025-02-17
 draft: false
 description: "Про смерть Віктора Антонова"
 summary: "Художній дизайн гри має важливе значення для створення її атмосфери та впливає на сприйняття гравця."
-tags: ["news", "Global Matter"]
+tags: ["Новини", "Глобальщина"]
 authors:
   - "dendi85"
 ---
@@ -21,7 +21,7 @@ authors:
 
 > [Стаття PC Gamer](https://www.pcgamer.com/gaming-industry/viktor-antonov-the-visionary-artist-who-defined-half-life-2-and-dishonored-has-died/)<br/>
 
-> [Публікація Eschatology Entertainment у LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&amp;amp;utm_medium=member_android&amp;amp;rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
+> [Публікація Eschatology Entertainment у LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
 
 > [Публікація LambdaGeneration зі скріншотом історії Марка Лейдлоу](https://x.com/LambdaGen/status/1890944782370791719)<br/>
 

@@ -2,7 +2,7 @@
 title: "Релиз s&box и апрельское обновление 2026 в Garry's Mod"
 date: 2026-04-29
 description: "s&box вышел, а вместе с ним для Garry's Mod было выпущено апрельское обновление"
-tags: ["news", "Global Matter"]
+tags: ["Новости", "Глобальщина"]
 authors:
   - "erick-maksimets"
 ---
