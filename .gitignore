@@ -3,3 +3,8 @@
 resources
 public
 go.sum
+
+# if someone tries to push the officials translations,
+# this should block them from doing so.
+content/officials/_index.ru.md
+content/officials/_index.uk.md
