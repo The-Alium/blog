@@ -16,7 +16,7 @@ The Alium Сommunity has a large documented legacy in the form of publications i
 {{<
 carousel
 interval=2000
-images="{images/posters/2025_01.png,images/arts/argax_us_gaming.png,images/posters/2025_12.png,images/posters/dendi85.png,images/screenshots/toilet.png,images/posters/miku.png,images/arts/argax_us_flight.png}"
+images="{images/arts/Units.jpg,images/posters/2025_12.png,images/posters/desertbus.jpg,images/posters/Guys.jpg,images/screenshots/demonDrawed.png,images/arts/ss.jpg,images/arts/argax_us_gaming.png,images/screenshots/bestpicture.jpg}"
 >}}
 
 ---
