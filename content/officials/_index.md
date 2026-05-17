@@ -3,14 +3,6 @@ title: "Community Status"
 description: "The Alium is a Garry's Mod and other Source games community based on the Steam Group with some specific concepts and rules."
 ---
 
-### Starry Steam Unit![teee](unit_starry_steam.png)
-| Name                           | Position             | Working on                     | Unit                 | Work Period          |
-| ------------------------------ | -------------------- | ------------------------------ | -------------------- | -------------------- |
-| Erick_Maksimets                | Officer              | Alium Train                    | Starry Steam         | Until 25/07/2026     |
-| Ctool                          | Developer            | Alium Train                    | Starry Steam         | Until 30/05/2026     |
-| DenDi85                        | Publicist            | Zombie Plague                  | Starry Steam         | Until 25/07/2026     |
-| RoboKnife                      | Reviewer             | Reviews for Airwars, HLDM, FF  | Starry Steam         | Until 25/07/2026     |
-
 ### Renaissance Unit![teee](unit_renaissance.png)
 | Name                           | Position             | Working on                     | Unit                 | Work Period          |
 | ------------------------------ | -------------------- | ------------------------------ | -------------------- | -------------------- |
@@ -18,6 +10,13 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | argax us                       | Developer            | HLDM Gamemode                  | Renaissance          | —                    |
 | DOES IT HURT?                  | Organizer            | Not working                    | Renaissance          | —                    |
 | Winterskin                     | Organizer            | Not working                    | Renaissance          | —                    |
+
+### Starry Steam Unit![teee](unit_starry_steam.png)
+| Name                           | Position             | Working on                     | Unit                 | Work Period          |
+| ------------------------------ | -------------------- | ------------------------------ | -------------------- | -------------------- |
+| Erick_Maksimets                | Officer              | Alium Train                    | Starry Steam         | Until 25/07/2026     |
+| DenDi85                        | Publicist            | Zombie Plague                  | Starry Steam         | Until 25/07/2026     |
+| RoboKnife                      | Reviewer             | Reviews for Airwars, HLDM, FF  | Starry Steam         | Until 25/07/2026     |
 
 ### Pika Software External Unit![teee](unit_pika_software.png)
 | Name                           | Position             | Working on                     | Unit                 | Work Period          |
