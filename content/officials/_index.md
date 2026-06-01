@@ -9,7 +9,9 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | denomito                       | Officer              | Race Gamemode + Tournament     | Renaissance          | Until 29/08/2026     |
 | argax us                       | Developer            | Race Gamemode                  | Renaissance          | Until 29/08/2026     |
 | DOES IT HURT?                  | Organizer            | Bug Boys Tournament            | Renaissance          | Until 29/08/2026     |
+| FosFor                         | Developer            | Race Gamemode                  | Renaissance          | Until 29/08/2026     |
 | Winterskin                     | Organizer            | Hosting TTT until the death    | Renaissance          | —                    |
+
 
 ### Starry Steam Unit![teee](unit_starry_steam.png)
 | Name                           | Position             | Working on                     | Unit                 | Work Period          |
