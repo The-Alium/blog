@@ -11,7 +11,7 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | DOES IT HURT?                  | Organizer            | Bug Boys Tournament            | Renaissance          | Until 29/08/2026     |
 | FosFor                         | Developer            | Race Gamemode                  | Renaissance          | Until 29/08/2026     |
 | Winterskin                     | Organizer            | Hosting TTT until the death    | Renaissance          | —                    |
-| Cash Money                     | Organizer            | Organizing various events      | Renaissance          | —                    |
+| Cash Money                     | Organizer            | Organizing various events      | Renaissance          | Until 29/08/2026                    |
 
 
 ### Starry Steam Unit![teee](unit_starry_steam.png)
