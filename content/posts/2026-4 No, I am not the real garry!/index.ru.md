@@ -2,6 +2,7 @@
 title: "«No, I am not the real garry!»"
 date: 2026-08-02
 description: "В игре появился фейковый Гарри и благодаря нему все получают достижение Yes, I am the real garry!"
+draft: false
 tags: ["Новости", "Глобальщина"]
 authors:
   - "fosfor"
