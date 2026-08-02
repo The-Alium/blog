@@ -1,0 +1,11 @@
+{
+  "name": "FosFor",
+  "image": "img/authors/fosfor.png",
+  "bio": "Renaissance moderator",
+  "social": [
+    { "youtube": "https://www.youtube.com/@fosfor4842" },
+    { "steam": "https://steamcommunity.com/id/Arslem/" },
+    { "github": "https://github.com/FosForNyak" },
+    { "discord": "forforich" }
+  ]
+}
