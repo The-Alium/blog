@@ -5,7 +5,7 @@ description: "В игре появился фейковый Гарри и бла
 draft: false
 tags: ["Новости", "Глобальщина"]
 authors:
-  - "FosFor"
+  - "fosfor"
 ---
 
 ---
