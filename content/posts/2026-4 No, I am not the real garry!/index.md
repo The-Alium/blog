@@ -5,7 +5,7 @@ description: "A fake Garry appeared in the game, allowing everyone to unlock the
 draft: false
 tags: ["News", "Global Matter"]
 authors:
-  - "fosfor"
+  - "FosFor"
 ---
 
 ---

@@ -5,7 +5,7 @@ description: "У грі з'явився фейковий Гаррі, завдя�
 draft: false
 tags: ["Новини", "Глобальщина"]
 authors:
-  - "fosfor"
+  - "FosFor"
 ---
 
 ---
