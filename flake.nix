@@ -27,7 +27,10 @@
 
           shellHook = ''
             # [ -d "$PWD/node_modules" ] || bun install
-            hugo server -b http://localhost -p 8000 --disableFastRender
+            while true; do
+              hugo server -b http://localhost -p 8000 --disableFastRender
+              sleep 1
+            done
           '';
         };
       }
