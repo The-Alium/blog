@@ -22,4 +22,3 @@ After the release of Counter-Strike 2, we should recognize why Garry's Mod was n
 The future of updates for Garry's Mod remains uncertain due to the priorities of the Facepunch developers. We can only hope that Garry Newman's words in an interview with PC Gamer—that the game will be updated as long as people continue to play it—were not a lie.
 
 > [Erick_Malsimets retains authorship of the article](https://steamcommunity.com/profiles/76561198152226525)<br/>
-
