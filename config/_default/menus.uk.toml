@@ -1,50 +1,71 @@
 [[main]]
-  name = "Головна"
-  pageRef = "/"
-  weight = 10
+    name = "Головна"
+    pageRef = "/"
+    weight = 10
 
 [[main]]
-  name = "Підрозділи"
-  pageRef = "units"
-  weight = 20
+    name = "Підрозділи"
+    pageRef = "units"
+    weight = 20
 
 [[main]]
-  name = "Пости"
-  pageRef = "posts"
-  weight = 30
+    name = "Пости"
+    pageRef = "posts"
+    weight = 30
 
 [[main]]
-  name = "Теги"
-  parent = "Пости"
-  pageRef = "tags"
-  weight = 10
+    parent = "Пости"
+    name = "Категорії"
+    pageRef = "categories"
+    weight = 10
 
 [[main]]
-  name = "Автори"
-  parent = "Пости"
-  pageRef = "authors"
-  weight = 20
+    parent = "Пости"
+    name = "Теги"
+    pageRef = "tags"
+    weight = 20
+
+[[main]]
+    name = "Автори"
+    parent = "Пости"
+    pageRef = "authors"
+    weight = 30
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  pre = "github"
-  name = "GitHub"
-  url = "https://github.com/The-Alium"
-  weight = 10
+    name = "RSS"
+    pre = "rss"
+    url = "index.xml"
+    weight = 10
 
 [[footer]]
-  pre = "steam"
-  name = "Steam"
-  url = "https://steamcommunity.com/groups/thealium"
-  weight = 20
+    pre = "github"
+    name = "GitHub"
+    url = "https://github.com/The-Alium"
+    weight = 20
 
 [[footer]]
-  pre = "discord"
-  name = "Discord"
-  url = "https://discord.gg/BmQSQEm8GW"
-  weight = 30
+    pre = "steam"
+    name = "Steam"
+    url = "https://steamcommunity.com/groups/thealium"
+    weight = 30
 
 [[footer]]
-  pre = "youtube"
-  name = "YouTube"
-  url = "https://www.youtube.com/@aliumculture"
-  weight = 40
+    pre = "discord"
+    name = "Discord"
+    url = "https://discord.gg/BmQSQEm8GW"
+    weight = 40
+
+[[footer]]
+    pre = "youtube"
+    name = "YouTube"
+    url = "https://www.youtube.com/@aliumculture"
+    weight = 50

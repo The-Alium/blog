@@ -1,33 +1,33 @@
 [[main]]
-    name = "Главная"
+    name = "Main"
     pageRef = "/"
     weight = 10
 
 [[main]]
-    name = "Подразделения"
+    name = "Units"
     pageRef = "units"
     weight = 20
 
 [[main]]
-    name = "Посты"
+    name = "Posts"
     pageRef = "posts"
     weight = 30
 
 [[main]]
-    parent = "Посты"
-    name = "Категории"
+    parent = "Posts"
+    name = "Categories"
     pageRef = "categories"
     weight = 10
 
 [[main]]
-    parent = "Посты"
-    name = "Теги"
+    parent = "Posts"
+    name = "Tags"
     pageRef = "tags"
     weight = 20
 
 [[main]]
-    name = "Авторы"
-    parent = "Посты"
+    parent = "Posts"
+    name = "Authors"
     pageRef = "authors"
     weight = 30
 
