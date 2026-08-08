@@ -1,6 +1,7 @@
 .vscode/launch.json
 .hugo_build.lock
 resources
+_vendor
 public
 go.sum
 
