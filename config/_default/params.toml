@@ -123,8 +123,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
     invertPagination = false
 
     showReadingTime = true
+    relatedContentLimit = 3
     showRelatedContent = true
-    relatedContentLimit = 6
     showTableOfContents = false
 
     # Enable the display of taxonomies for the related article.
