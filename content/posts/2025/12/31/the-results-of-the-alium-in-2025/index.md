@@ -4,7 +4,6 @@ date: 2025-12-31
 description: "2025 has come to an end"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

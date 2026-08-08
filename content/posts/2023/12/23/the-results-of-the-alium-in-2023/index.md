@@ -6,7 +6,6 @@ description: "The Results of The Alium in 2023"
 summary: "Record about the community results in year 2023"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "s8cli"
 ---

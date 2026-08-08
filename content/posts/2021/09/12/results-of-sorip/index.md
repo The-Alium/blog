@@ -6,7 +6,6 @@ description: "Results of SORIP"
 summary: "Results of SORIP"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

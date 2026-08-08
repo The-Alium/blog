@@ -6,7 +6,6 @@ description: "Update on the Map, November Poster, and New Moderator Roles"
 summary: "Update on the Map, November Poster, and New Moderator Roles"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

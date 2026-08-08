@@ -6,7 +6,6 @@ description: "Report on the Acceptance of Bans from Satellites"
 summary: "Report on the Acceptance of Bans from Satellites"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

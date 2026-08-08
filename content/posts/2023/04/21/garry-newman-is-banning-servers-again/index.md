@@ -6,7 +6,6 @@ description: "Garry Newman is Banning Servers Again"
 summary: "Garry's Mod bans Nazi content."
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "sereganeon"
 ---

@@ -6,7 +6,6 @@ description: "Alium Nook Community map release"
 summary: "The latest private project work of the community The Alium"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

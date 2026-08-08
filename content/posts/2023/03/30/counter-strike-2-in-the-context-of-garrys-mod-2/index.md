@@ -6,7 +6,6 @@ description: "Counter-Strike 2 in the Context of Garry's Mod 2"
 summary: "Counter-Strike 2 engine transition explained."
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

@@ -6,7 +6,6 @@ description: "Results of The Alium in 2021"
 summary: "Results of The Alium in 2021"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

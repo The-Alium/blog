@@ -6,7 +6,6 @@ description: "Completion of Translation Project"
 summary: "With the beginning of the anglicization process of the Alium community, there arose a need to translate announcements and current concepts in the Steam group."
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "sereganeon"
 ---

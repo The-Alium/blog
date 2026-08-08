@@ -6,7 +6,6 @@ description: "Implementation of the PORiPAK CSS Plan"
 summary: "Implementation of the PORiPAK CSS Plan"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

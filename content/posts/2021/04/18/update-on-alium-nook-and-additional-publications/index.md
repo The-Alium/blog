@@ -6,7 +6,6 @@ description: "Update on Alium Nook and Additional Publications"
 summary: "Update on Alium Nook and Additional Publications"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

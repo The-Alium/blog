@@ -6,7 +6,6 @@ description: "Community Results of The Alium in 2019"
 summary: "Community Results of The Alium in 2019"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

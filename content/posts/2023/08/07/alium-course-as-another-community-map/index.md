@@ -6,7 +6,6 @@ description: "Alium Course as Another Community Map"
 summary: "Release of gm_alium_course"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

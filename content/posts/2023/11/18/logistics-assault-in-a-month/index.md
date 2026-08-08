@@ -6,7 +6,6 @@ description: "Logistics Assault in a Month"
 summary: "Starry Steam built a fully playable PVE-focused HL2DM map with bot combat in just one month"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

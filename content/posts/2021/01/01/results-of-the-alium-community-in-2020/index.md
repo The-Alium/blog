@@ -6,7 +6,6 @@ description: "Results of The Alium Community in 2020"
 summary: "Results of The Alium Community in 2020"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

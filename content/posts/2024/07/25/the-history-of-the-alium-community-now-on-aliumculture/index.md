@@ -5,7 +5,6 @@ draft: false
 description: "History of The Alium Community"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

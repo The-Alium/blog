@@ -6,7 +6,6 @@ description: "«How Schoolkids Were Stripped on DarkRP Servers»"
 summary: "minors Were forced Stripped on DarkRP Servers"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "boblikut"
 ---

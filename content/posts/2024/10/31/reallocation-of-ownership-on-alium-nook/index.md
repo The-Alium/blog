@@ -5,7 +5,6 @@ draft: false
 description: "On October 31, 2024, DefaultOS released a radically reworked version of Alium Nook after nearly a year of development."
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "DenDi85"
 ---

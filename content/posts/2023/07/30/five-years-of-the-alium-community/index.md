@@ -6,7 +6,6 @@ description: "Five Years of the Alium Community"
 summary: "Five-year anniversary"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

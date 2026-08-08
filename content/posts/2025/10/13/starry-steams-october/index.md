@@ -6,7 +6,6 @@ description: "Starry Steam's October"
 summary: "Hello, you are reading a text written by Erick_Maksimets, and I have returned for the second time."
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

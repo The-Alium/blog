@@ -6,7 +6,6 @@ description: "Completion of Work on PRiPIR"
 summary: "Completion of Work on PRiPIR"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "flashar"
 ---

@@ -6,7 +6,6 @@ description: "Completion of the Second PORiPAK and April Changes"
 summary: "Completion of the Second PORiPAK and April Changes"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "flashar"
 ---

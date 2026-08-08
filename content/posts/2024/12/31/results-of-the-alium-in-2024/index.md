@@ -5,7 +5,6 @@ draft: false
 description: "An overview of the key events that took place in The Alium throughout 2024, presented in the traditional annual report format."
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "Sereganeon"
 ---

@@ -6,7 +6,6 @@ description: "Summer Changes"
 summary: "Summer Changes"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

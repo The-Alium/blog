@@ -6,7 +6,6 @@ description: "Beginning of Work on PRiPIR"
 summary: "Beginning of Work on PRiPIR"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "flashar"
 ---

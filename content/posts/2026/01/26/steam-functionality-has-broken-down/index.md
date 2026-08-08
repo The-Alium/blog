@@ -4,7 +4,6 @@ date: 2026-01-26
 description: "The article describes the factors that prompted our move to a personal website."
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

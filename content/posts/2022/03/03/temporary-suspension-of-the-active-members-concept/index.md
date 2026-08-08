@@ -6,7 +6,6 @@ description: "Temporary Suspension of the Active Members Concept"
 summary: "Temporary Suspension of the Active Members Concept"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "flashar"
 ---

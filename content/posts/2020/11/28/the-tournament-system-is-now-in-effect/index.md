@@ -6,7 +6,6 @@ description: "The Tournament System is Now in Effect"
 summary: "The Tournament System is Now in Effect"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

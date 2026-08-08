@@ -6,7 +6,6 @@ description: "Implementation of the SORIP Plan"
 summary: "Implementation of the SORIP Plan"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

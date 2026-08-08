@@ -6,7 +6,6 @@ description: "Alium Members Are Once Again Engaging in Nonsense and Creating the
 summary: "The release of TTT Null RPG"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "gunter"
 ---

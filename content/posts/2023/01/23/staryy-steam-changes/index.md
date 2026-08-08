@@ -6,7 +6,6 @@ description: "Staryy Steam changes"
 summary: "Summary of Staryy Steam changes"
 tags: ["news"]
 categories: ["Community Corner"]
-series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---
