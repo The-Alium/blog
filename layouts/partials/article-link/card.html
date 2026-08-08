@@ -8,9 +8,13 @@
 {{ $page := .Page }}
 {{ $featured := "" }}
 {{ $featuredURL := "" }}
+{{ $thumbnailAspectRatio := site.Params.thumbnailAspectRatio | default "1.5" }}
+{{ $thumbnailAspectRatio = replaceRE "[^0-9.]" "" $thumbnailAspectRatio }}
+{{ if eq $thumbnailAspectRatio "" }}{{ $thumbnailAspectRatio = "1.5" }}{{ end }}
 {{ if not .Params.hideFeatureImage }}
   {{/* frontmatter */}}
   {{ with $page }}
+    {{ $p := . }}
     {{ with .Params.featureimage }}
       {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
         {{ if site.Params.hotlinkFeatureImage }}
@@ -19,7 +23,10 @@
           {{ $featured = resources.GetRemote . }}
         {{ end }}
       {{ else }}
-        {{ $featured = resources.Get . }}
+        {{ $featured = $p.Resources.Get . }}
+        {{ if not $featured }}
+          {{ $featured = resources.Get . }}
+        {{ end }}
       {{ end }}
     {{ end }}
 
@@ -55,16 +62,17 @@
 
 
 <article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 shadow-2xl dark:border-neutral-600">
+  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   {{ with $featuredURL }}
-    <div class="flex-none relative overflow-hidden thumbnail_card">
+    <div
+      class="flex-none relative overflow-hidden thumbnail_card"
+      style="--thumbnail-aspect-ratio: {{ $thumbnailAspectRatio }}">
       <img
         src="{{ . }}"
-        alt="{{ $page.Title | plainify }}"
         role="presentation"
         loading="lazy"
         decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
+        class="not-prose absolute inset-0 w-full h-full object-cover" />
     </div>
   {{ end }}
   {{ if and .Draft .Site.Params.article.showDraftLabel }}
@@ -106,30 +114,6 @@
         {{ .Summary | plainify }}
       </div>
     {{ end }}
-
-    {{/*  {{ $context := . }}
-
-    {{ if (reflect.IsMap . ) }}
-      {{ $context = .context }}
-    {{ end }}
-
-    {{ if .Params.showAuthorsBadges | default (.Site.Params.article.showAuthorsBadges | default false) }}
-      <div class="absolute bottom-2 hover:underline hover:underline-offset-2 text-sm text-neutral-500 dark:text-neutral-400">
-        {{ range $taxonomy, $terms := .Site.Taxonomies }}
-          {{ if (eq $taxonomy "authors") }}
-            {{ if (gt (len ($context.GetTerms $taxonomy)) 0) }}
-              {{ range $i, $a := $context.GetTerms $taxonomy }}
-                {{ if not (eq $i 0) }}
-                  ,&nbsp;
-                {{ end }}
-                <a href="{{ $a.RelPermalink }}" class="relative">{{ $a.LinkTitle }}</a>
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </div>
-    {{ end }}  */}}
-
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
