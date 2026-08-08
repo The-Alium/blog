@@ -3,7 +3,8 @@ title: "Half-Life 2's 20th Anniversary"
 date: 2024-11-16
 draft: false
 description: "Valve celebrates the 20th anniversary of Half-Life 2 with a major update, documentary release, expanded print edition announcement, and multiple technical improvements."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "DenDi85"
 ---

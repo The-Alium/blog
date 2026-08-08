@@ -4,7 +4,9 @@ date: 2021-03-10
 draft: false
 description: "Cancellation of Several Concepts in the Community"
 summary: "Cancellation of Several Concepts in the Community"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

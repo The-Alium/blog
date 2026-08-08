@@ -3,7 +3,8 @@ title: "Nintendo has reached Garry's Mod"
 date: 2024-04-26
 draft: false
 description: "In April 2024, Garry’s Mod addons related to Nintendo games were removed following copyright complaints, sparking community outrage and debates over potential DMCA abuse."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "s8cli"
 ---

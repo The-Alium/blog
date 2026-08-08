@@ -4,7 +4,9 @@ date: 2020-10-26
 draft: false
 description: "The Grata System is Now in Effect"
 summary: "The Grata System is Now in Effect"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

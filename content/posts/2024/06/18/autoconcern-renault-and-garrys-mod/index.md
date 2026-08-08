@@ -3,7 +3,8 @@ title: "Autoconcern Renault and Garry's Mod"
 date: 2024-06-18
 draft: false
 description: "Renault launched an advertising campaign inside Garry's Mod through a custom gamemode created by Zet0r, centered around their new electric vehicle R5."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "DenDi85"
 ---

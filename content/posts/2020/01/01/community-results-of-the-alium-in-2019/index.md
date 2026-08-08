@@ -4,7 +4,9 @@ date: 2020-01-01
 draft: false
 description: "Community Results of The Alium in 2019"
 summary: "Community Results of The Alium in 2019"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

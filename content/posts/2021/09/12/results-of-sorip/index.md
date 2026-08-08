@@ -4,7 +4,9 @@ date: 2021-09-12
 draft: false
 description: "Results of SORIP"
 summary: "Results of SORIP"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

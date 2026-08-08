@@ -4,7 +4,9 @@ date: 2021-11-12
 draft: false
 description: "Report on the Acceptance of Bans from Satellites"
 summary: "Report on the Acceptance of Bans from Satellites"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

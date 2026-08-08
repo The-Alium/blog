@@ -3,7 +3,8 @@ title: "July 2024 Update in Garry's Mod"
 date: 2024-08-01
 draft: false
 description: "The July 2024 update introduced significant Q-menu improvements, new administrative commands, and multiplayer enhancements without breaking existing workshop content."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "s8cli"
 ---

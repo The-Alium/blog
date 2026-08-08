@@ -4,10 +4,11 @@ date: 2022-11-01
 draft: false
 description: "Completion of Work on PRiPIR"
 summary: "Completion of Work on PRiPIR"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "flashar"
-
 ---
 
 On November 1, 2022, the work on PRiPIR, the project for the restoration and translation of game modes, came to an end. Gunter, who was responsible for the implementation, has ceased his activities.

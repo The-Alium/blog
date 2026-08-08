@@ -3,7 +3,8 @@ title: "October 2024 Update in Garry's Mod"
 date: 2024-10-30
 draft: false
 description: "At the end of October 2024, a new update for Garry's Mod was released, introducing animation fixes, interface improvements, expanded localization, and a new particle editor for add-on developers."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "s8cli"
 ---

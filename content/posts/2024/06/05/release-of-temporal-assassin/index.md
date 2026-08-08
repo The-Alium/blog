@@ -3,7 +3,8 @@ title: "Release of Temporal Assassin"
 date: 2024-06-05
 draft: false
 description: "Temporal Assassin, developed by Magenta of the Digitally Occult team, has been released in the Steam Workshop after years of development and prior distribution on other platforms."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "DenDi85"
 ---

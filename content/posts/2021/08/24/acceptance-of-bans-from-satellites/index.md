@@ -4,7 +4,9 @@ date: 2021-08-24
 draft: false
 description: "Acceptance of Bans from Satellites"
 summary: "Acceptance of Bans from Satellites"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

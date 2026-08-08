@@ -8,12 +8,8 @@ authors:
   - "erick-maksimets"
 ---
 
----
-
 Хоть сервер и отсутствует, но теперь пятая пасхалка на Erick's Town является общеизвестной.
 
 Нет отдельного человека который её нашел, это всего лишь публикация из-за того, что её долгое время не могли найти. Учитывая что GearAlium просуществовал пол месяца, то и не очень удивительно что её никто не нашел. Могу вас убедить что в нынешнее время на карте нет никаких пасхалок, по этому не нужно на нее тратить время.
 
-> [Fifth Easter Egg — Видео на YouTube](https://www.youtube.com/watch?v=I3dPTVu-bFg)<br/>
-
-> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/id/ErickMaksimets)<br/>
+{{< youtubeLite id="I3dPTVu-bFg" label="Fifth Easter Egg — Видео на YouTube" >}}

@@ -4,7 +4,9 @@ date: 2022-04-14
 draft: false
 description: "Completion of the Second PORiPAK and April Changes"
 summary: "Completion of the Second PORiPAK and April Changes"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "flashar"
 ---

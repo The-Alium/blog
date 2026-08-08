@@ -3,7 +3,8 @@ title: "«No, I am not the real garry!»"
 date: 2026-08-02
 description: "A fake Garry appeared in the game, allowing everyone to unlock the 'Yes, I am the real garry!' achievement."
 draft: false
-tags: ["News", "Global Matter"]
+tags: ["News"]
+categories: ["World Watch"]
 authors:
   - "fosfor"
 ---

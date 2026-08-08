@@ -4,7 +4,9 @@ date: 2020-07-03
 draft: false
 description: "Dissolution of the Coalition and Structural Changes"
 summary: "Dissolution of the Coalition and Structural Changes"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

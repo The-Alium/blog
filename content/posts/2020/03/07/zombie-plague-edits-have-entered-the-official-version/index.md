@@ -4,7 +4,9 @@ date: 2020-03-07
 draft: false
 description: "Zombie Plague Edits Have Entered the Official Version"
 summary: "Zombie Plague Edits Have Entered the Official Version"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

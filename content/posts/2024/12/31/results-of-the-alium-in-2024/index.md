@@ -3,7 +3,9 @@ title: "Results of The Alium in 2024"
 date: 2024-12-31
 draft: false
 description: "An overview of the key events that took place in The Alium throughout 2024, presented in the traditional annual report format."
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "Sereganeon"
 ---

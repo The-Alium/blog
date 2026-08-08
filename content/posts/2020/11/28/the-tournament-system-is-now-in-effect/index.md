@@ -4,7 +4,9 @@ date: 2020-11-28
 draft: false
 description: "The Tournament System is Now in Effect"
 summary: "The Tournament System is Now in Effect"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

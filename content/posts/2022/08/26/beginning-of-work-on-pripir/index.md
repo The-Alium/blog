@@ -4,10 +4,11 @@ date: 2022-08-26
 draft: false
 description: "Beginning of Work on PRiPIR"
 summary: "Beginning of Work on PRiPIR"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "flashar"
-
 ---
 
 We are starting work on our second project of the year (what a feat) - PRiPIR (Project for the Restoration and Translation of Game Modes).

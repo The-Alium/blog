@@ -4,7 +4,9 @@ date: 2021-12-12
 draft: false
 description: "Update on the Map, November Poster, and New Moderator Roles"
 summary: "Update on the Map, November Poster, and New Moderator Roles"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

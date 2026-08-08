@@ -4,7 +4,9 @@ date: 2021-07-24
 draft: false
 description: "About the Structure of the Alium Community"
 summary: "About the Structure of the Alium Community"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

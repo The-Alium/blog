@@ -4,7 +4,9 @@ date: 2023-12-07
 draft: false
 description: "Alium Members Are Once Again Engaging in Nonsense and Creating the Unexplained"
 summary: "The release of TTT Null RPG"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "gunter"
 ---

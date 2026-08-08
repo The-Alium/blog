@@ -4,7 +4,9 @@ date: 2020-07-03
 draft: false
 description: "Implementation of the PORiPAK CSS Plan"
 summary: "Implementation of the PORiPAK CSS Plan"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

@@ -4,7 +4,9 @@ date: 2022-03-03
 draft: false
 description: "Temporary Suspension of the Active Members Concept"
 summary: "Temporary Suspension of the Active Members Concept"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "flashar"
 ---

@@ -4,7 +4,8 @@ date: 2023-07-16
 draft: false
 description: "OctoGames Has Closed"
 summary: "Closure of OctoGames gaming server"
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "gunter"
 ---

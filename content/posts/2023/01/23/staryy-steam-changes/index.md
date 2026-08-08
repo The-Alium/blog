@@ -4,7 +4,9 @@ date: 2023-01-23
 draft: false
 description: "Staryy Steam changes"
 summary: "Summary of Staryy Steam changes"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---
@@ -24,4 +26,3 @@ A separate forum will be introduced with guides in various languages, coordinati
 > [Alium Nook](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477163053/)<br/>
 
 > [Erick_Malsimets retains authorship of the article](https://steamcommunity.com/profiles/76561198152226525)<br/>
-

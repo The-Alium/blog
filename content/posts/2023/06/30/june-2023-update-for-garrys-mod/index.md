@@ -4,7 +4,8 @@ date: 2023-06-30
 draft: false
 description: "June 2023 Update for Garry's Mod"
 summary: "About the update ..."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "chebrik"
 ---

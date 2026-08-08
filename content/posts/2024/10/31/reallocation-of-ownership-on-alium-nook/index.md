@@ -3,7 +3,9 @@ title: "Reallocation of ownership on Alium Nook"
 date: 2024-10-31
 draft: false
 description: "On October 31, 2024, DefaultOS released a radically reworked version of Alium Nook after nearly a year of development."
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "DenDi85"
 ---

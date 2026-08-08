@@ -4,7 +4,9 @@ date: 2023-08-27
 draft: false
 description: "August Will Be Remembered for Cheating and Mikhail Belyaev"
 summary: "Incredible detective story about cheating and betrayal"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

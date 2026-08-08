@@ -3,7 +3,8 @@ title: "Release of Jailbreak: Unknown's Cut"
 date: 2024-04-04
 draft: false
 description: "After several months of community support and testing, Jailbreak: Unknown's Cut has officially been released in the Steam Workshop as a standalone and fully completed gamemode."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "erick-maksimets"
 ---

@@ -3,7 +3,8 @@ title: "The Best-Selling PC Exclusive of All Time"
 date: 2024-09-18
 draft: false
 description: "Garry’s Mod has officially been recognized by Guinness World Records as one of the best-selling PC exclusives in history, surpassing major industry titles."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "s8cli"
 ---

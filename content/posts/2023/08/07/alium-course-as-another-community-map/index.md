@@ -4,7 +4,9 @@ date: 2023-08-07
 draft: false
 description: "Alium Course as Another Community Map"
 summary: "Release of gm_alium_course"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

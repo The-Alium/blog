@@ -4,7 +4,8 @@ date: 2023-06-30
 draft: false
 description: "«Viruses in the Workshop» — Round Two"
 summary: "New acts of malicious actors"
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "erick-maksimets"
 ---

@@ -4,7 +4,9 @@ date: 2021-07-30
 draft: false
 description: "Implementation of the SORIP Plan"
 summary: "Implementation of the SORIP Plan"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

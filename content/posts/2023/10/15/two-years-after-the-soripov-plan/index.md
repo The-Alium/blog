@@ -4,7 +4,8 @@ date: 2023-10-15
 draft: false
 description: "Two Years After the Soripov Plan"
 summary: "Analysis of the consequences of the SORIP plan"
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "erick-maksimets"
 ---

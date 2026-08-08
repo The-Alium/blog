@@ -3,7 +3,8 @@ title: "March 2024 Update in Garry's Mod"
 date: 2024-03-15
 draft: false
 description: "The March 2024 update introduced extensive crosshair customization, Sandbox improvements, Source TV fixes, and multiple optimizations, while also causing new issues with player models and particle effects."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "s8cli"
 ---

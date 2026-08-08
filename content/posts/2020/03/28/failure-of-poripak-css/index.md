@@ -4,7 +4,9 @@ date: 2020-03-28
 draft: false
 description: "Failure of PORiPAK CSS"
 summary: "Failure of PORiPAK CSS"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

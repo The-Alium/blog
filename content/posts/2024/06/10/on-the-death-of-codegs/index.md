@@ -3,7 +3,8 @@ title: "On the Death of code_gs"
 date: 2024-06-10
 draft: false
 description: "Developer code_gs tragically passed away in a car accident in April 2024. The Garry's Mod community learned about his death only months later."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "erick-maksimets"
 ---

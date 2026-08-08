@@ -4,7 +4,8 @@ date: 2023-09-19
 draft: false
 description: "About Dav0r's death"
 summary: "Memorial post in honor of Dave Hunt"
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "s8cli"
 ---

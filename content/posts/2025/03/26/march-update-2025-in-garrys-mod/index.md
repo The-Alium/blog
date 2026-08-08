@@ -4,7 +4,8 @@ date: 2025-03-26
 draft: false
 description: "March Update 2025 in Garry's Mod"
 summary: "Garry's Mod continues to maintain a standard of 1-2 updates per year. The first update of 2025 will be released on March 26."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "dendi85"
 ---

@@ -3,7 +3,8 @@ title: '"Minor" Game Update from Rubat'
 date: 2024-01-08
 draft: false
 description: "At the beginning of January 2024, a minor Garry's Mod update unexpectedly broke numerous add-ons and server systems due to the removal of the debug function library."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "Sereganeon"
 ---

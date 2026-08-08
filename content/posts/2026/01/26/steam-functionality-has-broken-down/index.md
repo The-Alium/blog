@@ -2,7 +2,9 @@
 title: "Steam Functionality Has Broken Down"
 date: 2026-01-26
 description: "The article describes the factors that prompted our move to a personal website."
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

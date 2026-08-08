@@ -4,7 +4,9 @@ date: 2025-05-28
 draft: false
 description: "Completion of Translation Project"
 summary: "With the beginning of the anglicization process of the Alium community, there arose a need to translate announcements and current concepts in the Steam group."
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "sereganeon"
 ---

@@ -3,7 +3,8 @@ title: "Another Misstep in Game Branch Updates"
 date: 2024-02-25
 draft: false
 description: "The February beta branch updates for Garry’s Mod caused widespread errors, including menu loading failures, crashes, and add-on issues across multiple game versions."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "s8cli"
 ---

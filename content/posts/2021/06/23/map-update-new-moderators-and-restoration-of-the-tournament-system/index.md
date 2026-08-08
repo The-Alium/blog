@@ -4,7 +4,9 @@ date: 2021-06-23
 draft: false
 description: "Map Update, New Moderators, and Restoration of the Tournament System"
 summary: "Map Update, New Moderators, and Restoration of the Tournament System"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

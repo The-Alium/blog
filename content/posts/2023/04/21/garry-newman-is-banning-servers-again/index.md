@@ -4,7 +4,9 @@ date: 2023-04-21
 draft: false
 description: "Garry Newman is Banning Servers Again"
 summary: "Garry's Mod bans Nazi content."
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "sereganeon"
 ---

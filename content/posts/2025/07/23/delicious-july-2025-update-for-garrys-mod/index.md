@@ -4,7 +4,8 @@ date: 2025-07-23
 draft: false
 description: "Delicious July 2025 Update for Garry's Mod"
 summary: "Today, a mid-sized update is being released for Garry's Mod, which brings one particularly surprising change."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "dendi85"
 ---

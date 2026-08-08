@@ -3,7 +3,9 @@ title: "The History of The Alium Community Now on AliumCulture"
 date: 2024-07-25
 draft: false
 description: "History of The Alium Community"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

@@ -4,7 +4,9 @@ date: 2023-11-18
 draft: false
 description: "Logistics Assault in a Month"
 summary: "Starry Steam built a fully playable PVE-focused HL2DM map with bot combat in just one month"
-tags: ["news", "Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

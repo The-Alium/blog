@@ -4,7 +4,9 @@ date: 2021-06-02
 draft: false
 description: "Summer Changes"
 summary: "Summer Changes"
-tags: ["news","Local Matter"]
+tags: ["news"]
+categories: ["Community Corner"]
+series: ["Local Matter"]
 authors:
   - "erick-maksimets"
 ---

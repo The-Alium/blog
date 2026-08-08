@@ -4,7 +4,8 @@ date: 2023-01-27
 draft: false
 description: "January 2023 Update for Garry's Mod"
 summary: "About the update ..."
-tags: ["news", "Global Matter"]
+tags: ["news"]
+categories: ["World Watch"]
 authors:
   - "chebrik"
 ---
@@ -26,4 +27,3 @@ This covers the main highlights for casual users. More detailed information with
 > [January 2023 update as a post on Steam](https://steamcommunity.com/games/garrysmod/announcements/detail/3645135724568000043)<br/>
 
 > [Chebrik retains authorship of the article](https://steamcommunity.com/id/mchebrik)<br/>
-
