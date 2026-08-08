@@ -11,3 +11,9 @@
 .prose {
   font-size: 1.2rem;
 } */
+
+body.zen-mode-enable {
+  #bmc-wbtn, .author {
+    display: flex !important;
+  }
+}
