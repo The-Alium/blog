@@ -25,10 +25,6 @@
     {{/*  {{ if .Params.showEdit | default (.Site.Params.article.showEdit | default false) }}
       {{ $meta.Add "partials" (slice (partial "meta/edit.html" .)) }}
     {{ end }}  */}}
-
-    {{ if .Params.showZenMode | default (.Site.Params.article.showZenMode | default false) }}
-      {{ $meta.Add "partials" (slice (partial "meta/zen-mode.html" .)) }}
-    {{ end }}
   {{ end }}
 
   {{ if and (.Params.showWordCount | default (.Site.Params.article.showWordCount | default false)) (ne .WordCount 0) }}
@@ -47,8 +43,14 @@
     {{ $meta.Add "partials" (slice (partial "meta/likes.html" .)) }}
   {{ end }}
 
-  {{ if and (eq $scope "single") (not .Params.externalURL) (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
-    {{ $meta.Add "partials" (slice (partial "meta/likes_button.html" .)) }}
+  {{ if (eq $scope "single") }}
+    {{ if and (not .Params.externalURL) (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
+      {{ $meta.Add "partials" (slice (partial "meta/likes_button.html" .)) }}
+    {{ end }}
+
+    {{ if .Params.showZenMode | default (.Site.Params.article.showZenMode | default false) }}
+      {{ $meta.Add "partials" (slice (partial "meta/zen-mode.html" .)) }}
+    {{ end }}
   {{ end }}
 
   <div class="flex flex-row flex-wrap items-center">

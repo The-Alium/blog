@@ -9,6 +9,7 @@ colorScheme = "alium"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
+# Whether to enable the accessibility toggle button.
 enableA11y = false
 enableSearch = true
 enableCodeCopy = true
@@ -92,6 +93,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
     showViews = true
     showLikes = false
+    showWordCount = true
 
     showBreadcrumbs = true
     showDraftLabel = true
@@ -101,6 +103,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
     showAuthor = true
     showAuthorBottom = false
+    showAuthorsBadges = true
 
     showHero = true
     heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
@@ -110,6 +113,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
     showEdit = true
     editAppendPath = true
     editURL = "https://github.com/The-Alium/blog/edit/main/content/"
+
+    showZenMode = false
 
     seriesOpened = false
     showHeadingAnchors = true
@@ -134,14 +139,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
     # These will show if showTaxonomies is true.
     showTags = true
 
-    showAuthorsBadges = true
-    showWordCount = true
-
-    sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-    showZenMode = false
-
     # force external links to opne in new tab of the browser (defaults to true)
     externalLinkForceNewTab = true
+    sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
 
 [list]
     showHero = true
