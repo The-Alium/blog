@@ -9,8 +9,6 @@ tags:
   - "Easter Egg"
 categories:
   - "Community Corner"
-series:
-  - "Local Matter"
 authors:
   - "erick-maksimets"
 ---
