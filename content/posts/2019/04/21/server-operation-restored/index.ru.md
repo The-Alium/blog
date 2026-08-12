@@ -2,7 +2,13 @@
 date: 2019-04-21
 title: "Работа сервера восстановлена"
 description: "Работа сервера восстановлена"
-tags: ["Новости", "Локальщина"]
+tags:
+  - "Garry's Mod"
+  - "Dedicated Server"
+categories:
+  - "Community Corner"
+series:
+  - "Community Server"
 authors:
   - "erick-maksimets"
 ---
