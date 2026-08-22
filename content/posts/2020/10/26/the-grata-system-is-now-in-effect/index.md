@@ -4,14 +4,11 @@ date: 2020-10-26
 draft: false
 description: "The Grata System is Now in Effect"
 summary: "The Grata System is Now in Effect"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 With the issuance of this announcement, the concept of the Grata System officially comes into effect within the group.
 
 The Grata System serves as an alternative to the list of undesirable users, rendering the previous resolution for community cleanup invalid from this moment forward.

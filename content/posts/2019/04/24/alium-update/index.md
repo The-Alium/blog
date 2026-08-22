@@ -1,14 +1,10 @@
 ---
-date: 2019-04-24
 title: "Alium+++ Update"
+date: 2019-04-24
 description: "Alium+++ Update"
-tags:
-  - "Garry's Mod"
-  - "Dedicated Server"
-categories:
-  - "Community Corner"
-series:
-  - "Community Server"
+tags: ["Garry's Mod", "Dedicated Server"]
+categories: ["Community Corner"]
+series: ["Community Server"]
 authors:
   - "erick-maksimets"
 ---

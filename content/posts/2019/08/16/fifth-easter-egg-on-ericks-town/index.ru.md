@@ -2,8 +2,8 @@
 title: "Пятая пасхалка на Erick's Town"
 date: 2019-08-16
 description: "Пятая пасхалка на Erick's Town"
-summary: "Пятая пасхалка на Erick's Town"
-tags: ["Новости", "Локальщина"]
+tags: ["Garry's Mod", "Erick's Town", "Карта/Уровень", "Пасхалка"]
+categories: ["Сервер Сообщества"]
 authors:
   - "erick-maksimets"
 ---

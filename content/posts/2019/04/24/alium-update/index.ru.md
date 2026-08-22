@@ -2,13 +2,9 @@
 date: 2019-04-24
 title: "Обновление Alium+++"
 description: "Обновление Alium+++"
-tags:
-  - "Garry's Mod"
-  - "Dedicated Server"
-categories:
-  - "Community Corner"
-series:
-  - "Community Server"
+tags: ["Garry's Mod", "Выделенный Сервер"]
+categories: ["Новости Сообщества"]
+series: ["Сервер Сообщества"]
 authors:
   - "erick-maksimets"
 ---

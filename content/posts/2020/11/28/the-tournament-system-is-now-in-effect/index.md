@@ -4,14 +4,11 @@ date: 2020-11-28
 draft: false
 description: "The Tournament System is Now in Effect"
 summary: "The Tournament System is Now in Effect"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 Following yesterday's test tournament for Quake III FFA, a decision has been made to fully implement the concept of a tournament system within the Alium community. In the future, the registration system for participants will be refined. The option to write rules for any custom mode is still available.
 
 In brief, the tournament system allows for players to be entered into a winners' database for specific modes and to receive some form of reward from the community.

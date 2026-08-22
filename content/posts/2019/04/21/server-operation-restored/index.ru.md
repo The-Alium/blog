@@ -1,14 +1,10 @@
 ---
-date: 2019-04-21
 title: "Работа сервера восстановлена"
+date: 2019-04-21
 description: "Работа сервера восстановлена"
-tags:
-  - "Garry's Mod"
-  - "Dedicated Server"
-categories:
-  - "Community Corner"
-series:
-  - "Community Server"
+tags: ["Garry's Mod", "Выделенный Сервер"]
+categories: ["Новости Сообщества"]
+series: ["Сервер Сообщества"]
 authors:
   - "erick-maksimets"
 ---

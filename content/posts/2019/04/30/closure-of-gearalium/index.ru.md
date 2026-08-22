@@ -2,13 +2,9 @@
 title: "Закрытие GearAlium"
 date: 2019-04-30
 description: "Закрытие GearAlium"
-tags:
-  - "Garry's Mod"
-  - "Dedicated Server"
-categories:
-  - "Community Corner"
-series:
-  - "Community Server"
+tags: ["Garry's Mod", "Выделенный Сервер"]
+categories: ["Новости Сообщества"]
+series: ["Сервер Сообщества"]
 authors:
   - "erick-maksimets"
 ---

@@ -1,14 +1,10 @@
 ---
-date: 2019-04-21
 title: "Server operation Restored"
+date: 2019-04-21
 description: "Server operation Restored"
-tags:
-  - "Garry's Mod"
-  - "Dedicated Server"
-categories:
-  - "Community Corner"
-series:
-  - "Community Server"
+tags: ["Garry's Mod", "Dedicated Server"]
+categories: ["Community Corner"]
+series: ["Community Server"]
 authors:
   - "erick-maksimets"
 ---

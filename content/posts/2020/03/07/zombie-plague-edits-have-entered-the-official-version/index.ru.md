@@ -4,7 +4,8 @@ date: 2020-03-07
 draft: false
 description: "Редакции Zombie Plague вступили в официальную версию"
 summary: "Редакции Zombie Plague вступили в официальную версию"
-tags: ["Новости", "Локальщина"]
+tags: ["Новости"]
+categories: ["Новости Сообщества"]
 authors:
   - "erick-maksimets"
 ---
