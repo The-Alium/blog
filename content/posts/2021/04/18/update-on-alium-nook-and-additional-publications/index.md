@@ -4,14 +4,11 @@ date: 2021-04-18
 draft: false
 description: "Update on Alium Nook and Additional Publications"
 summary: "Update on Alium Nook and Additional Publications"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 Today, the scheduled update for the community map Alium Nook has been released, adding new content for use. In particular, users can now visit a cinema, which will serve as a replacement for the cinema in Erick's Town.
 
 In addition to community plans, user (and now moderator) Heut has created the map Alium's Dirigible, which, like Alium Nook and Erick's Town, holds the status of a unique map for the group.

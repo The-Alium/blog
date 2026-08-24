@@ -4,14 +4,11 @@ date: 2021-01-01
 draft: false
 description: "Results of The Alium Community in 2020"
 summary: "Results of The Alium Community in 2020"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 With the end of the year, you have the opportunity to read additional information about the events that took place from the beginning to the end of 2020.
 
 **The achievements are listed in no particular order:**

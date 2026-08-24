@@ -4,14 +4,11 @@ date: 2021-11-12
 draft: false
 description: "Report on the Acceptance of Bans from Satellites"
 summary: "Report on the Acceptance of Bans from Satellites"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 On August 19, 2021, a plan was formulated to collect ban lists from various organizers and servers to create a massive Alium ban list, which would serve as a barrier against severe violations that may arise in the community, such as cheating.
 
 As of today, the concept of accepting bans from satellites has been enhanced and now includes several features, particularly a revised integrated Stockholm compensation, which allows users to remove themselves from the ban list in a less cumbersome manner.

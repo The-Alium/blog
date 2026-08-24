@@ -4,14 +4,11 @@ date: 2021-07-30
 draft: false
 description: "Implementation of the SORIP Plan"
 summary: "Implementation of the SORIP Plan"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 In light of the restoration of project activity within the community, the implementation of the "SORIP" plan is announced.
 
 SORIP (Creation of a Comprehensive Registry of Distorted Publications) is a plan aimed at creating a large list of guides that violate the rules of "Guides - Our Rules," referencing the Garry's Mod wiki.

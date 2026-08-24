@@ -4,14 +4,11 @@ date: 2021-06-23
 draft: false
 description: "Map Update, New Moderators, and Restoration of the Tournament System"
 summary: "Map Update, New Moderators, and Restoration of the Tournament System"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 First of all, an update has been released for Alium Nook, which includes an updated map date to the present day, portraits of current moderators, references to past moderators, and improvements to the ventilation system, along with new wallpaper.
 
 Secondly, two new moderators have joined the team: Flashar as the Entry Inspector and Bilwin as the Discord Server Administrator. Adolf Fritz has completed his term as Inspector and has returned to organizational activities. He plans to retrain as an executor of PORiPAK.

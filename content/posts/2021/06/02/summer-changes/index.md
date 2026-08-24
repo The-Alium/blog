@@ -4,14 +4,11 @@ date: 2021-06-02
 draft: false
 description: "Summer Changes"
 summary: "Summer Changes"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 Summer 2021 has arrived, which means that the structure of the group is undergoing some changes that can be outlined in this publication.
 
 To begin with, new, more public figures have been added to the Grata Lists to emphasize the broad reach of the group. The user status will now display an informal rating and anti-rating in the Grata lists.
