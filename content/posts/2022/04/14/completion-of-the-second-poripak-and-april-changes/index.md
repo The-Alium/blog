@@ -4,14 +4,11 @@ date: 2022-04-14
 draft: false
 description: "Completion of the Second PORiPAK and April Changes"
 summary: "Completion of the Second PORiPAK and April Changes"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "flashar"
 ---
-
----
-
 Recently, the second project for the restoration and publication of archived maps came to an end. Due to the completion of PORiPAK, a ban on creating events for the Zombie Plague mode has been introduced for a month. Those responsible for the implementation of PORiPAK, namely SoR_Ge and CyberKaiser, have been removed from their positions following its conclusion. DenDi85 has also been removed from the position of entry inspector due to the temporary unnecessity of this role.
 
 Now that the situation has stabilized somewhat, we have decided to return to the concept of active members instead of loyal ones. The Non Grata list has been temporarily frozen, and changes have been made to the Grata list. The Steam group icon has also been changed as a result of a vote.

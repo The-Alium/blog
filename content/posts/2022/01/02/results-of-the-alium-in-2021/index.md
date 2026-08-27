@@ -4,14 +4,11 @@ date: 2022-01-02
 draft: false
 description: "Results of The Alium in 2021"
 summary: "Results of The Alium in 2021"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 With the end of the year, you have the opportunity to read additional information about the events that took place from the beginning to the end of 2021.
 
 **The achievements are listed in no particular order:**

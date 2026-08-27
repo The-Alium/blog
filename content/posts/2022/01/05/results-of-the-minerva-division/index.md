@@ -4,14 +4,11 @@ date: 2022-01-05
 draft: false
 description: "Results of The Alium in 2021"
 summary: "Results of The Alium in 2021"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
-
----
-
 The **Minerva** Division was formed under the leadership of Bilwin by the end of September 2021. For three full months until the end of the year, the division focused on the development of the Discord server, primarily limiting its activities to that platform. Notable achievements include:
 - Organization of a Discord event for Halloween
 - Organization of a Discord event for New Year
