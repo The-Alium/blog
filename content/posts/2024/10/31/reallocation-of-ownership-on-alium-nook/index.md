@@ -20,5 +20,3 @@ The new version of Alium Nook by DefaultOS offers a fresh perspective on the bel
 > [Alium Nook Remake](https://steamcommunity.com/sharedfiles/filedetails/?id=3352968976)<br/>
 
 > [Original Alium Nook](https://steamcommunity.com/sharedfiles/filedetails/?id=2424500105)<br/>
-
-> [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436)<br/>

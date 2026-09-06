@@ -28,5 +28,3 @@ In conclusion, this time there will be no pessimism, only words of gratitude to 
 > [Thegamer gaming source](https://www.thegamer.com/garrys-mod-best-selling-pc-exclusive-all-time/)<br/>
 
 > [Gaming source Neowin](https://www.neowin.net/news/guinness-announces-garrys-mod-is-the-best-selling-pc-exclusive-of-all-time/)<br/>
-
-> [s8cli retains authorship of the article](https://steamcommunity.com/id/BrunH/)<br/>

@@ -24,5 +24,3 @@ authors:
 > [Полный список изменений на официальном девблоге разработчиков](https://gmod.facepunch.com/news/july-2025-update)<br/>
 
 > [Официальный пост в центре сообщества](https://store.steampowered.com/news/app/4000/view/521971443730220876)<br/>
-
-> [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

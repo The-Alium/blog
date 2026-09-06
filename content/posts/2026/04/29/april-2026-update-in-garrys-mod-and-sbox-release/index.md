@@ -37,5 +37,3 @@ The Combine APC has been added as a separate vehicle that players can use.
 > [Official post in the Community Hub;](https://store.steampowered.com/news/app/4000/view/498352656701457832)<br/>
 
 > [Full changelog in the official developer devblog;](https://gmod.facepunch.com/news/april-2026-update)<br/>
-
-> [Erick_Maksimets retains authorship of the article.](https://steamcommunity.com/profiles/76561198152226525)<br/>

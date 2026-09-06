@@ -27,5 +27,3 @@ authors:
 > [Half-Life 2 в Steam](https://store.steampowered.com/app/220/HalfLife_2/)<br/>
 
 > [Документальный фильм](https://youtu.be/YCjNT9qGjh4)<br/>
-
-> [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

@@ -1,4 +1,5 @@
 ---
+
 title: "Results of The Alium in 2021"
 date: 2022-01-02
 draft: false
@@ -7,11 +8,15 @@ summary: "Results of The Alium in 2021"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-  - "erick-maksimets"
+
+- "erick-maksimets"
+
 ---
+
 With the end of the year, you have the opportunity to read additional information about the events that took place from the beginning to the end of 2021.
 
 **The achievements are listed in no particular order:**
+
 - The SORIP project received 1000 complaints; Rubat ignored the message.
 - The Alium community now has 234 members, 4 moderators, and 2 officers fulfilling their duties.
 - Acceptance of bans from satellites. The ban list contains 8490 permanent blocks.
@@ -36,4 +41,4 @@ Happy New Year 2022!
 
 {{<youtubeLite id="l9bqPnI3puM" label="The Alium. Results for 2021">}}
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

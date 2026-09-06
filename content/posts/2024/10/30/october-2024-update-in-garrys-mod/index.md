@@ -24,5 +24,3 @@ Overall, the update does not differ in any significant way from most of those re
 > [Official community centre post](https://store.steampowered.com/news/app/4000/view/4516639958214115673?l=russian)<br/>
 
 > [Full list of changes on the developers' official dev blog](https://gmod.facepunch.com/news/october-2024-update)<br/>
-
-> [s8cli retains authorship of the article](https://steamcommunity.com/id/BrunH/)<br/>

@@ -1,4 +1,5 @@
 ---
+
 title: "Результати спільноти The Alium в 2020 році"
 date: 2021-01-01
 description: "Результати спільноти The Alium в 2020 році"
@@ -6,8 +7,11 @@ summary: "Результати спільноти The Alium в 2020 році"
 tags: ["Новини"]
 categories: ["Новини Ком'юніті"]
 authors:
-  - "erick-maksimets"
+
+- "erick-maksimets"
+
 ---
+
 З закінченням року у вас є можливість ознайомитися з додатковою інформацією про події, що відбулися з початку і до кінця 2020 року.
 
 **Досягнення перелічені без певного порядку:**
@@ -33,4 +37,4 @@ authors:
 
 > [Alium Community - November 2021 Illustration from the community for Garry's Mod](https://www.youtube.com/watch?v=34US-stuOyc&feature=youtu.be)<br/>
 
-> [Erick_Maksimets зберігає авторство докладу](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

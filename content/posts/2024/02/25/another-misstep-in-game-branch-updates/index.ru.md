@@ -20,6 +20,4 @@ authors:
 
 Всем сообществом в очередной раз благодарим за обновление единственному разработчику Garry’s Mod, и надеемся на избежание им же тех ошибок, что он допускал до этого. Правда необходимо дополнить, что Rubat позаботился об игроках и поэтому обновил HTML сообщение об ошибке загрузки меню: «Display a nicer message when the HTML main menu fails to load».
 
-> [s8cli сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198999494870)<br/>
-
 > [Очередное незначительное обновление](https://wiki.facepunch.com/gmod/Update_Preview_Changelog)<br/>

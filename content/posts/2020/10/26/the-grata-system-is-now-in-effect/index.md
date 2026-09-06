@@ -1,4 +1,5 @@
 ---
+
 title: "The Grata System is Now in Effect"
 date: 2020-10-26
 draft: false
@@ -7,8 +8,11 @@ summary: "The Grata System is Now in Effect"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-  - "erick-maksimets"
+
+- "erick-maksimets"
+
 ---
+
 With the issuance of this announcement, the concept of the Grata System officially comes into effect within the group.
 
 The Grata System serves as an alternative to the list of undesirable users, rendering the previous resolution for community cleanup invalid from this moment forward.
@@ -19,4 +23,4 @@ A point regarding subjectivism from the user has been added to the loyalty point
 
 > [Grata Lists — A Dependent Current Concept](https://steamcommunity.com/groups/thealium/discussions/2)
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

@@ -23,5 +23,3 @@ With each new demonstration of developments and publication of addons in the wor
 > [Github project](https://github.com/meetric1/gwater2)<br/>
 
 > [Meetric on Steam](https://steamcommunity.com/id/Meetric)<br/>
-
-> [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

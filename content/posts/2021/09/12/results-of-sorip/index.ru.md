@@ -20,5 +20,3 @@ authors:
 *Rubat снят с Персоны Грата;
 Klen_list, Magenta, datae, PrikolMen повышены в рейтинге и в будущем будут использоваться для показаний по делам связанными с СОРИП.*
 ---
-
-> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/id/ErickMaksimets)<br/>

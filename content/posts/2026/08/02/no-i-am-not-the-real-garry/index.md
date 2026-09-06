@@ -22,5 +22,3 @@ The technique of spoofing SteamIDs is not new. Garry's Mod developers have used 
 The server hosting the fake Garry has since been added to Facepunch's blacklist, meaning it no longer appears in the in-game server browser. Players can only connect directly via its IP address. Garry himself has not commented on the incident, remaining just as indifferent as before.
 
 It is important to note that Valve prohibits impersonating another user's SteamID, whether for a player or a bot. Such actions violate Valve's policies and may result in a VAC ban, permanent account restrictions, or similar sanctions against a Workshop addon or community server.
-
-> [FosFor retains authorship of this report.](https://steamcommunity.com/profiles/76561198819970033)<br/>

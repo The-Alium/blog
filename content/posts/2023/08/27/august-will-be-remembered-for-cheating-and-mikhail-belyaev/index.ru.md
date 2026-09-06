@@ -27,4 +27,3 @@ authors:
 
 > [Вторая санкция сообщества на s4molet1k — Публикация в Беляевском архиве](https://steamcommunity.com/groups/thealium/discussions/10/3817417431877941232/)<br/>
 
-> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/id/ErickMaksimets)<br/>

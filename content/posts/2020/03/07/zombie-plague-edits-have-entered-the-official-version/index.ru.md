@@ -19,5 +19,3 @@ authors:
 Специально для игрового режима была рассчитана четвертая версия баланса и анализ характеристики оружия из Half-Life 2. Спасибо всем за вашу результативность в тестах, ну или же за вашу нерезультативность.
 
 > [Zombie Plague — Игровой режим в мастерской](https://steamcommunity.com/sharedfiles/filedetails/?id=1115250691)
-
-> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/id/ErickMaksimets)<br/>

@@ -20,4 +20,4 @@ From now on, every member of the group, in every sense of the word, has no oblig
 
 > [Results of PORiPAK CSS — Publication in the Hudson Archive](https://steamcommunity.com/groups/thealium/discussions/5/3109145219796259108/)
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

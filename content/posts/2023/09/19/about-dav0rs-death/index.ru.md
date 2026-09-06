@@ -28,5 +28,3 @@ Dav0r(Дэйв Хант) — старый член сообщества, соз�
 > [Страница Dav0r в Twitter](https://twitter.com/_Dav0r)<br/>
 
 > [Пост Richter Overtime в Twitter](https://twitter.com/richterovertime/status/1703305744026640498)<br/>
-
-> [s8cli сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198999494870)<br/>

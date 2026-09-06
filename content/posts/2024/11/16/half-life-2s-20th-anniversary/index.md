@@ -26,5 +26,3 @@ A year ago, similar to Half-Life, Counter-Strike received an anniversary update 
 > [Half-Life 2 on Steam](https://store.steampowered.com/app/220/HalfLife_2/)<br/>
 
 > [Documentary film](https://youtu.be/YCjNT9qGjh4)<br/>
-
-> [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436)<br/>

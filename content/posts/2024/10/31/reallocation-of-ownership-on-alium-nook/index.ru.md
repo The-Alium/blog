@@ -19,5 +19,3 @@ DefaultOS радикально изменил привычный Alium Nook, о�
 > [Alium Nook Remake](https://steamcommunity.com/sharedfiles/filedetails/?id=3352968976)<br/>
 
 > [Оригинальный Alium Nook](https://steamcommunity.com/sharedfiles/filedetails/?id=2424500105)<br/>
-
-> [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

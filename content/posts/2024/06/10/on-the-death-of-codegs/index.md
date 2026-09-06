@@ -22,5 +22,3 @@ Less than a year ago, Dav0r passed away, whose death created a significant media
 > [Official post on the Garry's Mod Discord server](https://discord.com/channels/565105920414318602/588065671296974965/1247596184340791329)<br/>
 
 > [On the death of Dav0r - Alium Community Report](https://steamcommunity.com/groups/thealium/announcements/detail/6740255587980154888)<br/>
-
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>

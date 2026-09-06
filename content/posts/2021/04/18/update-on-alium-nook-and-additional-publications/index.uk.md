@@ -1,4 +1,5 @@
 ---
+
 title: "Оновлення Alium Nook та додаткові публікації"
 date: 2021-04-18
 description: "Оновлення Alium Nook та додаткові публікації"
@@ -6,8 +7,11 @@ summary: "Оновлення Alium Nook та додаткові публікац
 tags: ["Новини"]
 categories: ["Новини Ком'юніті"]
 authors:
-  - "erick-maksimets"
+
+- "erick-maksimets"
+
 ---
+
 Сьогодні вийшло заплановане оновлення для карти спільноти Alium Nook, яке додає новий контент для використання. Зокрема, тепер користувачі можуть відвідати кінотеатр, який слугуватиме заміною кінотеатру в Erick's Town.
 
 Окрім спільнотних планів, користувач (а тепер і модератор) Heut створив карту Alium's Dirigible, яка, як і Alium Nook та Erick's Town, має статус унікальної карти для групи.
@@ -18,4 +22,4 @@ authors:
 
 > [Alium Nook](https://steamcommunity.com/sharedfiles/filedetails/?id=2424500105)
 
-> [Erick_Maksimets зберігає авторство докладу](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

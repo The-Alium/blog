@@ -1,4 +1,5 @@
 ---
+
 title: "Acceptance of Bans from Satellites"
 date: 2021-08-24
 draft: false
@@ -7,8 +8,11 @@ summary: "Acceptance of Bans from Satellites"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-  - "erick-maksimets"
+
+- "erick-maksimets"
+
 ---
+
 Recently, it was decided to add a concept called "Acceptance of Bans from Satellites" to our current practices. This means that if a member of Alium or Grata has their own server, they can provide our organizers with a database of their violators, and those individuals will receive bans not only on your server but also within Alium.
 
 We do this out of pure solidarity with our friends, but honestly, we simply do not want violators from your server to continue beyond a verified participant in Alium. They will know how to create inconveniences for you.
@@ -17,4 +21,4 @@ We are not in a hurry to implement a similar scheme in the opposite direction, a
 
 We will only transfer permanent bans related to cheating or similar actions.
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

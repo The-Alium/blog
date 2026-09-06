@@ -25,5 +25,3 @@ The July update is striking for its inclusion of Counter-Strike: Source and Epis
 > [Full changelog available on the official developer devblog](https://gmod.facepunch.com/news/july-2025-update)<br/>
 
 > [Official post in the Community Hub](https://store.steampowered.com/news/app/4000/view/521971443730220876)<br/>
-
-> [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

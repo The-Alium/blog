@@ -25,5 +25,3 @@ We may be facing some changes ahead; this issue might not only affect World War 
 > [Garry Newman's post with a survey](https://twitter.com/garrynewman/status/1648737747840925701)<br/>
 
 > [Garry Newman's post with explanations](https://twitter.com/garrynewman/status/1648948340216721410)<br/>
-
-> [Sereganeon retains authorship of the article](https://steamcommunity.com/profiles/76561198405572168)<br/>

@@ -25,5 +25,3 @@ Steam moderators, citing Steam ToS rules, may consider such changes in an add-on
 The consequences could lead to a humorous reaction from the community, similar to the larger version that occurred last summer. No negative repercussions are expected from such a trivial stunt. You can check the status of the workshop's blocking through the links below.
 
 > [Status of the workshop Albert Wesker](https://steamcommunity.com/id/546456457456745656786584567/myworkshopfiles/)<br/>
-
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>

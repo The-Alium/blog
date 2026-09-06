@@ -23,5 +23,3 @@ authors:
 > [Официальный пост на Discord сервере Garry's Mod](https://discord.com/channels/565105920414318602/588065671296974965/1247596184340791329)<br/>
 
 > [О смерти Dav0r — Доклад Алиумского сообщества](https://steamcommunity.com/groups/thealium/announcements/detail/6740255587980154888)<br/>
-
-> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/id/ErickMaksimets)<br/>

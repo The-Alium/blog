@@ -27,5 +27,3 @@ Three weeks after the main events, on the Half-Life 2: Deathmatch server run by 
 > [First community sanction on s4molet1k — Publication in the Belyaev Archive](https://steamcommunity.com/groups/thealium/discussions/10/3803905364137207617/)<br/>
 
 > [Second community sanction on s4molet1k — Publication in the Belyaev Archive](https://steamcommunity.com/groups/thealium/discussions/10/3817417431877941232/)<br/>
-
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>

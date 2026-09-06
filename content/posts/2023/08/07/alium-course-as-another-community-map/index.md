@@ -21,5 +21,3 @@ The preparation took a lot of time due to the recruitment of mappers and the est
 > [Alium Course — Map in the workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3012241962)<br/>
 
 > [Fifth anniversary of the Alium community — Announcement in the group](https://steamcommunity.com/groups/thealium/announcements/detail/3649655808293611767)<br/>
-
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>

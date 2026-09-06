@@ -1,4 +1,5 @@
 ---
+
 title: "Community Results of The Alium in 2019"
 date: 2020-01-01
 draft: false
@@ -7,8 +8,11 @@ summary: "Community Results of The Alium in 2019"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-  - "erick-maksimets"
+
+- "erick-maksimets"
+
 ---
+
 As the year comes to a close, you have the opportunity to read additional information about the events that took place from the closure of GearAlium to the end of 2019. The Coalition of Players consists of 12 members, seven of whom are active players. Ten detailed discussions have been written on the group forum, Erick's Town received five major updates, three highly detailed guides were created, and 16 videos were produced.
 
 Numerous scene builds and posters have been created, and some players in the Coalition have managed to take my leadership in game modes with great difficulty. A major development of a new official version of Zombie Plague has begun, aimed at implementing balance changes that were previously on the server.
@@ -19,4 +23,4 @@ Due to this openness, we should have the opportunity to dilute our negative play
 
 Happy New Year!
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

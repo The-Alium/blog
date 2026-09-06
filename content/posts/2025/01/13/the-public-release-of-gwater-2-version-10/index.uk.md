@@ -22,5 +22,3 @@ GWater 2 повністю перевершує попередній аддон �
 > [Проєкт на GitHub](https://github.com/meetric1/gwater2)<br/>
 
 > [Meetric в Steam](https://steamcommunity.com/id/Meetric)<br/>
-
-> [DenDi85 зберігає авторство доповіді](https://steamcommunity.com/profiles/76561198393560436/)<br/>

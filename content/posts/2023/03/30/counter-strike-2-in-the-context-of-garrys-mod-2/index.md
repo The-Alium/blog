@@ -21,5 +21,3 @@ It is important to note that the port of Counter-Strike: Global Offensive to the
 After the release of Counter-Strike 2, we should recognize why Garry's Mod was not updated to Source 2, and instead, we are receiving a completely different game on the same engine. This is due to the absence of in-game transactions or any additional financial incentives for the developers. While the old code presents challenges for updates, it is not a fundamental barrier that should doom the game.
 
 The future of updates for Garry's Mod remains uncertain due to the priorities of the Facepunch developers. We can only hope that Garry Newman's words in an interview with PC Gamer—that the game will be updated as long as people continue to play it—were not a lie.
-
-> [Erick_Malsimets retains authorship of the article](https://steamcommunity.com/profiles/76561198152226525)<br/>

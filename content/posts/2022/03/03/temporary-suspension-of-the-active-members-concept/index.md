@@ -16,5 +16,3 @@ Now that the situation has stabilized somewhat, we have decided to return to the
 Currently, a new event system in Discord is being tested. The essence of the new system is that the #события (events) channel will be removed, and new categories for events and chats for various games on the Source engine will be introduced. To gain access to events and the chat for a specific game, users will need to click on the emoji corresponding to access for that particular game in the #информация (information) channel.
 
 > [Concept of a community activist](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>
-
-> [Flashar retains authorship of the article](https://steamcommunity.com/id/flshrchk)<br/>

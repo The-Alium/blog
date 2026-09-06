@@ -20,5 +20,3 @@ Currently, a new event system in Discord is being tested. The essence of the new
 > [Win rate of maps from the second PORiPAK](https://steamcommunity.com/groups/thealium/discussions/4/3185740658301486137/)<br/>
 
 > [Concept of a community activist](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>
-
-> [Flashar retains authorship of the article](https://steamcommunity.com/groups/thealium/discussions/5/3109145219796259108/)<br/>

@@ -26,5 +26,3 @@ authors:
 > [Июньское обновление 2023 года в блоге Facepunch](https://gmod.facepunch.com/news/june-2023-update)<br/>
 
 > [Июньское обновление 2023 года как публикация в Steam](https://steamcommunity.com/games/garrysmod/announcements/detail/3672171270309976083)<br/>
-
-> [Chebrik сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198417964670)<br/>

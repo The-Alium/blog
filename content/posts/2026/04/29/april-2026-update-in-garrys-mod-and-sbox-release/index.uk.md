@@ -36,5 +36,3 @@ authors:
 > [Офіційний пост у центрі спільноти;](https://store.steampowered.com/news/app/4000/view/498352656701457832)
 
 > [Повний список змін в офіційному девблозі розробників;](https://gmod.facepunch.com/news/april-2026-update)
-
-> [Erick_Maksimets зберігає авторство доповіді.](https://steamcommunity.com/profiles/76561198152226525)

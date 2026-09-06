@@ -21,5 +21,3 @@ The media aspect of the event, such as the rejection of the list by Rubat, plays
 *Rubat has been removed from the Grata Person status;
 Klen_list, Magenta, datae, and PrikolMen have been elevated in rank and will be used for testimonies in cases related to SORIP in the future.*
 ---
-
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>

@@ -22,5 +22,3 @@ authors:
 > [Старый Стим](https://steamcommunity.com/groups/thealium/discussions/5/3762229114477347050/)<br/>
 
 > [Алиум Нук](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477163053/)<br/>
-
-> [Erick_Maksimets сохраняет авторство за докладом](https://steamcommunity.com/profiles/76561198152226525)<br/>

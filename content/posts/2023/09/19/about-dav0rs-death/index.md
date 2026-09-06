@@ -29,5 +29,3 @@ His death brought him popularity not only in the English-speaking community, but
 > [Dav0r's Twitter page](https://twitter.com/_Dav0r)<br/>
 
 > [Richter Overtime's Twitter post](https://twitter.com/richterovertime/status/1703305744026640498)<br/>
-
-> [s8cli retains authorship of the article](https://steamcommunity.com/profiles/76561198999494870)<br/>

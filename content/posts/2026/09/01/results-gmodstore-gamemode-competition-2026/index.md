@@ -42,5 +42,3 @@ Six gamemodes reached the competition final: This Dungeon Stinks!, Dungeon, NULL
 > [The Horizon — GitHub repository](https://github.com/catualus/Project-Horizon)<br/>
 
 > [Merge Empires — GitHub repository](https://github.com/schizophrens/merge_empires)<br/>
-
-> [FosFor retains authorship of the article](https://steamcommunity.com/id/Arslem/)<br/>

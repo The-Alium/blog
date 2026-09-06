@@ -27,5 +27,3 @@ authors:
 > [Официальное объявление об апдейте Garry's Mod на странице сообщества](https://store.steampowered.com/news/app/4000/view/4347747362015458956?)<br/>
 
 > [Журнал изменений на официальном сайте Facepunch](https://gmod.facepunch.com/news/july-2024-update#UpdateHighlights)<br/>
-
-> [s8cli сохраняет авторство доклада](https://steamcommunity.com/id/BrunH/)<br/>

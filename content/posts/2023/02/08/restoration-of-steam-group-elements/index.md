@@ -21,5 +21,3 @@ The forums were also cleaned up and updated, with incorrect titles and similar i
 > [The Alium events page](https://steamcommunity.com/groups/thealium/events)<br/>
 
 > [Forum contexts](https://steamcommunity.com/groups/thealium/discussions/9/3774616756093614302/)<br/>
-
-> [Erick_Malsimets retains authorship of the article](https://steamcommunity.com/profiles/76561198152226525)<br/>

@@ -14,5 +14,3 @@ authors:
 За період існування діячів єдиний новий користувач отримав цю роль — [Cтул](https://steamcommunity.com/id/_ctool), свої позиції пізніше повернули ще [apchistuz](https://steamcommunity.com/id/apchistuz) та [oTvErTkA](https://steamcommunity.com/profiles/76561198375778469).
 
 > [Концепція діячів спільноти](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>
-
-> [Flashar зберігає авторство докладу](https://steamcommunity.com/id/flshrchk)<br/>

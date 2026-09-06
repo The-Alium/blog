@@ -21,5 +21,3 @@ Due to the low online presence, which only occasionally peaked on weekends, the 
 It is worth noting that OctoGames received virtually no advertising and was little known outside the Octothorp Team community. For many, OctoGames was simply a break from Dobrogorod. Additionally, the project was uncompetitive compared to other servers due to the lack of unique elements that could keep players engaged for an extended period. The game modes were standard with only minor changes. The only thing that could briefly captivate players was ChopChop with its mechanics, but even that gameplay was only entertaining for 2-3 evenings before it quickly became tiresome.
 
 > [Octothorp Team's forum](https://forum.octothorp.team/)<br/>
-
-> [Gunter retains authorship of the article](https://steamcommunity.com/profiles/76561198311000048)<br/>

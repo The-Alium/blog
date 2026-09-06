@@ -41,5 +41,3 @@ authors:
 > [The Horizon — репозиторий на GitHub](https://github.com/catualus/Project-Horizon)<br/>
 
 > [Merge Empires — репозиторий на GitHub](https://github.com/schizophrens/merge_empires)<br/>
-
-> [FosFor сохраняет авторство доклада](https://steamcommunity.com/id/Arslem/)<br/>

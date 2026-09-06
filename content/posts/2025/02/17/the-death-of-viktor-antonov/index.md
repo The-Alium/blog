@@ -25,5 +25,3 @@ While many people may not have known Antonov personally, he made a significant c
 > [Eschatology Entertainment publication on LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
 
 > [LambdaGeneration publication with a screenshot of Mark Laidlaw's story](https://x.com/LambdaGen/status/1890944782370791719)<br/>
-
-> [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

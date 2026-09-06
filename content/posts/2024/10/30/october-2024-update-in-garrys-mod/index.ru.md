@@ -23,5 +23,3 @@ authors:
 > [Официальный пост в центре сообщества](https://store.steampowered.com/news/app/4000/view/4516639958214115673?l=russian)<br/>
 
 > [Полный список изменений на официальном dev blog разработчиков](https://gmod.facepunch.com/news/october-2024-update)<br/>
-
-> [s8cli сохраняет авторство доклада](https://steamcommunity.com/id/BrunH/)<br/>

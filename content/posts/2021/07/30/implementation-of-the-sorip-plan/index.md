@@ -1,4 +1,5 @@
 ---
+
 title: "Implementation of the SORIP Plan"
 date: 2021-07-30
 draft: false
@@ -7,8 +8,11 @@ summary: "Implementation of the SORIP Plan"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-  - "erick-maksimets"
+
+- "erick-maksimets"
+
 ---
+
 In light of the restoration of project activity within the community, the implementation of the "SORIP" plan is announced.
 
 SORIP (Creation of a Comprehensive Registry of Distorted Publications) is a plan aimed at creating a large list of guides that violate the rules of "Guides - Our Rules," referencing the Garry's Mod wiki.
@@ -17,4 +21,4 @@ The outcome of this plan may lead to various actions from Rubat. SORIP proposes 
 
 --R-D- (Rick Darkon) has been appointed as the responsible person for the implementation of the plan. You can nominate yourself to become a regular SORIP member and be part of the plan. Please contact --R-D- or Erick_Maksimets for more information.
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

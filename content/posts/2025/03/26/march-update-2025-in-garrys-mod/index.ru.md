@@ -22,5 +22,3 @@ Garry's Mod продолжает держать планку в 1-2 обновл
 > [Полный список изменений на официальном девблоге разработчиков](https://gmod.facepunch.com/news/march-2025-update)<br/>
 
 > [Официальный пост в центре сообщества](https://store.steampowered.com/news/app/4000/view/521961040610590764)<br/>
-
-> [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

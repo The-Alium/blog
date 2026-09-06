@@ -24,5 +24,3 @@ authors:
 > [Пост Гарри Ньюмана с опросом](https://twitter.com/garrynewman/status/1648737747840925701)<br/>
 
 > [Пост Гарри Ньюмана с объяснениями](https://twitter.com/garrynewman/status/1648948340216721410)<br/>
-
-> [Sereganeon сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198405572168)<br/>

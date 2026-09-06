@@ -19,5 +19,3 @@ authors:
 С наступающим новым годом, дорогие друзья.
 
 {{<youtubeLite id="s1gsrBPNXfg" label="Результаты The Alium в 2024 году">}}
-
-> [Sereganeon сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

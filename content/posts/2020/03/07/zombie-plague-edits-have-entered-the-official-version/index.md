@@ -20,4 +20,4 @@ A fourth version of the balance and an analysis of the weapon characteristics fr
 
 > [Zombie Plague — Gamemode in Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1115250691)
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

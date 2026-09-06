@@ -24,5 +24,3 @@ authors:
 > [Январское обновление 2023 года в блоге Facepunch](https://gmod.facepunch.com/news/january-2023-update)<br/>
 
 > [Январское обновление 2023 года как публикация в Steam](https://steamcommunity.com/games/garrysmod/announcements/detail/3645135724568000043)<br/>
-
-> [Chebrik сохраняет авторство за докладом](https://steamcommunity.com/id/mchebrik)<br/>

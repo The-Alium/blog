@@ -27,5 +27,3 @@ This covers the main highlights of the update; more detailed information can be 
 > [June 2023 update on the Facepunch blog](https://gmod.facepunch.com/news/june-2023-update)<br/>
 
 > [June 2023 update as a publication on Steam](https://steamcommunity.com/games/garrysmod/announcements/detail/3672171270309976083)<br/>
-
-> [Chebrik retains authorship of the article](https://steamcommunity.com/profiles/76561198417964670)<br/>

@@ -20,5 +20,3 @@ authors:
 > [Страница событий The Alium](https://steamcommunity.com/groups/thealium/events)<br/>
 
 > [Контексты форумов](https://steamcommunity.com/groups/thealium/discussions/9/3774616756093614302/)<br/>
-
-> [Erick_Maksimets сохраняет авторство за докладом](https://steamcommunity.com/profiles/76561198152226525)<br/>

@@ -23,5 +23,3 @@ authors:
 > [Официальный пост в центре сообщества](https://store.steampowered.com/news/app/4000/view/596290731586358288?)<br/>
 
 > [Полный список изменений на официальном девблоге разработчиков](https://gmod.facepunch.com/news/november-2025-update)<br/>
-
-> [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

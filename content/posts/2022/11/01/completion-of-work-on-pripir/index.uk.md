@@ -14,5 +14,3 @@ authors:
 За встановлений термін було виконано мінімум перекладу та реставрації ігрових режимів: Zombie Master, Homicide, Trouble in Terrorist Town.
 
 > [Протокол ПРиПИР](https://steamcommunity.com/groups/thealium/discussions/5/3463857594050172987/)<br/>
-
-> [Flashar зберігає авторство докладу](https://steamcommunity.com/id/flshrchk)<br/>

@@ -26,5 +26,3 @@ The main menu also received updates. Within the Multiplayer section, players can
 > [Official Garry's Mod update announcement on the community page](https://store.steampowered.com/news/app/4000/view/4347747362015458956?)<br/>
 
 > [Change log on the official Facepunch website](https://gmod.facepunch.com/news/july-2024-update#UpdateHighlights)<br/>
-
-> [s8cli retains authorship of the article](https://steamcommunity.com/id/BrunH/)<br/>

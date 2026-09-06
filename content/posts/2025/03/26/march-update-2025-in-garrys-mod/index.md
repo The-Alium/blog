@@ -23,5 +23,3 @@ This is not the complete list of changes in the March update. A comprehensive li
 > [Full list of changes on the official developer devblog](https://gmod.facepunch.com/news/march-2025-update)<br/>
 
 > [Official post in the Community Hub](https://store.steampowered.com/news/app/4000/view/521961040610590764)<br/>
-
-> [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

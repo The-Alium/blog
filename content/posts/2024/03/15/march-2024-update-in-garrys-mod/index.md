@@ -24,5 +24,3 @@ The update also delivered numerous fixes and optimizations targeting long-standi
 > [March 2024 update on the Facepunch blog](https://gmod.facepunch.com/news/march-2024-update)<br/>
 
 > [March 2024 update as a Steam publication](https://steamcommunity.com/games/garrysmod/announcements/detail/4148450398126303381)<br/>
-
-> [s8cli retains authorship of the article](https://steamcommunity.com/id/BrunH/)<br/>

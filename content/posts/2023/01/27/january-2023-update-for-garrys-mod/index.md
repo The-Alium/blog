@@ -25,5 +25,3 @@ This covers the main highlights for casual users. More detailed information with
 > [January 2023 update on the Facepunch blog](https://gmod.facepunch.com/news/january-2023-update)<br/>
 
 > [January 2023 update as a post on Steam](https://steamcommunity.com/games/garrysmod/announcements/detail/3645135724568000043)<br/>
-
-> [Chebrik retains authorship of the article](https://steamcommunity.com/id/mchebrik)<br/>

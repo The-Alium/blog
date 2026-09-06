@@ -20,5 +20,3 @@ authors:
 > [Вінрейт карт другого ПВРтаПАКа](https://steamcommunity.com/groups/thealium/discussions/4/3185740658301486137/)<br/>
 
 > [Концепція діячів спільноти](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>
-
-> [Flashar зберігає авторство докладу](https://steamcommunity.com/id/flshrchk)<br/>

@@ -23,5 +23,3 @@ A separate forum will be introduced with guides in various languages, coordinati
 > [Staryy Steam](https://steamcommunity.com/groups/thealium/discussions/5/3762229114477347050/)<br/>
 
 > [Alium Nook](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477163053/)<br/>
-
-> [Erick_Malsimets retains authorship of the article](https://steamcommunity.com/profiles/76561198152226525)<br/>

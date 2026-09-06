@@ -35,5 +35,3 @@ authors:
 > [Обсуждение от пользователя Hudson633](https://steamcommunity.com/groups/gca1/discussions/0/4352242083122847194/?tscn=1714025728)<br/>
 
 > [Пост Гарри Ньюмана в Twitter](https://twitter.com/garrynewman/status/1783374453562290376)<br/>
-
-> [s8cli сохраняет авторство доклада](https://steamcommunity.com/id/BrunH/)<br/>

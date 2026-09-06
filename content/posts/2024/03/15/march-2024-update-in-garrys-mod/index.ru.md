@@ -23,5 +23,3 @@ authors:
 > [Мартовское обновление 2024 года в блоге Facepunch](https://gmod.facepunch.com/news/march-2024-update)<br/>
 
 > [Мартовское обновление 2024 года как публикация в Steam](https://steamcommunity.com/games/garrysmod/announcements/detail/4148450398126303381)<br/>
-
-> [s8cli сохраняет авторство доклада](https://steamcommunity.com/id/BrunH/)<br/>

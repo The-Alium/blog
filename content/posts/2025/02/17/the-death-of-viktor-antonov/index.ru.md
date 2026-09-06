@@ -24,5 +24,3 @@ authors:
 > [Публикация Eschatology Entertainment в LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&amp;amp;utm_medium=member_android&amp;amp;rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
 
 > [Публикация LambdaGeneration с скриншотом истории Марка Лэйдлоу](https://x.com/LambdaGen/status/1890944782370791719)<br/>
-
-> [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436/)<br/>

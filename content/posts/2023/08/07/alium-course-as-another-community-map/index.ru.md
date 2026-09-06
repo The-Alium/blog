@@ -20,5 +20,3 @@ authors:
 > [Алиум Курс — Карта в мастерской](https://steamcommunity.com/sharedfiles/filedetails/?id=3012241962)<br/>
 
 > [Пятилетие Алиумского сообщества — Объявление в группе](https://steamcommunity.com/groups/thealium/announcements/detail/3649655808293611767)<br/>
-
-> [Erick_Maksimets сохраняет авторство доклада](https://steamcommunity.com/id/ErickMaksimets)<br/>

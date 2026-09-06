@@ -14,5 +14,3 @@ authors:
 Тепер ці діячі виділяються як окрема, справжня, не Discord-роль у групі. І тепер перед учасниками Аліуму стоять базові, не придумані на коліні, вимоги для отримання ролі діяча.
 
 > [Концепція діячів спільноти](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>
-
-> [Erick_Maksimets зберігає авторство докладу](https://steamcommunity.com/id/ErickMaksimets)<br/>

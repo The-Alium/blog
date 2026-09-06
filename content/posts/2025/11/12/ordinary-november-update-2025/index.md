@@ -25,5 +25,3 @@ Despite the voluminous list of various changes, additions, and improvements, thi
 > [Official post in the Community Hub](https://store.steampowered.com/news/app/4000/view/596290731586358288?)<br/>
 
 > [Full changelog on the Facepunch website](https://gmod.facepunch.com/news/november-2025-update)<br/>
-
-> [DenDi85 retains authorship of the article](https://steamcommunity.com/profiles/76561198393560436/)<br/>

@@ -20,5 +20,3 @@ authors:
 > [Винрейт карт второго ПОРиПАКа](https://steamcommunity.com/groups/thealium/discussions/4/3185740658301486137/)<br/>
 
 > [Концепция деятеля сообщества](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>
-
-> [Flashar сохраняет авторство за докладом](https://steamcommunity.com/id/flshrchk)<br/>

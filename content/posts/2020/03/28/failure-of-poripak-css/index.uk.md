@@ -18,4 +18,4 @@ authors:
 
 > [Результати ПВРтаПАК CSS — Публікація в Хадсоновском архіву](https://steamcommunity.com/groups/thealium/discussions/5/3109145219796259108/)
 
-> [Erick_Maksimets зберігає авторство докладу](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

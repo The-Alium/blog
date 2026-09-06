@@ -1,4 +1,5 @@
 ---
+
 title: "Completion of PORiPAK CSS"
 date: 2020-10-03
 draft: false
@@ -7,8 +8,11 @@ summary: "Completion of PORiPAK CSS"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-  - "erick-maksimets"
+
+- "erick-maksimets"
+
 ---
+
 Thanks to the efforts of the new forces within the Alium community, the extensive restoration and publication project for Counter-Strike Source maps has allowed us to settle outstanding debts from old publications and create five new ones. All discovered maps underwent balance checks and received new designs for the Steam workshop.
 
 With the completion of this plan, the Alium community now has access to a new branch of PORiPAK — the ZPB Marathon. Essentially, this is the same calculation from PORiPAK, but it will be a marathon covering all publications that will take place after significant changes in the balance of the game mode itself.
@@ -19,4 +23,4 @@ Thank you for your active participation, and stay tuned for the next project!
 
 > [Results of PORiPAK CSS — Publication in the Hudson Archive](https://steamcommunity.com/groups/thealium/discussions/5/3109145219796259108/)
 
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>
+> 

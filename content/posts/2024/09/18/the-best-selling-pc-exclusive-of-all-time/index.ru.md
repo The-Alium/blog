@@ -27,5 +27,3 @@ Garry’s Mod — это игра, созданная в далёком 2004 г�
 > [Игровой источник Thegamer](https://www.thegamer.com/garrys-mod-best-selling-pc-exclusive-all-time/)<br/>
 
 > [Игровой источник Neowin](https://www.neowin.net/news/guinness-announces-garrys-mod-is-the-best-selling-pc-exclusive-of-all-time/)<br/>
-
-> [s8cli сохраняет авторство доклада](https://steamcommunity.com/id/BrunH/)<br/>

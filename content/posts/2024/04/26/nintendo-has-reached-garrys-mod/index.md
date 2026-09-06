@@ -36,5 +36,3 @@ In the end, we would like to note that this story is not over yet, but we can al
 > [Discussion from user Hudson633](https://steamcommunity.com/groups/gca1/discussions/0/4352242083122847194/?tscn=1714025728)<br/>
 
 > [A post by Harry Newman on Twitter](https://twitter.com/garrynewman/status/1783374453562290376)<br/>
-
-> [s8cli retains authorship of the article](https://steamcommunity.com/id/BrunH/)<br/>

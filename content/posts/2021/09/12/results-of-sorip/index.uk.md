@@ -20,5 +20,3 @@ authors:
 Rubat позбавлено статусу Особи Ґрата;
 Klen_list, Magenta, datae та PrikolMen підвищено в ранзі та в майбутньому їх свідчення використовуватимуться у справах, пов'язаних із СОРИП.
 ---
-
-> [Erick_Maksimets зберігає авторство докладу](https://steamcommunity.com/id/ErickMaksimets)<br/>

@@ -14,5 +14,3 @@ In anticipation of the next renaming of active, permanent, loyal, and trusted pa
 These activists are now highlighted as a separate, genuine role within the group, distinct from the roles in Discord. Participants of Alium now face basic, well-defined requirements for obtaining the activist role, rather than arbitrary criteria.
 
 > [Concept of a community activist](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>
-
-> [Erick_Maksimets retains authorship of the article](https://steamcommunity.com/id/ErickMaksimets)<br/>

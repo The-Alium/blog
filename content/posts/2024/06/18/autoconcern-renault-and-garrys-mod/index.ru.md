@@ -21,5 +21,3 @@ authors:
 > [MODDER5 — Статья о моддинге сайте Renault](https://www.renault.co.uk/electric-vehicles/r5-e-tech-electric/renault5-modding11.html)<br/>
 
 > [// DR5VE & SEEK // — Игровой режим в мастерской](https://steamcommunity.com/sharedfiles/filedetails/?id=3253497094)<br/>
-
-> [DenDi85 сохраняет авторство доклада](https://steamcommunity.com/profiles/76561198393560436)<br/>

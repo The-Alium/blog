@@ -14,5 +14,3 @@ authors:
 За период существования деятелей единственный новый пользователь получил её роль — [Cтул](https://steamcommunity.com/id/_ctool), свои позиции позже вернули еще [apchistuz](https://steamcommunity.com/id/apchistuz) и [oTvErTkA](https://steamcommunity.com/profiles/76561198375778469)
 
 > [Концепция деятеля сообщества](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>
-
-> [Flashar сохраняет авторство за докладом](https://steamcommunity.com/id/flshrchk)<br/>
