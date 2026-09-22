@@ -9,6 +9,7 @@ categories: ["Community Corner"]
 authors:
   - "flashar"
 ---
+
 We are starting work on our second project of the year (what a feat) - PRiPIR (Project for the Restoration and Translation of Game Modes).
 
 To expedite the implementation of this project, we need mappers, coders, and testers. The plan is to restore and translate between 3 to 5 game modes by the beginning of November.

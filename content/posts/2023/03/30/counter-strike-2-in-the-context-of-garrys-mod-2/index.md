@@ -4,7 +4,7 @@ date: 2023-03-30
 draft: false
 description: "Counter-Strike 2 in the Context of Garry's Mod 2"
 summary: "Counter-Strike 2 engine transition explained."
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"

@@ -1,5 +1,4 @@
 ---
-
 title: "Results of The Alium Community in 2020"
 date: 2021-01-01
 draft: false
@@ -8,9 +7,7 @@ summary: "Results of The Alium Community in 2020"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-
-- "erick-maksimets"
-
+  - "erick-maksimets"
 ---
 
 With the end of the year, you have the opportunity to read additional information about the events that took place from the beginning to the end of 2020.
@@ -36,5 +33,3 @@ With the expiration of accusations against certain Non Grata individuals, they w
 Happy New Year 2021!
 
 > [Alium Community - November 2021 Illustration from the community for Garry's Mod](https://www.youtube.com/watch?v=34US-stuOyc&feature=youtu.be)<br/>
-
-> 

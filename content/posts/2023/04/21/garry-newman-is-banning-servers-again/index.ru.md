@@ -4,7 +4,8 @@ date: 2023-04-21
 draft: false
 description: "Гарри Ньюман снова банит сервера"
 summary: "Garry's Mod банит нацистский контент."
-tags: ["Новости", "Локальщина"]
+tags: ["Новости"]
+categories: ["Новости Сообщества"]
 authors:
   - "sereganeon"
 ---

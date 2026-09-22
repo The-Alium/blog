@@ -9,6 +9,7 @@ categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
 ---
+
 After 44 days since the start of SORIP, we have completed the collection of the registry for 1,000 publications, spending 7 of those days waiting for a response from Rubat regarding the list. As a result, we did not achieve the main goal of the plan, but we still gathered the necessary information for use in the public domain to justify certain actions that will be taken on our part in the future.
 
 It is possible that we will obtain a full result in the future, but for now, we cannot claim outstanding success in this direction. Moving forward, we will focus on less tedious and bureaucratic actions.

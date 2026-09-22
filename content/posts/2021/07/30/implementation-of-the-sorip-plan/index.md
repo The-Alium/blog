@@ -1,5 +1,4 @@
 ---
-
 title: "Implementation of the SORIP Plan"
 date: 2021-07-30
 draft: false
@@ -8,9 +7,7 @@ summary: "Implementation of the SORIP Plan"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-
-- "erick-maksimets"
-
+    - "erick-maksimets"
 ---
 
 In light of the restoration of project activity within the community, the implementation of the "SORIP" plan is announced.
@@ -20,5 +17,3 @@ SORIP (Creation of a Comprehensive Registry of Distorted Publications) is a plan
 The outcome of this plan may lead to various actions from Rubat. SORIP proposes that, firstly, to avoid a mass ban of publications, an additional category should be added for guides that make it onto the list. If not as a first step, then secondly, the rules that cannot be fully enforced should be removed. If not as a second step, then thirdly, the publications on the list should be deleted.
 
 --R-D- (Rick Darkon) has been appointed as the responsible person for the implementation of the plan. You can nominate yourself to become a regular SORIP member and be part of the plan. Please contact --R-D- or Erick_Maksimets for more information.
-
-> 

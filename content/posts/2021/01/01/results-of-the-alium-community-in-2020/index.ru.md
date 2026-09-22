@@ -1,5 +1,4 @@
 ---
-
 title: "Результаты сообщества The Alium в 2020 году"
 date: 2021-01-01
 description: "Результаты сообщества The Alium в 2020 году"
@@ -7,9 +6,7 @@ summary: "Результаты сообщества The Alium в 2020 году"
 tags: ["Новости"]
 categories: ["Новости Сообщества"]
 authors:
-
-- "erick-maksimets"
-
+    - "erick-maksimets"
 ---
 
 В связи с окончанием года вам выпала возможность почитать дополнительную информацию о событиях которые происходили от начала до конца 2020 года.
@@ -36,5 +33,3 @@ authors:
 С 2021 годом!
 
 > [Alium Community - November 2021 Illustration from the community for Garry's Mod](https://www.youtube.com/watch?v=34US-stuOyc&feature=youtu.be)<br/>
-
-> 

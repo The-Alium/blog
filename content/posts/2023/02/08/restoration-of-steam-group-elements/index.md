@@ -4,8 +4,8 @@ date: 2023-02-08
 draft: false
 description: "Restoration of Steam Group Elements"
 summary: "Restoration of Steam Group Elements"
-tags: ["news"]
-categories: ["World Watch"]
+tags: ["News"]
+categories: ["Garry's Mod Corner"]
 authors:
   - "erick-maksimets"
 ---

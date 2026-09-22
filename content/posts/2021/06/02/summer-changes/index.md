@@ -1,5 +1,4 @@
 ---
-
 title: "Summer Changes"
 date: 2021-06-02
 draft: false
@@ -8,9 +7,7 @@ summary: "Summer Changes"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-
-- "erick-maksimets"
-
+    - "erick-maksimets"
 ---
 
 Summer 2021 has arrived, which means that the structure of the group is undergoing some changes that can be outlined in this publication.
@@ -21,5 +18,3 @@ In Grata: ΛLΞΧ (or Savav), Rubat, NIKITART, datae, etc.
 In Non Grata: Urbanichka, crester, and some characters will also be removed.
 
 The moderator concept has been enhanced with the possibility of receiving a bonus of 10,000 rubles for activities in the community that can only be characterized as incredibly positive, justifying the size of the bonus. For example, a publicist could receive this for writing a discussion that significantly contributed to fundraising efforts. This bonus is awarded after one full year in the position.
-
-> 

@@ -4,12 +4,10 @@ date: 2023-07-16
 draft: false
 description: "OctoGames Has Closed"
 summary: "Closure of OctoGames gaming server"
-tags: ["news"]
-categories: ["World Watch"]
+tags: ["News"]
+categories: ["Garry's Mod Corner"]
 authors:
   - "gunter"
----
-
 ---
 
 On June 14th, the Discord server OctoGames, owned by Wani4ka, announced the closure of the OctoGames gaming server. Despite expressions of disappointment, most users were indifferent, as the server had remained empty for a long time, and interest in the project had waned among the majority of players.

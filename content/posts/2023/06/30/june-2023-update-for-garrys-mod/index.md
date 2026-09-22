@@ -3,13 +3,11 @@ title: "June 2023 Update for Garry's Mod"
 date: 2023-06-30
 draft: false
 description: "June 2023 Update for Garry's Mod"
-summary: "About the update ..."
-tags: ["news"]
-categories: ["World Watch"]
+summary: "About the update..."
+tags: ["News"]
+categories: ["Garry's Mod Corner"]
 authors:
   - "chebrik"
----
-
 ---
 
 Yesterday, an update for Garry's Mod was released, introducing new features for developers, visual effects, and fixes that enhance gameplay.

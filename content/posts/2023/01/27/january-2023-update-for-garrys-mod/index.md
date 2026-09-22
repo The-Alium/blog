@@ -4,8 +4,8 @@ date: 2023-01-27
 draft: false
 description: "January 2023 Update for Garry's Mod"
 summary: "About the update ..."
-tags: ["news"]
-categories: ["World Watch"]
+tags: ["News"]
+categories: ["Garry's Mod Corner"]
 authors:
   - "chebrik"
 ---

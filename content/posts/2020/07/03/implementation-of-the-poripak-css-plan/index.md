@@ -1,5 +1,4 @@
 ---
-
 title: "Implementation of the PORiPAK CSS Plan"
 date: 2020-07-03
 draft: false
@@ -8,9 +7,7 @@ summary: "Implementation of the PORiPAK CSS Plan"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-
-- "erick-maksimets"
-
+    - "erick-maksimets"
 ---
 
 Due to the recent release of a new version of Zombie Plague featuring Alium edits, I have decided to initiate the project for the extensive restoration and publication of archived Counter-Strike: Source maps. In short, this is a project aimed at creating a series of publications for old archived ZM and ZE maps.

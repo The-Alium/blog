@@ -4,12 +4,10 @@ date: 2023-06-30
 draft: false
 description: "«Viruses in the Workshop» — Round Two"
 summary: "New acts of malicious actors"
-tags: ["news"]
-categories: ["World Watch"]
+tags: ["News"]
+categories: ["Garry's Mod Corner"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 Last summer, the workshop saw changes to many popular add-ons that introduced unauthorized screamers into the game. This summer, the story is repeating itself, albeit on a smaller scale.

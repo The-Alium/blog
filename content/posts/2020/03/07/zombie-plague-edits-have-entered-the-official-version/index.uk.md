@@ -1,5 +1,4 @@
 ---
-
 title: "Редакції Zombie Plague вступили в офіційну версію"
 date: 2020-03-07
 draft: false
@@ -8,9 +7,7 @@ summary: "Редакції Zombie Plague вступили в офіційну в
 tags: ["Новини"]
 categories: ["Новини Ком'юніті"]
 authors:
-
-- "erick-maksimets"
-
+    - "erick-maksimets"
 ---
 
 Нарешті після декількох місяців розробки разом з The Fire Fuchs, редакції: баланса, перекладу на українську та російську, деякі фішки, виправлення помилок перейшли в офіційну Steam Workshop версію Zombie Plague.

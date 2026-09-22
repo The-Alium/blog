@@ -4,12 +4,10 @@ date: 2023-07-30
 draft: false
 description: "Five Years of the Alium Community"
 summary: "Five-year anniversary"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 Five years have passed since the creation of the first Alium server, the opening of which marked the beginning of the well-known Alium story. In reality, there are no exact dates for the community's emergence, as it was not a one-time unilateral decision made by some ephemeral community manager. It can be assumed that the players of AliumGM, who were friends of Yaroslav, the creator of the first Alium server, represented some sort of unorganized group of friends even before the server opened. However, this is largely irrelevant now, as their decisions do not impact the current or future situation in Alium.

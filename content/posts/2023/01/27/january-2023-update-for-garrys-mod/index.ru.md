@@ -3,8 +3,9 @@ title: "Январское обновление 2023 в Garry's Mod"
 date: 2023-01-27
 draft: false
 description: "Январское обновление 2023 в Garry's Mod"
-summary: "Про апдейт ..."
-tags: ["Новости", "Глобальщина"]
+summary: "Про апдейт..."
+tags: ["Новости"]
+categories: ["Новости Garry's Mod"]
 authors:
   - "chebrik"
 ---

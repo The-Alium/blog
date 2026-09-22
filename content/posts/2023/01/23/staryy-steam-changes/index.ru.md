@@ -4,7 +4,8 @@ date: 2023-01-23
 draft: false
 description: "Старостимовские изменения"
 summary: "Итоги Старостимовских изменений"
-tags: ["Новости", "Локальщина"]
+tags: ["Новости"]
+categories: ["Новости Сообщества"]
 authors:
   - "erick-maksimets"
 ---

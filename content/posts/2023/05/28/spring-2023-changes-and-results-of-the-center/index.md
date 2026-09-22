@@ -4,7 +4,7 @@ date: 2023-05-28
 draft: false
 description: "Spring 2023: Changes and Results of the Center"
 summary: "Officer transitions, divisions reorganized."
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "dendi85"

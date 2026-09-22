@@ -3,8 +3,8 @@ title: "«How Schoolkids Were Stripped on DarkRP Servers»"
 date: 2023-02-19
 draft: false
 description: "«How Schoolkids Were Stripped on DarkRP Servers»"
-summary: "minors Were forced Stripped on DarkRP Servers"
-tags: ["news"]
+summary: "Minors Were forced Stripped on DarkRP Servers"
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "boblikut"

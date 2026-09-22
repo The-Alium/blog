@@ -1,5 +1,4 @@
 ---
-
 title: "Update on Alium Nook and Additional Publications"
 date: 2021-04-18
 draft: false
@@ -8,9 +7,7 @@ summary: "Update on Alium Nook and Additional Publications"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-
-- "erick-maksimets"
-
+    - "erick-maksimets"
 ---
 
 Today, the scheduled update for the community map Alium Nook has been released, adding new content for use. In particular, users can now visit a cinema, which will serve as a replacement for the cinema in Erick's Town.

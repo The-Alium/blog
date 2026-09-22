@@ -4,7 +4,8 @@ date: 2023-02-08
 draft: false
 description: "Восстановление элементов Steam группы"
 summary: "Восстановление элементов Steam группы"
-tags: ["Новости", "Глобальщина"]
+tags: ["Новости"]
+categories: ["Новости Garry's Mod"]
 authors:
   - "erick-maksimets"
 ---

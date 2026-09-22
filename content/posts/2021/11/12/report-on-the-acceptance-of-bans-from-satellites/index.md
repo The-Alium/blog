@@ -1,5 +1,4 @@
 ---
-
 title: "Report on the Acceptance of Bans from Satellites"
 date: 2021-11-12
 draft: false
@@ -8,9 +7,7 @@ summary: "Report on the Acceptance of Bans from Satellites"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-
-- "erick-maksimets"
-
+    - "erick-maksimets"
 ---
 
 On August 19, 2021, a plan was formulated to collect ban lists from various organizers and servers to create a massive Alium ban list, which would serve as a barrier against severe violations that may arise in the community, such as cheating.

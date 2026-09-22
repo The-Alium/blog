@@ -4,7 +4,7 @@ date: 2023-01-23
 draft: false
 description: "Staryy Steam changes"
 summary: "Summary of Staryy Steam changes"
-tags: ["news"]
+tags: ["News"]
 categories: ["Community Corner"]
 authors:
   - "erick-maksimets"

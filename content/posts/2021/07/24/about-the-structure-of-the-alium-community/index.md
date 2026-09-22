@@ -1,5 +1,4 @@
 ---
-
 title: "About the Structure of the Alium Community"
 date: 2021-07-24
 draft: false
@@ -8,9 +7,7 @@ summary: "About the Structure of the Alium Community"
 tags: ["News"]
 categories: ["Community Corner"]
 authors:
-
-- "erick-maksimets"
-
+    - "erick-maksimets"
 ---
 
 Yesterday, a video was released that was entirely dedicated to the structure of Alium. If you previously had any confusion about the internal workings of the group, you can watch this video to gain a better understanding of the overall picture.
