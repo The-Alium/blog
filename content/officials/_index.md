@@ -8,10 +8,8 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | ------------------------------ | -------------------- | ------------------------------ | -------------------- | -------------------- |
 | denomito                       | Officer              | Frontfire                      | Renaissance          | Until 31/12/2026     |
 | argax us                       | Artist               | Creating various media content | Renaissance          | —                    |
-| DOES IT HURT?                  | Organizer            | Organizing various events      | Renaissance          | Until 30/09/2026     |
-| FosFor                         | Developer            | Publicist                      | Renaissance          | Until 30/09/2026     |
+| FosFor                         | Developer            | Publicist                      | Renaissance          | Until 30/10/2026     |
 | Winterskin                     | Organizer            | Organizing various events      | Renaissance          | —                    |
-| Cash Money                     | Organizer            | Organizing various events      | Renaissance          | Until 31/10/2026     |
 
 
 ### Starry Steam Unit![teee](unit_starry_steam.png)
