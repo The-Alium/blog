@@ -1,11 +1,10 @@
 ---
 title: "Червневе оновлення 2023 у Garry's Mod"
 date: 2023-06-30
-draft: false
 description: "Червневе оновлення 2023 у Garry's Mod"
-summary: "Про апдейт..."
-tags: ["Новини"]
-categories: ["Новини Garry's Mod"]
+categories: ["Новини GMod"]
+tags: ["Source Engine"]
+series: ["Оновлення Garry's Mod"]
 authors:
   - "chebrik"
 ---

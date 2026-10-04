@@ -1,11 +1,10 @@
 ---
 title: "Results of SORIP"
 date: 2021-09-12
-draft: false
 description: "Results of SORIP"
-summary: "Results of SORIP"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Project Work", "Steam Workshop", "Rubat", "Grata System"]
+series: ["SORIP"]
 authors:
   - "erick-maksimets"
 ---
@@ -21,4 +20,5 @@ The media aspect of the event, such as the rejection of the list by Rubat, plays
 ---
 *Rubat has been removed from the Grata Person status;
 Klen_list, Magenta, datae, and PrikolMen have been elevated in rank and will be used for testimonies in cases related to SORIP in the future.*
+
 ---

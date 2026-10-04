@@ -1,13 +1,11 @@
 ---
 title: "Update on the Map, November Poster, and New Moderator Roles"
 date: 2021-12-12
-draft: false
 description: "Update on the Map, November Poster, and New Moderator Roles"
-summary: "Update on the Map, November Poster, and New Moderator Roles"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Alium Nook", "Maps", "Moderation", "Lakur Court"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 An update has been made to Alium Nook aimed at updating positions within the community, with references left to PORiPAK, the Green Alium, and the activities of Sor_Ge, along with many minor changes and proper optimization.

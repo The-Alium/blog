@@ -1,13 +1,11 @@
 ---
 title: "Results of the Minerva Division"
 date: 2022-01-05
-draft: false
-description: "Results of The Alium in 2021"
-summary: "Results of The Alium in 2021"
-tags: ["News"]
+description: "Results of the Minerva Division"
 categories: ["Community Corner"]
+tags: ["Divisions", "Discord", "Grata System"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 The **Minerva** Division was formed under the leadership of Bilwin by the end of September 2021. For three full months until the end of the year, the division focused on the development of the Discord server, primarily limiting its activities to that platform. Notable achievements include:
@@ -21,3 +19,5 @@ The **Minerva** Division was formed under the leadership of Bilwin by the end of
 - Organization of over ~150 events
 
 Throughout different periods, the following users were part of the Minerva Division: Bilwin, Flashar, heut, lakatarr, Nexus_Zero, Swanchik, FoKa, CyberKaiser, Симоня, and ~Inqizitor~alium~.
+
+The division's external focus was the development of third-party projects such as **SCP: Snow Seazon** and **Renewed Networks**.

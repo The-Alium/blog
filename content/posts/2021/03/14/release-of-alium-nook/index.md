@@ -1,13 +1,11 @@
 ---
 title: "Release of Alium Nook"
 date: 2021-03-14
-draft: false
 description: "Alium Nook Community map release"
-summary: "The latest private project work of the community The Alium"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Alium Nook", "Maps", "Project Work"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 The latest private project work of the community The Alium has come to an end. This time, you can immerse yourself in a map that has been developed over several months to appreciate the details related to the modern Alium community.

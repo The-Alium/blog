@@ -1,11 +1,9 @@
 ---
 title: "П'ять років Аліумській спільноті"
 date: 2023-07-30
-draft: false
 description: "П'ять років Аліумській спільноті"
-summary: "Що там п'ятирічка"
-tags: ["Новини"]
 categories: ["Новини Ком'юніті"]
+tags: ["Річниці", "Структура спільноти", "Alium Nook"]
 authors:
   - "erick-maksimets"
 ---

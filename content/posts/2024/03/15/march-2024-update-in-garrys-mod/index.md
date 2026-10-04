@@ -1,14 +1,12 @@
 ---
 title: "March 2024 Update in Garry's Mod"
 date: 2024-03-15
-draft: false
 description: "The March 2024 update introduced extensive crosshair customization, Sandbox improvements, Source TV fixes, and multiple optimizations, while also causing new issues with player models and particle effects."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Steam Workshop"]
+series: ["Garry's Mod Updates"]
 authors:
   - "s8cli"
----
-
 ---
 
 On February 28, the developers of Garry's Mod released a news post requesting assistance in identifying issues in a new update scheduled for March 13. When March 13 arrived, the update was officially published as a separate news entry on the game's portal. This patch introduced a substantial number of changes, fixes, and additions — far more extensive than those delivered over the previous six months.

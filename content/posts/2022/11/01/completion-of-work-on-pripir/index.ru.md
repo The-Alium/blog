@@ -1,11 +1,10 @@
 ---
 title: "Окончание работы над ПРиПИР"
 date: 2022-11-01
-draft: false
 description: "Окончание работы над ПРиПИР"
-summary: "Окончание работы над ПРиПИР"
-tags: ["Новости"]
 categories: ["Новости Сообщества"]
+tags: ["Проектная работа", "Игровые режимы", "Локализация", "Trouble in Terrorist Town"]
+series: ["ПРиПИР"]
 authors:
   - "flashar"
 ---

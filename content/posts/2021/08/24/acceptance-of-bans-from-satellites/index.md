@@ -1,13 +1,12 @@
 ---
 title: "Acceptance of Bans from Satellites"
 date: 2021-08-24
-draft: false
 description: "Acceptance of Bans from Satellites"
-summary: "Acceptance of Bans from Satellites"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Sanctions", "Cheating", "Game Servers"]
+series: ["Bans from Satellites"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 Recently, it was decided to add a concept called "Acceptance of Bans from Satellites" to our current practices. This means that if a member of Alium or Grata has their own server, they can provide our organizers with a database of their violators, and those individuals will receive bans not only on your server but also within Alium.

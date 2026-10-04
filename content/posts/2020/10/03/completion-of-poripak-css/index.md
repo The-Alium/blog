@@ -1,13 +1,12 @@
 ---
 title: "Completion of PORiPAK CSS"
 date: 2020-10-03
-draft: false
 description: "Completion of PORiPAK CSS"
-summary: "Completion of PORiPAK CSS"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Project Work", "Maps", "Counter-Strike", "Zombie Plague", "Steam Workshop"]
+series: ["PORiPAK"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 Thanks to the efforts of the new forces within the Alium community, the extensive restoration and publication project for Counter-Strike Source maps has allowed us to settle outstanding debts from old publications and create five new ones. All discovered maps underwent balance checks and received new designs for the Steam workshop.
@@ -18,4 +17,4 @@ Will there be a repeat of PORiPAK? — Possibly, in a few months. One of the POR
 
 Thank you for your active participation, and stay tuned for the next project!
 
-> [Results of PORiPAK CSS — Publication in the Hudson Archive](https://steamcommunity.com/groups/thealium/discussions/5/3109145219796259108/)
+> [Results of PORiPAK CSS — Publication in the Hudson Archive](https://steamcommunity.com/groups/thealium/discussions/5/3109145219796259108/)<br/>

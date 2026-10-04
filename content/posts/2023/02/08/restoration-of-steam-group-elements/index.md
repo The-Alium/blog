@@ -1,11 +1,9 @@
 ---
 title: "Restoration of Steam Group Elements"
 date: 2023-02-08
-draft: false
 description: "Restoration of Steam Group Elements"
-summary: "Restoration of Steam Group Elements"
-tags: ["News"]
-categories: ["Garry's Mod Corner"]
+categories: ["Community Corner"]
+tags: ["Steam", "Valve", "Sanctions"]
 authors:
   - "erick-maksimets"
 ---

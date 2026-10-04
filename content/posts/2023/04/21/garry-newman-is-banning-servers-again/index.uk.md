@@ -1,11 +1,9 @@
 ---
-title: "Гаррі Ньюман знову банить сервера"
+title: "Гаррі Ньюман знову банить сервери"
 date: 2023-04-21
-draft: false
-description: "Гаррі Ньюман знову банить сервера"
-summary: "Garry's Mod банить нацистський контент."
-tags: ["Новини"]
-categories: ["Новини Ком'юніті"]
+description: "Гаррі Ньюман знову банить сервери"
+categories: ["Новини GMod"]
+tags: ["Garry Newman", "Ігрові сервери"]
 authors:
   - "sereganeon"
 ---

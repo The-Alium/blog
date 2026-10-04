@@ -1,13 +1,11 @@
 ---
 title: "Map Update, New Moderators, and Restoration of the Tournament System"
 date: 2021-06-23
-draft: false
 description: "Map Update, New Moderators, and Restoration of the Tournament System"
-summary: "Map Update, New Moderators, and Restoration of the Tournament System"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Alium Nook", "Maps", "Moderation", "Tournaments", "Lakur Court"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 First of all, an update has been released for Alium Nook, which includes an updated map date to the present day, portraits of current moderators, references to past moderators, and improvements to the ventilation system, along with new wallpaper.

@@ -1,13 +1,11 @@
 ---
 title: "Dissolution of the Coalition and Structural Changes"
 date: 2020-07-03
-draft: false
 description: "Dissolution of the Coalition and Structural Changes"
-summary: "Dissolution of the Coalition and Structural Changes"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Community Structure"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 After observing the situation with the playable online community in the Coalition of Alium Players, I realized that it holds no value and deserves to be dissolved.

@@ -1,11 +1,10 @@
 ---
 title: "Failure of PORiPAK CSS"
 date: 2020-03-28
-draft: false
 description: "Failure of PORiPAK CSS"
-summary: "Failure of PORiPAK CSS"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Project Work", "Maps", "Counter-Strike", "Moderation"]
+series: ["PORiPAK"]
 authors:
   - "erick-maksimets"
 ---
@@ -16,4 +15,4 @@ In the future, priority will be given to individual projects that will not be co
 
 From now on, every member of the group, in every sense of the word, has no obligations. The moderator position for the system administrator has also been removed. Acknowledging the capabilities of the community, I understand that I will not be able to maintain the server. Thank you for at least taking the time to count.
 
-> [Results of PORiPAK CSS — Publication in the Hudson Archive](https://steamcommunity.com/groups/thealium/discussions/5/3109145219796259108/)
+> [Results of PORiPAK CSS — Publication in the Hudson Archive](https://steamcommunity.com/groups/thealium/discussions/5/3109145219796259108/)<br/>

@@ -1,13 +1,11 @@
 ---
 title: "Турнирная система вступила в силу"
 date: 2020-11-28
-draft: false
 description: "Турнирная система вступила в силу"
-summary: "Турнирная система вступила в силу"
-tags: ["Новости"]
 categories: ["Новости Сообщества"]
+tags: ["Турниры", "Лакурский суд"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 После проведения вчерашнего тестового турнира по Quake III FFA было принято решение о полной реализации концепции турнирной системы в сообществе The Alium. В будущем всего-то будет отредактирована система по которой участники будут регистрироваться на турнир. Возможность написания правил для любого кастомного режима всё еще открыта.
@@ -18,8 +16,8 @@ authors:
 
 Для понимания ситуации можете обратиться к следующим обсуждениям:
 
-> [Концепция Турнирной Системы](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477163336/)
+> [Концепция Турнирной Системы](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477163336/)<br/>
 
-> [Результаты турниров The Alium](https://steamcommunity.com/groups/thealium/discussions/8/3421060714386028117/)
+> [Результаты турниров The Alium](https://steamcommunity.com/groups/thealium/discussions/8/3421060714386028117/)<br/>
 
-> [Условности прошедшего турнира по Quake III FFA](https://steamcommunity.com/groups/thealium/discussions/6)
+> [Условности прошедшего турнира по Quake III FFA](https://steamcommunity.com/groups/thealium/discussions/6)<br/>

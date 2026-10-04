@@ -1,11 +1,9 @@
 ---
 title: "Counter-Strike 2 in the Context of Garry's Mod 2"
 date: 2023-03-30
-draft: false
 description: "Counter-Strike 2 in the Context of Garry's Mod 2"
-summary: "Counter-Strike 2 engine transition explained."
-tags: ["News"]
-categories: ["Community Corner"]
+categories: ["GMod News"]
+tags: ["Counter-Strike", "Source Engine", "s&box", "Valve", "Facepunch"]
 authors:
   - "erick-maksimets"
 ---

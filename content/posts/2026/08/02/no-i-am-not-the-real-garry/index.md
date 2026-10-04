@@ -2,13 +2,10 @@
 title: "«No, I am not the real garry!»"
 date: 2026-08-02
 description: "A fake Garry appeared in the game, allowing everyone to unlock the 'Yes, I am the real garry!' achievement."
-draft: false
-tags: ["News"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Garry Newman", "Game Servers", "Steam", "Facepunch"]
 authors:
   - "fosfor"
----
-
 ---
 
 The creator of Garry's Mod, Garry Newman, has not logged into his own game for several years. As a result, the legendary «Yes, I am the real garry!» achievement, originally awarded for playing on the same server as Garry, could only be obtained through Steam Achievement Manager or other illegitimate methods. However, in July 2026, the community encountered something completely unexpected: Garry had seemingly returned—but not in the way anyone had hoped.

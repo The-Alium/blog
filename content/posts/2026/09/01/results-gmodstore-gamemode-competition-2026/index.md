@@ -1,10 +1,9 @@
 ---
 title: "Results of the GmodStore Gamemode Competition 2026"
 date: 2026-09-01
-draft: false
 description: "The GmodStore Gamemode Competition returned after a six-year break — here are the rules, prize pool, and winners of the gamemode contest focused on procedural generation"
-tags: ["News"]
 categories: ["GMod News"]
+tags: ["GmodStore", "Gamemodes"]
 authors:
   - "fosfor"
 ---

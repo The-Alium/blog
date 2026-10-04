@@ -1,11 +1,9 @@
 ---
 title: "Five Years of the Alium Community"
 date: 2023-07-30
-draft: false
 description: "Five Years of the Alium Community"
-summary: "Five-year anniversary"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Anniversaries", "Community Structure", "Alium Nook"]
 authors:
   - "erick-maksimets"
 ---

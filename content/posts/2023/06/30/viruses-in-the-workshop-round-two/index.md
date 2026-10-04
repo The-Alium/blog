@@ -1,11 +1,9 @@
 ---
 title: "«Viruses in the Workshop» — Round Two"
 date: 2023-06-30
-draft: false
 description: "«Viruses in the Workshop» — Round Two"
-summary: "New acts of malicious actors"
-tags: ["News"]
-categories: ["Garry's Mod Corner"]
+categories: ["GMod News"]
+tags: ["Steam Workshop", "Security"]
 authors:
   - "erick-maksimets"
 ---

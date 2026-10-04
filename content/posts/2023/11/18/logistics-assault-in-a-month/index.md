@@ -1,15 +1,11 @@
 ---
 title: "Logistics Assault in a Month"
 date: 2023-11-18
-draft: false
 description: "Logistics Assault in a Month"
-summary: "Starry Steam built a fully playable PVE-focused HL2DM map with bot combat in just one month"
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Maps", "Half-Life", "Divisions", "Project Work"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 I want to draw your attention to the work being done to develop the game mode Half-Life: Deathmatch—specifically, the creation of a unique map that supports gameplay against bots. The Staryy Steam team, consisting of three developers, made significant efforts to bring this experimental concept to life within a month, focusing on battles against bots.

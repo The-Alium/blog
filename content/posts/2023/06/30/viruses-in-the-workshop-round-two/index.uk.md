@@ -1,11 +1,9 @@
 ---
 title: "«Віруси в майстерні» — Друге коло"
 date: 2023-06-30
-draft: false
 description: "«Віруси в майстерні» — Друге коло"
-summary: "Нові дії проблемних авторів"
-tags: ["Новини"]
-categories: ["Новини Garry's Mod"]
+categories: ["Новини GMod"]
+tags: ["Майстерня Steam", "Безпека"]
 authors:
   - "erick-maksimets"
 ---

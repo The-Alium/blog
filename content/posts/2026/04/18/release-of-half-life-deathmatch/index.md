@@ -2,12 +2,10 @@
 title: "Half-Life: Deathmatch Release"
 date: 2026-04-18
 description: "We are ready to announce that the Half-Life: Deathmatch gamemode is being released."
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Gamemodes", "Half-Life", "Project Work"]
 authors:
   - "dendi85"
----
-
 ---
 
 For a long time, our community had been developing a gamemode focused on firefights on Crossfire and, occasionally, on other maps. Today, however, we are ready to announce that development has been completed and the Half-Life: Deathmatch gamemode is officially released.
@@ -20,12 +18,12 @@ Many of my more ambitious ideas did not make it into the final version. They req
 
 The final version of the gamemode was shaped by contributions from many people. Below is a list of those who provided the most significant help with the release and who are, de facto, part of this project.
 
-> [Half-Life: Deathmatch — gamemode in the Steam Workshop;](https://steamcommunity.com/sharedfiles/filedetails/?id=3706253062)
+> [Half-Life: Deathmatch — gamemode in the Steam Workshop;](https://steamcommunity.com/sharedfiles/filedetails/?id=3706253062)<br/>
 
-> [DenDi85 — project lead and main developer;](https://steamcommunity.com/profiles/76561198393560436)
+> [DenDi85 — project lead and main developer;](https://steamcommunity.com/profiles/76561198393560436)<br/>
 
-> [Sereganeon — modification of Half-Life Deathmatch: Source maps and porting of original Half-Life maps;](https://steamcommunity.com/profiles/76561198405572168)
+> [Sereganeon — modification of Half-Life Deathmatch: Source maps and porting of original Half-Life maps;](https://steamcommunity.com/profiles/76561198405572168)<br/>
 
-> [argax us — assistance with map porting and creation of the background;](https://steamcommunity.com/profiles/76561199017192985)
+> [argax us — assistance with map porting and creation of the background;](https://steamcommunity.com/profiles/76561199017192985)<br/>
 
-> [Erick_Maksimets — active testing support and suggestions.](https://steamcommunity.com/profiles/76561198152226525)
+> [Erick_Maksimets — active testing support and suggestions.](https://steamcommunity.com/profiles/76561198152226525)<br/>

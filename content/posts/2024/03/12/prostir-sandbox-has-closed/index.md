@@ -1,14 +1,11 @@
 ---
 title: "Prostir Sandbox has closed"
 date: 2024-03-12
-draft: false
 description: "On March 11, 2024, the Ukrainian Garry's Mod server Prostir Sandbox ceased operations after two years of activity, citing declining player numbers, team issues, and financial concerns."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Game Servers"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 On March eleventh, Prostir Sandbox was closed. It was a server that was founded in 2022 by active Ukrainian members of the Garry's Mod community and members of the Alium community, throwing off the shackles of the unnecessary legacy of Russian-speaking communities. For two years, this server provided a large number of players with a place where they could have a relatively good time in the game's original game mode.

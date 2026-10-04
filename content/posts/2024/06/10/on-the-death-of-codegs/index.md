@@ -1,17 +1,16 @@
 ---
 title: "On the Death of code_gs"
 date: 2024-06-10
-draft: false
 description: "Developer code_gs tragically passed away in a car accident in April 2024. The Garry's Mod community learned about his death only months later."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["In Memoriam", "Facepunch"]
 authors:
   - "erick-maksimets"
 ---
 
----
+Developer code_gs tragically passed away in a car accident on April 15 in Denton, Texas. The community only became aware of this in June through a post in the news channel on the Garry's Mod Discord server.
 
-Developer code_gs tragically passed away in a car accident on April 15 in Denton, Texas. The community only became aware of this in June through a post in the news channel on the Garry's Mod Discord server. code_gs was a former employee of Facepunch who expressed interest in working on updates for Garry's Mod back in 2020. In August of that year, he organized the GMod Town Hall event, which was created to engage with the community regarding future updates for the game. code_gs was seen as a promising administrator who could assist Rubat with the game, but for some reason, he left Facepunch, retaining only a moderator role on the game's Discord server.
+code_gs was a former employee of Facepunch who expressed interest in working on updates for Garry's Mod back in 2020. In August of that year, he organized the GMod Town Hall event, which was created to engage with the community regarding future updates for the game. code_gs was seen as a promising administrator who could assist Rubat with the game, but for some reason, he left Facepunch, retaining only a moderator role on the game's Discord server.
 
 Although code_gs had stopped developing the game several years ago, he remained a part of the Garry's Mod community until the end of his life. Outside of the game, he left a significant online footprint—on the RateYourMusic website, a community memorial was even created, where many people who knew code_gs shared stories and emotions related to him. From there, we learn about his extensive knowledge in philosophy, music, technology, and life.
 

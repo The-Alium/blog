@@ -1,11 +1,9 @@
 ---
 title: "Відновлення елементів Steam групи"
 date: 2023-02-08
-draft: false
 description: "Відновлення елементів Steam групи"
-summary: "Відновлення елементів Steam групи"
-tags: ["Новини"]
-categories: ["Новини Garry's Mod"]
+categories: ["Новини Ком'юніті"]
+tags: ["Steam", "Valve", "Санкції"]
 authors:
   - "erick-maksimets"
 ---

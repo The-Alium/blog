@@ -1,14 +1,11 @@
 ---
 title: "Release of Temporal Assassin"
 date: 2024-06-05
-draft: false
 description: "Temporal Assassin, developed by Magenta of the Digitally Occult team, has been released in the Steam Workshop after years of development and prior distribution on other platforms."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Gamemodes", "Half-Life", "Steam Workshop"]
 authors:
-  - "DenDi85"
----
-
+  - "dendi85"
 ---
 
 On June 3, four years after its first public release on other platforms, the game mode Temporal Assassin, created by developer Magenta from the Digitally Occult team, was released in the Steam Workshop.

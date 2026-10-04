@@ -1,14 +1,12 @@
 ---
 title: "Another Misstep in Game Branch Updates"
 date: 2024-02-25
-draft: false
 description: "The February beta branch updates for Garry’s Mod caused widespread errors, including menu loading failures, crashes, and add-on issues across multiple game versions."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Rubat", "Security"]
+series: ["Garry's Mod Updates"]
 authors:
   - "s8cli"
----
-
 ---
 
 Discussions about issues with the beta branch updates date back to February 19. However, most of the error reports regarding the updates emerged between the 20th and 23rd. Garry’s Mod players began encountering errors, the primary one being a menu loading error: "Menu failed to load." Many users took to Reddit and the official Garry’s Mod Discord server to share this problem, seeking solutions.

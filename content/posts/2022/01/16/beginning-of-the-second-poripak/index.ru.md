@@ -1,13 +1,12 @@
 ---
 title: "Начало второго ПОРиПАК"
 date: 2022-01-16
-draft: false
 description: "Начало второго ПОРиПАК"
-summary: "Начало второго ПОРиПАК"
-tags: ["Новости"]
 categories: ["Новости Сообщества"]
+tags: ["Проектная работа", "Карты", "Counter-Strike", "Zombie Plague"]
+series: ["ПОРиПАК"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 После нескольких дней отборного отдыха мы возвращаемся к локальной проектной работе - Плану Обширной Реставрации и Публикации Архивных карт Counter-Strike:Source.

@@ -1,9 +1,9 @@
 ---
 title: "GearAlium Closure"
 date: 2019-04-30
-description: "These were truly good days; thank you all for playing."
-tags: ["Garry's Mod", "Dedicated Server"]
+description: "GearAlium Closure"
 categories: ["Community Corner"]
+tags: ["Game Servers"]
 series: ["Community Server"]
 authors:
   - "erick-maksimets"

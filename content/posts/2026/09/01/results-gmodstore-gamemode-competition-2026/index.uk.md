@@ -1,10 +1,9 @@
 ---
 title: "Підсумки GmodStore Gamemode Competition 2026"
 date: 2026-09-01
-draft: false
 description: "GmodStore Gamemode Competition повернувся після шестирічної перерви — розповідаємо про правила, призовий фонд і переможців конкурсу режимів на тему процедурної генерації"
-tags: ["Новини"]
 categories: ["Новини GMod"]
+tags: ["GmodStore", "Ігрові режими"]
 authors:
   - "fosfor"
 ---

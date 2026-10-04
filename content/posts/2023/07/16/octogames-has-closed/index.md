@@ -1,11 +1,9 @@
 ---
 title: "OctoGames Has Closed"
 date: 2023-07-16
-draft: false
 description: "OctoGames Has Closed"
-summary: "Closure of OctoGames gaming server"
-tags: ["News"]
-categories: ["Garry's Mod Corner"]
+categories: ["GMod News"]
+tags: ["Game Servers"]
 authors:
   - "gunter"
 ---

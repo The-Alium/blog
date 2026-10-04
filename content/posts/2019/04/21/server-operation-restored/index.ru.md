@@ -2,8 +2,8 @@
 title: "Работа сервера восстановлена"
 date: 2019-04-21
 description: "Работа сервера восстановлена"
-tags: ["Garry's Mod", "Выделенный Сервер"]
 categories: ["Новости Сообщества"]
+tags: ["Игровые серверы", "Counter-Strike"]
 series: ["Сервер Сообщества"]
 authors:
   - "erick-maksimets"

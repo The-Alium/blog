@@ -1,13 +1,12 @@
 ---
 title: "Implementation of the SORIP Plan"
 date: 2021-07-30
-draft: false
 description: "Implementation of the SORIP Plan"
-summary: "Implementation of the SORIP Plan"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Project Work", "Steam Workshop", "Rubat"]
+series: ["SORIP"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 In light of the restoration of project activity within the community, the implementation of the "SORIP" plan is announced.

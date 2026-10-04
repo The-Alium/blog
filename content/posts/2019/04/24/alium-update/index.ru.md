@@ -1,9 +1,9 @@
 ---
-date: 2019-04-24
 title: "Обновление Alium+++"
+date: 2019-04-24
 description: "Обновление Alium+++"
-tags: ["Garry's Mod", "Выделенный Сервер"]
 categories: ["Новости Сообщества"]
+tags: ["Игровые серверы", "Карты", "Игровые режимы", "Counter-Strike"]
 series: ["Сервер Сообщества"]
 authors:
   - "erick-maksimets"

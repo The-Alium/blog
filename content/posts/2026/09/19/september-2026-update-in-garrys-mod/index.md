@@ -1,10 +1,10 @@
 ---
 title: "September 2026 Update in Garry's Mod"
 date: 2026-09-19
-draft: false
 description: "On September 16, a planned update for Garry's Mod was released, which had been announced in the community hub on September 9. In addition, a hotfix was added to the update on September 17 to fix game crashes."
-tags: ["News"]
 categories: ["GMod News"]
+tags: ["Source Engine"]
+series: ["Garry's Mod Updates"]
 authors:
   - "erick-maksimets"
 ---

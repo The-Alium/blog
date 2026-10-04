@@ -1,14 +1,11 @@
 ---
 title: "Nintendo has reached Garry's Mod"
 date: 2024-04-26
-draft: false
 description: "In April 2024, Garry’s Mod addons related to Nintendo games were removed following copyright complaints, sparking community outrage and debates over potential DMCA abuse."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Steam Workshop", "Garry Newman"]
 authors:
   - "s8cli"
----
-
 ---
 
 On April 24, an announcement appeared in the Garry’s Mod community center, with a subheading stating the removal of addons related to Nintendo games due to copyright violations. A large part of the gaming community was outraged by this news, flooding various social media platforms with posts about the perceived injustice from Nintendo.
@@ -23,7 +20,7 @@ Continuing the topic of the troll named Aaron Peters, it is worth mentioning rep
 
 Some news sites have also updated the story to include information about the person claiming to be a Nintendo official, noting that the email address used in these complaints is fake.
 
-In the end, we would like to note that this story is not over yet, but we can already see progress in the form of Harry Newman's reaction to the whole situation, who has announced that he is investigating the matter. No matter how this story ends, it is important to note how much stories like this affect the community as a whole. Even in serious moments like complaints from a big company, the community doesn't get discouraged, trying to stand their ground, something that seems to be shared by the developers of the game itself.
+In the end, we would like to note that this story is not over yet, but we can already see progress in the form of Garry Newman's reaction to the whole situation, who has announced that he is investigating the matter. No matter how this story ends, it is important to note how much stories like this affect the community as a whole. Even in serious moments like complaints from a big company, the community doesn't get discouraged, trying to stand their ground, something that seems to be shared by the developers of the game itself.
 
 > [News about Nintendo-related add-on deletions](https://store.steampowered.com/news/app/4000/view/4200245595694413052)<br/>
 
@@ -35,4 +32,4 @@ In the end, we would like to note that this story is not over yet, but we can al
 
 > [Discussion from user Hudson633](https://steamcommunity.com/groups/gca1/discussions/0/4352242083122847194/?tscn=1714025728)<br/>
 
-> [A post by Harry Newman on Twitter](https://twitter.com/garrynewman/status/1783374453562290376)<br/>
+> [A post by Garry Newman on Twitter](https://twitter.com/garrynewman/status/1783374453562290376)<br/>

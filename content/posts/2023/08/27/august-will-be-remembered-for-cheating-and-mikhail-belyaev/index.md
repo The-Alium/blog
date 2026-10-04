@@ -1,11 +1,9 @@
 ---
 title: "August Will Be Remembered for Cheating and Mikhail Belyaev"
 date: 2023-08-27
-draft: false
 description: "August Will Be Remembered for Cheating and Mikhail Belyaev"
-summary: "Incredible detective story about cheating and betrayal"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Cheating", "Sanctions", "Divisions", "Trouble in Terrorist Town", "Video"]
 authors:
   - "erick-maksimets"
 ---

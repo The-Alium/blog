@@ -1,19 +1,16 @@
 ---
 title: "Temporary Suspension of the Active Members Concept"
 date: 2022-03-03
-draft: false
 description: "Temporary Suspension of the Active Members Concept"
-summary: "Temporary Suspension of the Active Members Concept"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Community Structure"]
+series: ["Community Activists"]
 authors:
   - "flashar"
 ---
 
-Recently, the second project for the restoration and publication of archived maps came to an end. Due to the completion of PORiPAK, a ban on creating events for the Zombie Plague mode has been introduced for a month. Those responsible for the implementation of PORiPAK, namely SoR_Ge and CyberKaiser, have been removed from their positions following its conclusion. DenDi85 has also been removed from the position of entry inspector due to the temporary unnecessity of this role.
+The activists concept lasted exactly one month, but because of the events you all know about, we decided it would be better to postpone it until everything stabilizes and to temporarily bring back the concept of loyal members. Those who had already received the activist role are moved to loyal members.
 
-Now that the situation has stabilized somewhat, we have decided to return to the concept of active members instead of loyal ones. The Non Grata list has been temporarily frozen, and changes have been made to the Grata list. The Steam group icon has also been changed as a result of a vote.
-
-Currently, a new event system in Discord is being tested. The essence of the new system is that the #события (events) channel will be removed, and new categories for events and chats for various games on the Source engine will be introduced. To gain access to events and the chat for a specific game, users will need to click on the emoji corresponding to access for that particular game in the #информация (information) channel.
+During the time the activists concept existed, only one new user received the role — [Cтул](https://steamcommunity.com/id/_ctool); later, [apchistuz](https://steamcommunity.com/id/apchistuz) and [oTvErTkA](https://steamcommunity.com/profiles/76561198375778469) also regained their positions.
 
 > [Concept of a community activist](https://steamcommunity.com/groups/thealium/discussions/9/3762229114477164567/)<br/>

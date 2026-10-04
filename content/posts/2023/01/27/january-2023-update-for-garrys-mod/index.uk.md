@@ -1,11 +1,10 @@
 ---
 title: "Січневе оновлення 2023 у Garry's Mod"
 date: 2023-01-27
-draft: false
 description: "Січневе оновлення 2023 у Garry's Mod"
-summary: "Про апдейт..."
-tags: ["Новини"]
-categories: ["Новини Garry's Mod"]
+categories: ["Новини GMod"]
+tags: ["Локалізація", "Trouble in Terrorist Town"]
+series: ["Оновлення Garry's Mod"]
 authors:
   - "chebrik"
 ---

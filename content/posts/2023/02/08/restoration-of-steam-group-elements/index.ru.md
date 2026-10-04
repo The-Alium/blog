@@ -1,11 +1,9 @@
 ---
 title: "Восстановление элементов Steam группы"
 date: 2023-02-08
-draft: false
 description: "Восстановление элементов Steam группы"
-summary: "Восстановление элементов Steam группы"
-tags: ["Новости"]
-categories: ["Новости Garry's Mod"]
+categories: ["Новости Сообщества"]
+tags: ["Steam", "Valve", "Санкции"]
 authors:
   - "erick-maksimets"
 ---

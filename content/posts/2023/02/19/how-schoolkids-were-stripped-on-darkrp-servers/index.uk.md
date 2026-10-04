@@ -1,11 +1,9 @@
 ---
 title: "«Як DarkRP сервери школярів роздягали»"
 date: 2023-02-19
-draft: false
 description: "«Як DarkRP сервери школярів роздягали»"
-summary: "Дітей змушували роздягатися на DarkRP серверах"
-tags: ["Новини"]
-categories: ["Новини Ком'юніті"]
+categories: ["Новини GMod"]
+tags: ["Ігрові сервери", "Rubat"]
 authors:
   - "boblikut"
 ---

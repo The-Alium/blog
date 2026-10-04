@@ -1,11 +1,10 @@
 ---
 title: "Completion of Work on PRiPIR"
 date: 2022-11-01
-draft: false
 description: "Completion of Work on PRiPIR"
-summary: "Completion of Work on PRiPIR"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Project Work", "Gamemodes", "Localization", "Trouble in Terrorist Town"]
+series: ["PRiPIR"]
 authors:
   - "flashar"
 ---

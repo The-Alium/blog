@@ -1,11 +1,9 @@
 ---
 title: "Spring 2023: Changes and Results of the Center"
 date: 2023-05-28
-draft: false
 description: "Spring 2023: Changes and Results of the Center"
-summary: "Officer transitions, divisions reorganized."
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Divisions", "Moderation", "Alium Nook", "Alium Course", "Lakur Court"]
 authors:
   - "dendi85"
 ---

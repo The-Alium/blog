@@ -1,13 +1,11 @@
 ---
 title: "Cancellation of Several Concepts in the Community"
 date: 2021-03-10
-draft: false
 description: "Cancellation of Several Concepts in the Community"
-summary: "Cancellation of Several Concepts in the Community"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Community Structure", "Tournaments", "Lakur Court", "Moderation", "Discord"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 As a result of several days of discussions, the current moderators of The Alium have decided to discontinue support for the Loyalty System.

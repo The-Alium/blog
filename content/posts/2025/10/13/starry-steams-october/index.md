@@ -1,15 +1,11 @@
 ---
 title: "Starry Steam's October"
 date: 2025-10-13
-draft: false
 description: "Starry Steam's October"
-summary: "Hello, you are reading a text written by Erick_Maksimets, and I have returned for the second time."
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Divisions", "Moderation", "Community Structure", "Cheating", "Video"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 Hello, you are reading a text written by Erick_Maksimets, and I have returned for the second time. I would like to make a couple of changes and outline some modifications to the group that are gradually coming into effect with my new officer term.

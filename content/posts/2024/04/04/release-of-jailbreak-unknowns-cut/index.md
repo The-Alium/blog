@@ -1,14 +1,11 @@
 ---
 title: "Release of Jailbreak: Unknown's Cut"
 date: 2024-04-04
-draft: false
 description: "After several months of community support and testing, Jailbreak: Unknown's Cut has officially been released in the Steam Workshop as a standalone and fully completed gamemode."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Gamemodes", "Grata System", "GmodStore"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 For several months, The Alium Community has been assisting the Persona Grata, Unknown Developer, with the development and testing of a game mode that has now been released in the workshop under the title JailBreak: Unknown's Cut. Today, we can announce that the game mode is complete, marking its official release in the Steam Workshop.

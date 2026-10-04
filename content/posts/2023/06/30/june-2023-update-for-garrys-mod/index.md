@@ -1,11 +1,10 @@
 ---
 title: "June 2023 Update for Garry's Mod"
 date: 2023-06-30
-draft: false
 description: "June 2023 Update for Garry's Mod"
-summary: "About the update..."
-tags: ["News"]
-categories: ["Garry's Mod Corner"]
+categories: ["GMod News"]
+tags: ["Source Engine"]
+series: ["Garry's Mod Updates"]
 authors:
   - "chebrik"
 ---

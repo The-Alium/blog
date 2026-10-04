@@ -1,11 +1,10 @@
 ---
-title: "Temporary Suspension of the Active Members Concept"
+title: "Introduction of Community Activists"
 date: 2022-02-02
-draft: false
-description: "Temporary Suspension of the Active Members Concept"
-summary: "Temporary Suspension of the Active Members Concept"
-tags: ["News"]
+description: "Introduction of Community Activists"
 categories: ["Community Corner"]
+tags: ["Community Structure", "Discord"]
+series: ["Community Activists"]
 authors:
   - "erick-maksimets"
 ---

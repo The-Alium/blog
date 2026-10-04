@@ -2,11 +2,10 @@
 title: "Реліз Half-Life: Deathmatch"
 date: 2026-04-18
 description: "Ми готові повідомити про те, що ігровий режим Half-Life: Deathmatch виходить у реліз."
-tags: ["Новини", "Локальщина"]
+categories: ["Новини Ком'юніті"]
+tags: ["Ігрові режими", "Half-Life", "Проєктна робота"]
 authors:
   - "dendi85"
----
-
 ---
 
 Упродовж тривалого часу в нашій спільноті тривала розробка ігрового режиму, зосередженого на перестрілках на Crossfire та, інколи, на інших мапах. Сьогодні ми готові повідомити, що розробку завершено, і ігровий режим Half-Life: Deathmatch офіційно виходить у реліз.
@@ -19,12 +18,12 @@ authors:
 
 У фінальну версію режиму зробили внесок багато людей. Нижче наведено список тих, хто надав найбільшу допомогу в релізі та хто де-факто є учасником цієї проєктної роботи.
 
-> [Half-Life: Deathmatch — ігровий режим у майстерні Steam;](https://steamcommunity.com/sharedfiles/filedetails/?id=3706253062)
+> [Half-Life: Deathmatch — ігровий режим у майстерні Steam;](https://steamcommunity.com/sharedfiles/filedetails/?id=3706253062)<br/>
 
-> [DenDi85 — організатор проєкту та основний розробник;](https://steamcommunity.com/profiles/76561198393560436)
+> [DenDi85 — організатор проєкту та основний розробник;](https://steamcommunity.com/profiles/76561198393560436)<br/>
 
-> [Sereganeon — модифікація мап Half-Life Deathmatch: Source та порт оригінальних мап із Half-Life;](https://steamcommunity.com/profiles/76561198405572168)
+> [Sereganeon — модифікація мап Half-Life Deathmatch: Source та порт оригінальних мап із Half-Life;](https://steamcommunity.com/profiles/76561198405572168)<br/>
 
-> [argax us — допомога з портом мап і створення заднього фону;](https://steamcommunity.com/profiles/76561199017192985)
+> [argax us — допомога з портом мап і створення заднього фону;](https://steamcommunity.com/profiles/76561199017192985)<br/>
 
-> [Erick_Maksimets — активна допомога з тестуванням і пропозиції.](https://steamcommunity.com/profiles/76561198152226525)
+> [Erick_Maksimets — активна допомога з тестуванням і пропозиції.](https://steamcommunity.com/profiles/76561198152226525)<br/>

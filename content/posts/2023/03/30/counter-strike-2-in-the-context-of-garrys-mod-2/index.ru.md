@@ -1,11 +1,9 @@
 ---
 title: "Counter-Strike 2 в профиль Garry's Mod 2"
 date: 2023-03-30
-draft: false
 description: "Counter-Strike 2 в профиль Garry's Mod 2"
-summary: "Переход Counter-Strike 2 на новый движок."
-tags: ["Новости"]
-categories: ["Новости Сообщества"]
+categories: ["GMod Новости"]
+tags: ["Counter-Strike", "Source Engine", "s&box", "Valve", "Facepunch"]
 authors:
   - "erick-maksimets"
 ---

@@ -1,11 +1,10 @@
 ---
 title: "Completion of the Second PORiPAK and April Changes"
 date: 2022-04-14
-draft: false
 description: "Completion of the Second PORiPAK and April Changes"
-summary: "Completion of the Second PORiPAK and April Changes"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Project Work", "Zombie Plague", "Community Structure", "Grata System", "Discord"]
+series: ["PORiPAK"]
 authors:
   - "flashar"
 ---

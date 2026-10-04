@@ -1,13 +1,12 @@
 ---
 title: "Report on the Acceptance of Bans from Satellites"
 date: 2021-11-12
-draft: false
 description: "Report on the Acceptance of Bans from Satellites"
-summary: "Report on the Acceptance of Bans from Satellites"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Sanctions", "Cheating", "Grata System"]
+series: ["Bans from Satellites"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 On August 19, 2021, a plan was formulated to collect ban lists from various organizers and servers to create a massive Alium ban list, which would serve as a barrier against severe violations that may arise in the community, such as cheating.
@@ -19,5 +18,7 @@ Since October 6, moderator DenDi85 has updated the ban list, which now contains 
 Users who provided ban lists can now qualify for the Grata Person status, but they must undergo several additional checks before they appear on the lists.
 
 > [List of blocks in Steam discussions](https://steamcommunity.com/groups/thealium/discussions/9/6633328164270483997/)<br/>
+
 > [Concept of blocks in Steam discussions](https://steamcommunity.com/groups/thealium/discussions/9/6633328164270483997/)<br/>
+
 > [Automatic blocking system in GitHub](https://github.com/The-Alium/community-ban-list)<br/>

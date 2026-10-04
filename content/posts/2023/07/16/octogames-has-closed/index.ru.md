@@ -1,11 +1,9 @@
 ---
 title: "Закрылся OctoGames"
 date: 2023-07-16
-draft: false
 description: "Закрылся OctoGames"
-summary: "Закрытие игрового сервера OctoGames"
-tags: ["Новости"]
-categories: ["Новости Garry's Mod"]
+categories: ["GMod Новости"]
+tags: ["Игровые серверы"]
 authors:
   - "gunter"
 ---

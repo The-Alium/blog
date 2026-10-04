@@ -1,13 +1,12 @@
 ---
 title: "Beginning of the Second PORiPAK"
 date: 2022-01-16
-draft: false
 description: "Beginning of the Second PORiPAK"
-summary: "Beginning of the Second PORiPAK"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Project Work", "Maps", "Counter-Strike", "Zombie Plague"]
+series: ["PORiPAK"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 After several days of well-deserved rest, we are returning to local project work - the Plan for the Extensive Restoration and Publication of Archived Maps for Counter-Strike: Source.

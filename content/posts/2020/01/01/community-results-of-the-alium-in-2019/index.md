@@ -1,13 +1,12 @@
 ---
 title: "Community Results of The Alium in 2019"
 date: 2020-01-01
-draft: false
 description: "Community Results of The Alium in 2019"
-summary: "Community Results of The Alium in 2019"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Community Structure", "Erick's Town", "Zombie Plague"]
+series: ["The Alium Results"]
 authors:
-    - "erick-maksimets"
+  - "erick-maksimets"
 ---
 
 As the year comes to a close, you have the opportunity to read additional information about the events that took place from the closure of GearAlium to the end of 2019. The Coalition of Players consists of 12 members, seven of whom are active players. Ten detailed discussions have been written on the group forum, Erick's Town received five major updates, three highly detailed guides were created, and 16 videos were produced.

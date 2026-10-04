@@ -1,11 +1,10 @@
 ---
 title: "January 2023 Update for Garry's Mod"
 date: 2023-01-27
-draft: false
 description: "January 2023 Update for Garry's Mod"
-summary: "About the update ..."
-tags: ["News"]
-categories: ["Garry's Mod Corner"]
+categories: ["GMod News"]
+tags: ["Localization", "Trouble in Terrorist Town"]
+series: ["Garry's Mod Updates"]
 authors:
   - "chebrik"
 ---

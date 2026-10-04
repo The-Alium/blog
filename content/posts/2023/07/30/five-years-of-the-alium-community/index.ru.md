@@ -1,11 +1,9 @@
 ---
 title: "Пять лет Алиумскому сообществу"
 date: 2023-07-30
-draft: false
 description: "Пять лет Алиумскому сообществу"
-summary: "Чё то там пятилетка"
-tags: ["Новости"]
 categories: ["Новости Сообщества"]
+tags: ["Годовщины", "Структура сообщества", "Alium Nook"]
 authors:
   - "erick-maksimets"
 ---

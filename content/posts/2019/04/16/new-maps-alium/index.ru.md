@@ -2,8 +2,8 @@
 title: "Новые карты — Alium++"
 date: 2019-04-16
 description: "Новые карты — Alium++"
-tags: ["Garry's Mod", "Trouble in Terrorist Town", "Counter Strike", "Source", "Zombie Plague"]
 categories: ["Новости Сообщества"]
+tags: ["Карты", "Игровые режимы", "Trouble in Terrorist Town", "Zombie Plague", "Counter-Strike"]
 series: ["Сервер Сообщества"]
 authors:
   - "erick-maksimets"

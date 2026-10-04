@@ -1,11 +1,9 @@
 ---
 title: "Garry Newman is Banning Servers Again"
 date: 2023-04-21
-draft: false
 description: "Garry Newman is Banning Servers Again"
-summary: "Garry's Mod bans Nazi content."
-tags: ["News"]
-categories: ["Community Corner"]
+categories: ["GMod News"]
+tags: ["Garry Newman", "Game Servers"]
 authors:
   - "sereganeon"
 ---

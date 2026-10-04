@@ -1,14 +1,12 @@
 ---
-title: '"Minor" Game Update from Rubat'
+title: "\"Minor\" Game Update from Rubat"
 date: 2024-01-08
-draft: false
 description: "At the beginning of January 2024, a minor Garry's Mod update unexpectedly broke numerous add-ons and server systems due to the removal of the debug function library."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Rubat", "Security", "Steam Workshop"]
+series: ["Garry's Mod Updates"]
 authors:
-  - "Sereganeon"
----
-
+  - "sereganeon"
 ---
 
 On January 4, towards the end of the day, a new minor update for Garry's Mod was released, the announcement of which didn't even bother to include an image in the game's main menu. It could have been considered insignificant if not for one important change that was initially not even recorded in the changelog. For security reasons, Rubat removed the debug function library, which was used by many not only for simple add-ons but also for entire game modes and servers, including anti-cheat systems for those servers.

@@ -1,15 +1,11 @@
 ---
 title: "The death of Viktor Antonov"
 date: 2025-02-17
-draft: false
 description: "The death of Viktor Antonov"
-summary: "The artistic design of a game is crucial for creating its atmosphere and influences the player's perception."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["In Memoriam", "Half-Life", "Counter-Strike"]
 authors:
   - "dendi85"
----
-
 ---
 
 The artistic design of a game is crucial for creating its atmosphere and influences the player's perception. People who can shape it into a clear concept with distinct elements and have the ability to bring these concepts to life are extremely valuable to the gaming industry. Unfortunately, the loss of such a talented specialist, who could not only see the big picture but also realize it in the finest details, becomes an irreplaceable loss for a very large number of people.
@@ -22,6 +18,6 @@ While many people may not have known Antonov personally, he made a significant c
 
 > [PC Gamer article](https://www.pcgamer.com/gaming-industry/viktor-antonov-the-visionary-artist-who-defined-half-life-2-and-dishonored-has-died/)<br/>
 
-> [Eschatology Entertainment publication on LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&amp;utm_medium=member_android&amp;rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
+> [Eschatology Entertainment publication on LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&utm_medium=member_android&rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
 
 > [LambdaGeneration publication with a screenshot of Mark Laidlaw's story](https://x.com/LambdaGen/status/1890944782370791719)<br/>

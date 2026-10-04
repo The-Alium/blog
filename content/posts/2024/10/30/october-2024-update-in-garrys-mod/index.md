@@ -1,14 +1,12 @@
 ---
 title: "October 2024 Update in Garry's Mod"
 date: 2024-10-30
-draft: false
 description: "At the end of October 2024, a new update for Garry's Mod was released, introducing animation fixes, interface improvements, expanded localization, and a new particle editor for add-on developers."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Localization", "Source Engine"]
+series: ["Garry's Mod Updates"]
 authors:
   - "s8cli"
----
-
 ---
 
 The upcoming update was known about a week before its release. On the 29th—seven days after the previous post—the update itself was released, which will be discussed in this report.

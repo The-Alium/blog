@@ -1,11 +1,10 @@
 ---
 title: "Beginning of Work on PRiPIR"
 date: 2022-08-26
-draft: false
 description: "Beginning of Work on PRiPIR"
-summary: "Beginning of Work on PRiPIR"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Project Work", "Gamemodes", "Localization"]
+series: ["PRiPIR"]
 authors:
   - "flashar"
 ---

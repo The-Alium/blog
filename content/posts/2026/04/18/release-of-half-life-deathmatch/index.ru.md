@@ -2,11 +2,10 @@
 title: "Релиз Half-Life: Deathmatch"
 date: 2026-04-18
 description: "Мы готовы сообщить о том, что игровой режим Half-Life: Deathmatch выходит в релиз."
-tags: ["Новости", "Локальщина"]
+categories: ["Новости Сообщества"]
+tags: ["Игровые режимы", "Half-Life", "Проектная работа"]
 authors:
   - "dendi85"
----
-
 ---
 
 Уже долгое время в нашем сообществе велась разработка игрового режима про пострелушки на Crossfire и, иногда, игре на других картах. Однако сегодня мы готовы сообщить о том, что разработка окончена и игровой режим Half-Life: Deathmatch выходит в релиз.
@@ -19,12 +18,12 @@ authors:
 
 В окончательную версию режима вклад внесло множество людей. Ниже представлен список людей, которые оказал наибольшую помощь в релиз режима и кто де-факто является участником этой проектной работы.
 
-> [Half-Life: Deathmatch — игровой режим в мастерской Steam;](https://steamcommunity.com/sharedfiles/filedetails/?id=3706253062)
+> [Half-Life: Deathmatch — игровой режим в мастерской Steam;](https://steamcommunity.com/sharedfiles/filedetails/?id=3706253062)<br/>
 
-> [DenDi85 — организатор проектной работы и основной разработчик;](https://steamcommunity.com/profiles/76561198393560436)
+> [DenDi85 — организатор проектной работы и основной разработчик;](https://steamcommunity.com/profiles/76561198393560436)<br/>
 
-> [Sereganeon — модификация карт Half-Life Deathmatch: Source и порт оригинальных карт из Half-Life;](https://steamcommunity.com/profiles/76561198405572168)
+> [Sereganeon — модификация карт Half-Life Deathmatch: Source и порт оригинальных карт из Half-Life;](https://steamcommunity.com/profiles/76561198405572168)<br/>
 
-> [argax us — помощь с портом карт и создание заднего фона;](https://steamcommunity.com/profiles/76561199017192985)
+> [argax us — помощь с портом карт и создание заднего фона;](https://steamcommunity.com/profiles/76561199017192985)<br/>
 
-> [Erick_Maksimets — активная помощь с тестированием, предложения.](https://steamcommunity.com/profiles/76561198152226525)
+> [Erick_Maksimets — активная помощь с тестированием, предложения.](https://steamcommunity.com/profiles/76561198152226525)<br/>

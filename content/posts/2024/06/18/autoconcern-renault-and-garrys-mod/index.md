@@ -1,14 +1,11 @@
 ---
 title: "Autoconcern Renault and Garry's Mod"
 date: 2024-06-18
-draft: false
 description: "Renault launched an advertising campaign inside Garry's Mod through a custom gamemode created by Zet0r, centered around their new electric vehicle R5."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Gamemodes", "Steam Workshop"]
 authors:
-  - "DenDi85"
----
-
+  - "dendi85"
 ---
 
 The Steam Workshop is once again being enriched with an intriguing game mode from Zet0r — the creator of nZombies, You Touched it Last, Cops and Runners.

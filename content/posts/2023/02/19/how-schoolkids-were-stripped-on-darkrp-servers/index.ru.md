@@ -1,11 +1,9 @@
 ---
 title: "«Как DarkRP сервера школьников раздевали»"
 date: 2023-02-19
-draft: false
 description: "«Как DarkRP сервера школьников раздевали»"
-summary: "Дитей заставляли раздеваться на ДаркРП серверах"
-tags: ["Новости"]
-categories: ["Новости Сообщества"]
+categories: ["GMod Новости"]
+tags: ["Игровые серверы", "Rubat"]
 authors:
   - "boblikut"
 ---

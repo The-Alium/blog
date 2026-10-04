@@ -1,11 +1,10 @@
 ---
 title: "Июньское обновление 2023 в Garry's Mod"
 date: 2023-06-30
-draft: false
 description: "Июньское обновление 2023 в Garry's Mod"
-summary: "Про апдейт..."
-tags: ["Новости"]
-categories: ["Новости Garry's Mod"]
+categories: ["GMod Новости"]
+tags: ["Source Engine"]
+series: ["Обновления Garry's Mod"]
 authors:
   - "chebrik"
 ---
@@ -20,7 +19,7 @@ authors:
 
 Что касается технических изменений для разработчиков, в Hammer Editor теперь появилась полная поддержка для "Static Prop Lightmap". У каждого Input/Output будет свое описание. Появились новые input/output для func_tracktrain, и шесть новых Input для всех энтити. Был добавлен keyvalue "Disable Flashlight" для всех энтити, также был добавлен prop_sphere и func_friction. Добавлены энтити filter_activator_context и filter_activator_model. Добавлены новые параметры для шейдеров "LightmappedGeneric" и "VertexLitGeneric". Были добавлены конфигурационные файлы с настройками сложности для Half-Life: Source.
 
-Это самое основное, что можно было отметить, более подробная информация находиться на сайте Facepunch в списке изменений. 
+Это самое основное, что можно было отметить, более подробная информация находиться на сайте Facepunch в списке изменений.
 
 > [Июньское обновление 2023 года в блоге Facepunch](https://gmod.facepunch.com/news/june-2023-update)<br/>
 

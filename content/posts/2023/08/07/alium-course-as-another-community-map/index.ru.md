@@ -1,11 +1,9 @@
 ---
 title: "Алиум Курс как очередная карта сообщества"
 date: 2023-08-07
-draft: false
 description: "Алиум Курс как очередная карта сообщества"
-summary: "Релиз карты gm_alium_course"
-tags: ["Новости"]
 categories: ["Новости Сообщества"]
+tags: ["Alium Course", "Карты", "Проектная работа"]
 authors:
   - "erick-maksimets"
 ---

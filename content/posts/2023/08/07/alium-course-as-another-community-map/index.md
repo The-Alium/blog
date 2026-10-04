@@ -1,11 +1,9 @@
 ---
 title: "Alium Course as Another Community Map"
 date: 2023-08-07
-draft: false
 description: "Alium Course as Another Community Map"
-summary: "Release of gm_alium_course"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Alium Course", "Maps", "Project Work"]
 authors:
   - "erick-maksimets"
 ---

@@ -1,13 +1,11 @@
 ---
 title: "Автоконцерн Renault и Garry's Mod"
 date: 2024-06-18
-draft: false
 description: "Renault запустила рекламную кампанию своего электромобиля R5 через игровой режим в Garry's Mod, созданный разработчиком Zet0r."
-tags: ["Новости", "Глобальщина"]
+categories: ["GMod Новости"]
+tags: ["Игровые режимы", "Мастерская Steam"]
 authors:
-  - "DenDi85"
----
-
+  - "dendi85"
 ---
 
 Мастерская Steam снова пополняется любопытным игровым режимом от Zet0r — создателя nZombies, You Touched it Last, Cops and Runners.
