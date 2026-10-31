@@ -2,8 +2,8 @@
 title: "New Maps — Alium++"
 date: 2019-04-16
 description: "New Maps — Alium++"
-tags: ["Garry's Mod", "Trouble in Terrorist Town", "Counter Strike", "Source", "Zombie Plague"]
 categories: ["Community Corner"]
+tags: ["Maps", "Gamemodes", "Trouble in Terrorist Town", "Zombie Plague", "Counter-Strike"]
 series: ["Community Server"]
 authors:
   - "erick-maksimets"

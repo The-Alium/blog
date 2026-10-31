@@ -2,8 +2,8 @@
 title: "Alium+++ Update"
 date: 2019-04-24
 description: "Alium+++ Update"
-tags: ["Garry's Mod", "Dedicated Server"]
 categories: ["Community Corner"]
+tags: ["Game Servers", "Maps", "Gamemodes", "Counter-Strike"]
 series: ["Community Server"]
 authors:
   - "erick-maksimets"

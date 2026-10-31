@@ -1,14 +1,11 @@
 ---
 title: "О смерти Виктора Антонова"
 date: 2025-02-17
-draft: false
 description: "О смерти Виктора Антонова"
-summary: "Художественный дизайн игры имеет важное значение для создания её атмосферы и влияет на восприятие игрока."
-tags: ["Новости", "Глобальщина"]
+categories: ["GMod Новости"]
+tags: ["Некрологи", "Half-Life", "Counter-Strike"]
 authors:
   - "dendi85"
----
-
 ---
 
 Художественный дизайн игры имеет важное значение для создания её атмосферы и влияет на восприятие игрока. Люди, способные формировать его в чёткую концепцию с отдельными выделяющимися элементами и имеют способности воплощать эти концепции в жизнь — крайне дорогие для игровой индустрии. К сожалению, потеря такого талантливого специалиста, способного не только видеть общую картину, но и воплощать её в мельчайших деталях, становится невосполнимой утратой для очень большого числа людей.
@@ -21,6 +18,6 @@ authors:
 
 > [Статья PC Gamer](https://www.pcgamer.com/gaming-industry/viktor-antonov-the-visionary-artist-who-defined-half-life-2-and-dishonored-has-died/)<br/>
 
-> [Публикация Eschatology Entertainment в LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&amp;amp;utm_medium=member_android&amp;amp;rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
+> [Публикация Eschatology Entertainment в LinkedIn](https://www.linkedin.com/posts/eschatology-entertainment_its-hard-to-say-goodbye-to-colleagues-its-activity-7296883446667177984--COP/?utm_source=share&utm_medium=member_android&rcm=ACoAAAGKgkgBAOVY8Y5QGfavSjX0Xx5EAfD5LNg)<br/>
 
 > [Публикация LambdaGeneration с скриншотом истории Марка Лэйдлоу](https://x.com/LambdaGen/status/1890944782370791719)<br/>

@@ -1,10 +1,10 @@
 ---
 title: "Январское обновление 2023 в Garry's Mod"
 date: 2023-01-27
-draft: false
 description: "Январское обновление 2023 в Garry's Mod"
-summary: "Про апдейт ..."
-tags: ["Новости", "Глобальщина"]
+categories: ["GMod Новости"]
+tags: ["Локализация", "Trouble in Terrorist Town"]
+series: ["Обновления Garry's Mod"]
 authors:
   - "chebrik"
 ---

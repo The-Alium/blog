@@ -1,15 +1,11 @@
 ---
-title: "Alium Members Are Once Again Engaging in Nonsense... "
+title: "Alium Members Are Once Again Engaging in Nonsense and Creating the Unexplained"
 date: 2023-12-07
-draft: false
 description: "Alium Members Are Once Again Engaging in Nonsense and Creating the Unexplained"
-summary: "The release of TTT Null RPG"
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Maps", "Trouble in Terrorist Town", "Divisions", "Project Work"]
 authors:
   - "gunter"
----
-
 ---
 
 On November 12, a group of volunteers from the "Polygon 53" division was assembled with the goal of creating a rather unusual local map for the community, involving the participation of four individuals. On December 5, the map ttt_null_rpg_v1 was ultimately published in the Steam Workshop.

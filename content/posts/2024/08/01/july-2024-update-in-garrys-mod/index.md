@@ -1,14 +1,12 @@
 ---
 title: "July 2024 Update in Garry's Mod"
 date: 2024-08-01
-draft: false
 description: "The July 2024 update introduced significant Q-menu improvements, new administrative commands, and multiplayer enhancements without breaking existing workshop content."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Game Servers"]
+series: ["Garry's Mod Updates"]
 authors:
   - "s8cli"
----
-
 ---
 
 A week prior to release, a post appeared in the Garry’s Mod community asking both content creators and regular players to help test the upcoming update scheduled for July 31 at 14:00 GMT. The update has now officially launched on Steam, delivering a substantial list of additions and refinements.
@@ -17,9 +15,11 @@ Concerns within the community about potential breakage of workshop add-ons prove
 
 From a functional standpoint, the update focuses on usability and workflow optimization. The Q-menu received the most visible changes—particularly the spawn list. Items and entities can now be organized into categories and subcategories, allowing users to structure content more efficiently. Additionally, the face poser interface was refined so that each facial component is now grouped into its own dedicated category.
 
-Several new console commands were introduced to streamline server management and gameplay customization. The command “toolmodeallow<toolname>” enables administrators to restrict specific tools or weapons on a server. Another notable addition is “prop_disable_distance_fade convar,” which, when set to “1,” disables distance-based fading for props, including static props and other entities—an especially useful improvement for scene builders.
+Several new console commands were introduced to streamline server management and gameplay customization. The command “`toolmode_allow_<toolname>`” enables administrators to restrict specific tools or weapons on a server. Another notable addition is “prop_disable_distance_fade convar,” which, when set to “1,” disables distance-based fading for props, including static props and other entities—an especially useful improvement for scene builders.
 
 The main menu also received updates. Within the Multiplayer section, players can now automatically connect to a full server once a slot becomes available. In the Favorites tab, a new option allows users to manually add servers via IP address.
+
+We have to admit that this is a good update: it not only brought changes aimed at making players' lives easier, but also managed to come out without any subsequent breakage of Workshop add-ons. You can find the full list of changes related to the update on the official Garry’s Mod website.
 
 > [Announcement of the upcoming update on the community page](https://store.steampowered.com/news/app/4000/view/4347746728033272636?)<br/>
 

@@ -2,8 +2,9 @@
 title: "Fifth Easter Egg on Erick's Town"
 date: 2019-08-16
 description: "Fifth Easter Egg on Erick's Town"
-tags: ["Garry's Mod", "Erick's Town", "Map/Game Level", "Easter Egg"]
 categories: ["Community Corner"]
+tags: ["Erick's Town", "Maps", "Video"]
+series: ["Community Server"]
 authors:
   - "erick-maksimets"
 ---

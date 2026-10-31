@@ -1,15 +1,12 @@
 ---
 title: "Two Years After the Soripov Plan"
 date: 2023-10-15
-draft: false
 description: "Two Years After the Soripov Plan"
-summary: "Analysis of the consequences of the SORIP plan"
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Project Work", "Steam Workshop", "Rubat"]
+series: ["SORIP"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 More than two years ago, the SORIP plan was completed, aimed at addressing mass violations in the guides section of Garry's Mod. Analyzing the long-term consequences of the events related to the Soripov Plan, both negative and positive changes can be noted two years after the plan's conclusion and the release of a video on how developers confront the community.

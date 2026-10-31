@@ -1,15 +1,12 @@
 ---
 title: "Ordinary November Update 2025"
 date: 2025-11-12
-draft: false
-description: "brief summary on November update"
-summary: "One can confidently say that the update from November 12, 2025, for Garry's Mod will be the last one this year."
-tags: ["news"]
-categories: ["World Watch"]
+description: "Brief summary of the November update"
+categories: ["GMod News"]
+tags: ["Source Engine"]
+series: ["Garry's Mod Updates"]
 authors:
   - "dendi85"
----
-
 ---
 
 One can confidently say that the update from November 12, 2025, for Garry's Mod will be the last one this year. It introduces a small number of minor new features and a large number of even smaller bug fixes.

@@ -1,15 +1,11 @@
 ---
 title: "Alium Course as Another Community Map"
 date: 2023-08-07
-draft: false
 description: "Alium Course as Another Community Map"
-summary: "Release of gm_alium_course"
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Alium Course", "Maps", "Project Work"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 Recently, a group of mappers from Alium completed their project work on creating a community map intended for testing the skills of candidates for active roles. Initially, the map was conceived as less absurd, but as the level of madness increased during development, it turned into a map filled with local humor that would deter any random players from attempting to complete it.

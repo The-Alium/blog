@@ -1,15 +1,12 @@
 ---
 title: "Delicious July 2025 Update for Garry's Mod"
 date: 2025-07-23
-draft: false
 description: "Delicious July 2025 Update for Garry's Mod"
-summary: "Today, a mid-sized update is being released for Garry's Mod, which brings one particularly surprising change."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Counter-Strike", "Half-Life"]
+series: ["Garry's Mod Updates"]
 authors:
   - "dendi85"
----
-
 ---
 
 Today, a mid-sized update is being released for Garry's Mod, which brings one particularly surprising change.

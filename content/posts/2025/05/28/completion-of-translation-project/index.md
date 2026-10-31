@@ -1,15 +1,11 @@
 ---
 title: "Completion of Translation Project"
 date: 2025-05-28
-draft: false
 description: "Completion of Translation Project"
-summary: "With the beginning of the anglicization process of the Alium community, there arose a need to translate announcements and current concepts in the Steam group."
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Localization", "Project Work", "Lakur Court", "Steam"]
 authors:
   - "sereganeon"
----
-
 ---
 
 With the beginning of the anglicization process of the Alium community, there arose a need to translate announcements and current concepts in the Steam group. In this regard, on March 1st, a translation project was initiated, resulting in all announcements and articles being translated into English. The current concepts were codified, took on a slightly different form, and were also fully translated into English.

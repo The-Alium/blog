@@ -2,12 +2,11 @@
 title: "The Alium Results in 2025"
 date: 2025-12-31
 description: "2025 has come to an end"
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Divisions", "Localization", "Video"]
+series: ["The Alium Results"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 2025 has come to an end. As is tradition, we are publishing a video report on what happened in the community during this time. The year 2025 was marked by the formation of three units within The Alium Community: Starry Steam, Renaissance, and the external unit Pika Software. YouTube rolled out multi-language audio feature, making it possible to revive Starry Steam and produce videos in multiple languages. Another stage of the community’s Anglicization also took place in 2025: all current concepts and announcements received official English translations. Earlier, current concepts had also been codified and simplified.

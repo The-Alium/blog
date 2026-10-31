@@ -1,14 +1,11 @@
 ---
 title: "The Best-Selling PC Exclusive of All Time"
 date: 2024-09-18
-draft: false
 description: "Garry’s Mod has officially been recognized by Guinness World Records as one of the best-selling PC exclusives in history, surpassing major industry titles."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Garry Newman"]
 authors:
   - "s8cli"
----
-
 ---
 
 Recently, on September 12, the gaming community was shaken by unexpected news published on the official Garry’s Mod Twitter page, where it was clearly stated that the game holds the official status of one of the best-selling PC exclusives in history. This news might not have garnered such widespread attention if it weren't for one significant detail—the game has been included in the Guinness World Records.

@@ -1,15 +1,11 @@
 ---
 title: "Редакции Zombie Plague вступили в официальную версию"
 date: 2020-03-07
-draft: false
 description: "Редакции Zombie Plague вступили в официальную версию"
-summary: "Редакции Zombie Plague вступили в официальную версию"
-tags: ["Новости"]
 categories: ["Новости Сообщества"]
+tags: ["Zombie Plague", "Игровые режимы", "Локализация", "Мастерская Steam"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 Наконец-то, после нескольких месяцев разработки совместно с The Fire Fuchs, редакции баланса, переводы на украинский и русский языки, некоторые фишки, исправление ошибок перекочевали в официальную Steam Workshop версию Zombie Plague.
@@ -18,4 +14,4 @@ authors:
 
 Специально для игрового режима была рассчитана четвертая версия баланса и анализ характеристики оружия из Half-Life 2. Спасибо всем за вашу результативность в тестах, ну или же за вашу нерезультативность.
 
-> [Zombie Plague — Игровой режим в мастерской](https://steamcommunity.com/sharedfiles/filedetails/?id=1115250691)
+> [Zombie Plague — Игровой режим в мастерской](https://steamcommunity.com/sharedfiles/filedetails/?id=1115250691)<br/>

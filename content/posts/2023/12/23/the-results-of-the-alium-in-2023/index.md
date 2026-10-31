@@ -1,15 +1,12 @@
 ---
 title: "The Results of The Alium in 2023"
 date: 2023-12-23
-draft: false
 description: "The Results of The Alium in 2023"
-summary: "Record about the community results in year 2023"
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Video"]
+series: ["The Alium Results"]
 authors:
   - "s8cli"
----
-
 ---
 
 Dear Alium members, another year has come to an end. This year has seen many joyful as well as sorrowful events. Numerous significant news items have been announced both within Alium and in Garry's Mod itself.

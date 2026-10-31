@@ -1,16 +1,11 @@
 ---
-
 title: "Cancellation of Several Concepts in the Community"
 date: 2021-03-10
-draft: false
 description: "Cancellation of Several Concepts in the Community"
-summary: "Cancellation of Several Concepts in the Community"
-tags: ["News"]
 categories: ["Community Corner"]
+tags: ["Community Structure", "Tournaments", "Lakur Court", "Moderation", "Discord"]
 authors:
-
-- "erick-maksimets"
-
+  - "erick-maksimets"
 ---
 
 As a result of several days of discussions, the current moderators of The Alium have decided to discontinue support for the Loyalty System.
@@ -24,5 +19,3 @@ Additionally, at the last meeting of the Lakur Court, the fate of the Tournament
 A reorganization of the moderator (and officer?) team is expected soon to help the community restore its previous activity in project work.
 
 Furthermore, the community's Discord server has recently been opened to all interested parties, with standard permissions to write in the lower chat. The link is pinned in the description. A new table detailing positions within the community will be added to the description later.
-
-> 

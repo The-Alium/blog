@@ -2,12 +2,11 @@
 title: "April 2026 Update in Garry's Mod and s&box Release"
 date: 2026-04-29
 description: "s&box has been released, and alongside it Garry's Mod received its April update"
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["s&box", "Facepunch", "Garry Newman", "Source Engine"]
+series: ["Garry's Mod Updates"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 The game developed by Facepunch, positioned as the spiritual successor to Garry's Mod under the name s&box, officially released on April 28 in accordance with its development timeline. Before the official release, many players who had access to early builds lost the ability to play and were required to purchase the game at full price.

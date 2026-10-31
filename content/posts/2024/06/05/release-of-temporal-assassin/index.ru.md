@@ -1,13 +1,11 @@
 ---
 title: "Релиз Temporal Assassin"
 date: 2024-06-05
-draft: false
 description: "Спустя четыре года после первого публичного релиза игровой режим Temporal Assassin от Magenta вышел в мастерскую Steam."
-tags: ["Новости", "Глобальщина"]
+categories: ["GMod Новости"]
+tags: ["Игровые режимы", "Half-Life", "Мастерская Steam"]
 authors:
-  - "DenDi85"
----
-
+  - "dendi85"
 ---
 
 Третьего июня, спустя четыре года после первого публичного релиза на других площадках, в мастерскую Steam вышел игровой режим Temporal Assassin, созданный разработчиком Magenta из команды Digitally Occult.

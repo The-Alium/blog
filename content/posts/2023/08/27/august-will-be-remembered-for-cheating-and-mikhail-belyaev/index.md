@@ -1,15 +1,11 @@
 ---
 title: "August Will Be Remembered for Cheating and Mikhail Belyaev"
 date: 2023-08-27
-draft: false
 description: "August Will Be Remembered for Cheating and Mikhail Belyaev"
-summary: "Incredible detective story about cheating and betrayal"
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Cheating", "Sanctions", "Divisions", "Trouble in Terrorist Town", "Video"]
 authors:
   - "erick-maksimets"
----
-
 ---
 
 At the beginning of August, on the third day of the month, we launched a Trouble in Terrorist Town event organized by s4molet1k for a long-term game. This event could have been just another unremarkable occurrence; however, that day was destined to become significant in the history of the Alium community due to heated discussions and the resonance of the situation.

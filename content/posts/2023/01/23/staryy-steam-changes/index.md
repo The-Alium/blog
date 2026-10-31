@@ -1,11 +1,9 @@
 ---
 title: "Staryy Steam changes"
 date: 2023-01-23
-draft: false
 description: "Staryy Steam changes"
-summary: "Summary of Staryy Steam changes"
-tags: ["news"]
 categories: ["Community Corner"]
+tags: ["Divisions", "Moderation", "Community Structure", "Sanctions", "Alium Nook"]
 authors:
   - "erick-maksimets"
 ---

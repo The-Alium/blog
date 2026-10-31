@@ -1,15 +1,11 @@
 ---
 title: "The public release of GWater 2 version 1.0"
 date: 2025-01-13
-draft: false
 description: "The public release of GWater 2 version 1.0"
-summary: "More than a year and a half ago, in June 2023, Meetric began from scratch the development and rethinking of his previous addon that added dynamic water."
-tags: ["news"]
-categories: ["World Watch"]
+categories: ["GMod News"]
+tags: ["Steam Workshop"]
 authors:
   - "dendi85"
----
-
 ---
 
 More than a year and a half ago, in June 2023, Meetric began from scratch the development and rethinking of his previous addon that added dynamic water. For a long time, the progress of the development was regularly published on his YouTube channel, and access to the early version was provided through Patreon and Boosty. On January 11th, 2025, the final version of GWater 2 was released in the workshop.
