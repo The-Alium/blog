@@ -8,16 +8,16 @@ description: "The Alium is a Garry's Mod and other Source games community based 
 | ------------------------------ | -------------------- | ------------------------------ | -------------------- | -------------------- |
 | denomito                       | Officer              | Frontfire                      | Renaissance          | Until 31/12/2026     |
 | argax us                       | Artist               | Creating various media content | Renaissance          | —                    |
-| FosFor                         | Developer            | Publicist                      | Renaissance          | Until 30/10/2026     |
+| FosFor                         | Developer            | Publicist                      | Renaissance          | Until 31/12/2026     |
 | Winterskin                     | Organizer            | Organizing various events      | Renaissance          | —                    |
 
 
 ### Starry Steam Unit![teee](unit_starry_steam.png)
 | Name                           | Position             | Working on                     | Unit                 | Work Period          |
 | ------------------------------ | -------------------- | ------------------------------ | -------------------- | -------------------- |
-| Erick_Maksimets                | Officer              | Zombie Plague + Videos         | Starry Steam         | Until 31/10/2026     |
-| DenDi85                        | Developer            | Zombie Plague                  | Starry Steam         | —                    |
-| n1clude                        | Developer            | Zombie Plague                  | Starry Steam         | Until 30/11/2026     |
+| Erick_Maksimets                | Officer              | -                              | Starry Steam         | Until 28/11/2026     |
+| DenDi85                        | Developer            | -                              | Starry Steam         | Until 28/11/2026     |
+| n1clude                        | Developer            | -                              | Starry Steam         | Until 28/11/2026     |
 
 ### Pika Software External Unit![teee](unit_pika_software.png)
 | Name                           | Position             | Working on                     | Unit                 | Work Period          |
